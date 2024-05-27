@@ -9,9 +9,9 @@ const doelstellingen = {
     },
     "1.2 Opstellen van een business model canvas": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Business Essentials",
       "bewijs": ""
     },
     "1.3 Beschrijven en modelleren van businessprocessen": {
@@ -32,9 +32,9 @@ const doelstellingen = {
   "2 ANALYSEREN - Je identificeert de functionele en niet-functionele eisen van een klant en vertaalt deze naar heldere documenten en begrijpbare schema's.": {
     "2.1 Afleiden van functionele en niet-functionele eisen uit een opdracht en interview": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Requirements Analysis",
       "bewijs": ""
     },
     "2.2 Functionele en niet-functionele eisen verwerken en rangschikken als startpunt van een (Agile) project": {
@@ -48,16 +48,16 @@ const doelstellingen = {
   "3 ANALYSEREN - Je onderzoekt en evalueert mogelijke oplossingen en verbeteringen, en maakt onderbouwde keuzes voor platformen, software en hardware.": {
     "3.1 Onderzoeken en selecteren van passende frameworks, tools en libraries": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "AR rondleiding",
       "bewijs": ""
     },
     "3.2 Analyseren en beoordelen van (semi-)out-of-the-box (deel)oplossingen voor functionaliteiten": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Grow More",
       "bewijs": ""
     },
     "3.3 Exploreren en analyseren van data via wetenschappelijke en statistische methoden": {
@@ -76,9 +76,9 @@ const doelstellingen = {
     },
     "3.5 Selecteren van de meest geschikte datavisualisaties voor beheer en beslissingsondersteuning": {
       "type": ["app", "ai", "iot"],
-      "status": "",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "MobiLab",
       "bewijs": ""
     },
     "3.6 Onderbouwd selecteren van IoT protocollen en componenten": {
@@ -127,9 +127,9 @@ const doelstellingen = {
     },
     "4.3 Ontwerpen van een proof-of-concept met aandacht voor een zo accuraat mogelijke reflectie van de reële oplossing": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "AR rondleiding",
       "bewijs": ""
     },
     "4.4 Opstellen van de relevante UML diagramma ter ondersteuning van ontwikkeling en testing": {
@@ -162,9 +162,9 @@ const doelstellingen = {
     },
     "4.8 Klaarmaken en opschonen van data voor AI toepassingen": {
       "type": ["app", "ai"],
-      "status": "",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Race to the Future",
       "bewijs": ""
     },
     "4.9 Opmaken van smart environments/domotica diagramma en tekeningen": {
@@ -192,39 +192,39 @@ const doelstellingen = {
   "5 ONTWERPEN - Je toetst je oplossingen aan de vereisten van de klant doorheen het ontwerp- en ontwikkelproces.": {
     "5.1 Deelnemen aan en leiden van sprint reviews en demo meetings": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "MobiLab",
       "bewijs": ""
     },
     "5.2 Terugkoppelen naar de klant rond gemaakte conceptuele en ontwerpgrelateerde keuzes": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Grow More",
       "bewijs": ""
     }
   },
   "6 BOUWEN - Je realiseert en ondersteunt de integratie en implementatie van je oplossingen en bijbehorende datastructuren of procesaanpassingen in de bestaande bedrijfsomgeving.": {
     "6.1 Gebruik van Git": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "MobiLab",
       "bewijs": ""
     },
     "6.2 Uitbouw en gebruik van continuous delivery / deployment": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Portfolio",
       "bewijs": ""
     },
     "6.3 Opleveren van een container image, ondersteund door environment variables": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Linux Webservices",
       "bewijs": ""
     },
     "6.4 Uitbouw en gebruik van continuous integration met testing": {
@@ -266,16 +266,16 @@ const doelstellingen = {
   "7 BOUWEN - Je bouwt en ontwikkelt oplossingen met aandacht voor gemaakte afspraken en reeds bestaande bouwstenen of oplossingen. Je maakt hierbij gebruik van standaarden, patronen en frameworks.": {
     "7.1 Bouwen van REST API's met een modern framework": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Java Advanced",
       "bewijs": ""
     },
     "7.2 Gebruiken van een ORM framework": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Web Applications in PHP",
       "bewijs": ""
     },
     "7.3 Bouwen van full stack webapplicatie met een modern framework": {
@@ -294,23 +294,23 @@ const doelstellingen = {
     },
     "7.5 Toepassen van machine learning algoritmen": {
       "type": ["app", "ai"],
-      "status": "",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Race to the Future",
       "bewijs": ""
     },
     "7.6 Bouwen van een cross-platform mobile applicatie": {
       "type": ["app"],
-      "status": "",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "AR rondleiding",
       "bewijs": ""
     },
     "7.7 Toevoegen van augmented reality functionaliteiten aan applicaties": {
       "type": ["app"],
-      "status": "",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "AR rondleiding",
       "bewijs": ""
     },
     "7.8 Bouwen van een single page applicatie inclusief application state": {
@@ -343,9 +343,9 @@ const doelstellingen = {
     },
     "7.12 Opbouwen van dashboards en datavisualisaties ter ondersteuning van beslissingen en management": {
       "type": ["app", "ai", "iot"],
-      "status": "",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "MobiLab",
       "bewijs": ""
     },
     "7.13 Programmeren van FPGA's, gebruik makend van combinatorische en sequentiële schakelingen": {
@@ -466,23 +466,23 @@ const doelstellingen = {
   "9 BEHEREN - Je installeert, configureert, beveiligt en optimaliseert oplossingen.": {
     "9.1 Installeren en configureren van webserver stacks": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Linux Webservices",
       "bewijs": ""
     },
     "9.2 Opzetten van container virtualisatie voor software": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Linux Webservices",
       "bewijs": ""
     },
     "9.3 Instellen en beschrijven van HTTPS en andere basic security building blocks": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "DevOps & Security",
       "bewijs": ""
     },
     "9.4 Opzetten van data automatisatie processen om analyseservices aan te sturen": {
@@ -501,9 +501,9 @@ const doelstellingen = {
     },
     "9.6 Configureren en beschrijven van de DNS functionaliteiten in verschillende soorten netwerken": {
       "type": ["app", "ai", "ccs"],
-      "status": "",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "DevOps & Security",
       "bewijs": ""
     },
     "9.7 Programmatie en configuratie van smart environment componenten en protocollen": {
@@ -552,9 +552,9 @@ const doelstellingen = {
   "10 BEHEREN - Je evalueert en implementeert passende maatregelen die nodig zijn om oplossingen blijvend te beveiligen tegen risico's.": {
     "10.1 Gebruiken van correcte weerstanden en andere veiligheidsmaatregelen tijdens het opbouwen van een schakeling": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "IoT Essentials",
       "bewijs": ""
     },
     "10.2 Beveiligen van webapplicaties en API's": {
@@ -617,9 +617,9 @@ const doelstellingen = {
   "11 BEHEREN - Je doet onderhoud, voert aanpassingen door en lost problemen op een systematische manier op zodat oplossingen blijven beantwoorden aan serviceniveaus en aan de veranderende behoeften van een organisatie.": {
     "11.1 Troubleshooten en aanpassen van bestaande software": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "MobiLab",
       "bewijs": ""
     },
     "11.2 Controleren en troubleshooten van smart environment en IoT cloud architecturen": {
@@ -654,51 +654,51 @@ const doelstellingen = {
   "12 COMMUNICEREN - Je communiceert doeltreffend mondeling en schriftelijk in het Nederlands en een vreemde taal, rekening houdend met je doelpubliek.": {
     "12.1 Opstellen van een kort paper met correcte bronvermelding": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "IT Essentials",
       "bewijs": ""
     },
     "12.2 Mondeling presenteren, demonstreren, toelichten en verantwoorden van resultaten": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Requirements Analysis",
       "bewijs": ""
     },
     "12.3 Op een professionele manier contact leggen met bedrijven": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Professional Skills 2",
       "bewijs": ""
     },
     "12.4 Interviewen van een klant of opdrachtgever en dit documenteren": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "MobiLab",
       "bewijs": ""
     },
     "12.5 Mondeling en schriftelijk communiceren in het kader van een sollicitatie": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Professional Skills 2",
       "bewijs": ""
     },
     "12.6 Luisteren (B2), spreken (B2), lezen (B2) en schrijven (A2-B1) in het Engels": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Engels",
       "bewijs": ""
     },
     "12.7 Luisteren, spreken, lezen en schrijven in het Frans of een niet-moedertaal": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Engels",
       "bewijs": ""
     }
   },
@@ -735,25 +735,25 @@ const doelstellingen = {
   "14 COMMUNICEREN - Je leidt personen zowel individueel als in groep op en ondersteunt hen.": {
     "14.1 Overbrengen van IT-kennis aan een groep personen": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Professional Skills 2",
       "bewijs": ""
     },
     "14.2 Ondersteunen van gebruikers in het eerste of continue gebruik van IT": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Professional Skills 2",
       "bewijs": ""
     }
   },
   "15 ONDERNEMEN - Je bent ondernemend, ook als deel van een grotere organisatie.": {
     "15.1 Proactief eigen ideeën aanbrengen": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Business Essentials",
       "bewijs": ""
     },
     "15.2 Snel en effectief reageren op elke situatie met kansen en uitdagingen": {
@@ -765,9 +765,9 @@ const doelstellingen = {
     },
     "15.3 Als intrapreneur verantwoordelijkheid en eigenaarschap opnemen": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "MobiLab",
       "bewijs": ""
     }
   },
@@ -781,9 +781,9 @@ const doelstellingen = {
     },
     "16.2 Beschrijven van de toekomstige trends binnen het eigen vakgebied": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Tech Talk: WebGL",
       "bewijs": ""
     }
   },
@@ -813,39 +813,39 @@ const doelstellingen = {
   "18 ONDERNEMEN - Je stelt de klant centraal.": {
     "18.1 Pitchen van een idee voor klanten": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Grow More",
       "bewijs": ""
     },
     "18.2 Bewust rekening houden met het niveau van IT kennis van een klant": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Grow More",
       "bewijs": ""
     }
   },
   "19 PROJECTMATIG WERKEN - Je pakt opdrachten planmatig en projectmatig aan, rekening houdend met budget, middelen en tijd.": {
     "19.1 Planmatig en gedocumenteerd uitvoeren van een project met een duurtijd van meerdere maanden": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Grow More",
       "bewijs": ""
     },
     "19.2 Toepassen en documenteren van de Agile methodologie": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Grow More",
       "bewijs": ""
     },
     "19.3 Regelmatig rapporteren over projectvoortgang": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "MobiLab",
       "bewijs": ""
     }
   },
@@ -866,9 +866,9 @@ const doelstellingen = {
     },
     "20.3 Actief deelnemen aan en leiden van vergaderingen": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "MobiLab",
       "bewijs": ""
     }
   },
@@ -896,9 +896,9 @@ const doelstellingen = {
     },
     "21.4 Tonen van een permanente IT security awareness tijdens het werken": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "MobiLab",
       "bewijs": ""
     }
   },
@@ -912,16 +912,16 @@ const doelstellingen = {
     },
     "22.2 Tonen van een open blik naar de wereld en andere culturen": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "BIP Estland",
       "bewijs": ""
     },
     "22.3 Faciliteren van samenwerkingen met andere culturen": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "BIP Estland",
       "bewijs": ""
     }
   },
@@ -935,25 +935,25 @@ const doelstellingen = {
     },
     "23.2 Maken van een neutrale analyse bij fouten, tegenslagen en mislukkingen zonder verantwoordelijkheid uit de weg te gaan": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Grow More",
       "bewijs": ""
     }
   },
   "24 PROFESSIONEEL HANDELEN - Je doet aan levenslang leren en roept tijdig externe deskundigheid in.": {
     "24.1 Zelfstandig bijkomende opleidingen kiezen en succesvol afleggen": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Udemy Google Ads Cursus",
       "bewijs": ""
     },
     "24.2 Proactief externe deskundigheid inroepen wanneer nodig": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Tech Talk: MACH architectuur",
       "bewijs": ""
     }
   }
