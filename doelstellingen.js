@@ -12,7 +12,7 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "Business Essentials",
-      "bewijs": ""
+      "bewijs": "<img src='assets/1.2/punten-sem1-2324.png' alt='Business Essentials'>"
     },
     "1.3 Beschrijven en modelleren van businessprocessen": {
       "type": ["alles", "ai"],
@@ -35,7 +35,7 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "Requirements Analysis",
-      "bewijs": ""
+      "bewijs": "<img src='assets/1.2/punten-sem1-2324.png' alt='Rrequirements Analysis'>"
     },
     "2.2 Functionele en niet-functionele eisen verwerken en rangschikken als startpunt van een (Agile) project": {
       "type": ["alles"],
@@ -225,7 +225,7 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "Linux Webservices",
-      "bewijs": ""
+      "bewijs": "<img src='assets/1.2/punten-sem1-2324.png' alt='Rrequirements Analysis'>"
     },
     "6.4 Uitbouw en gebruik van continuous integration met testing": {
       "type": ["alles"],
@@ -266,7 +266,7 @@ const doelstellingen = {
   "7 BOUWEN - Je bouwt en ontwikkelt oplossingen met aandacht voor gemaakte afspraken en reeds bestaande bouwstenen of oplossingen. Je maakt hierbij gebruik van standaarden, patronen en frameworks.": {
     "7.1 Bouwen van REST API's met een modern framework": {
       "type": ["alles"],
-      "status": "d",
+      "status": "ip",
       "verified": "",
       "project": "Java Advanced",
       "bewijs": ""
@@ -276,7 +276,7 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "Web Applications in PHP",
-      "bewijs": ""
+      "bewijs": "<img src='assets/1.2/punten-sem1-2324.png' alt='Rrequirements Analysis'>"
     },
     "7.3 Bouwen van full stack webapplicatie met een modern framework": {
       "type": ["app", "ai"],
@@ -469,21 +469,21 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "Linux Webservices",
-      "bewijs": ""
+      "bewijs": "<img src='assets/1.2/punten-sem1-2324.png' alt='Rrequirements Analysis'>"
     },
     "9.2 Opzetten van container virtualisatie voor software": {
       "type": ["alles"],
       "status": "d",
       "verified": "",
       "project": "Linux Webservices",
-      "bewijs": ""
+      "bewijs": "<img src='assets/1.2/punten-sem1-2324.png' alt='Rrequirements Analysis'>"
     },
     "9.3 Instellen en beschrijven van HTTPS en andere basic security building blocks": {
       "type": ["alles"],
       "status": "d",
       "verified": "",
       "project": "DevOps & Security",
-      "bewijs": ""
+      "bewijs": "<img src='assets/1.2/punten-sem1-2324.png' alt='Rrequirements Analysis'>"
     },
     "9.4 Opzetten van data automatisatie processen om analyseservices aan te sturen": {
       "type": ["ai"],
@@ -504,7 +504,7 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "DevOps & Security",
-      "bewijs": ""
+      "bewijs": "<img src='assets/1.2/punten-sem1-2324.png' alt='Rrequirements Analysis'>"
     },
     "9.7 Programmatie en configuratie van smart environment componenten en protocollen": {
       "type": ["iot"],
@@ -664,7 +664,7 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "Requirements Analysis",
-      "bewijs": ""
+      "bewijs": "<img src='assets/1.2/punten-sem1-2324.png' alt='Rrequirements Analysis'>"
     },
     "12.3 Op een professionele manier contact leggen met bedrijven": {
       "type": ["alles"],
