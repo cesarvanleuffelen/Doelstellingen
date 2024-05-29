@@ -202,7 +202,7 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "Grow More",
-      "bewijs": ""
+      "bewijs": "Grow More is een project waar we een game gemaakt hebben voor kinderen met een mentale/fysieke beperking. Dit was mijn eerste project samen met Toon dat we zelf moesten opstarten. Dit was geen enkel probleem want we hebben direct contact opgenomen met onze opdracht geven en een eerste meeting opgezet. Zo konden we horen wat de verwachtingen waren, wat het project juist was en waar we zeker rekening mee moesten houden naar onze doelgroep toe. Na die eerste meeting hadden we afgesproken om met enkele game concepten op te komen. Dit deden we dan ook en zo kwamen we terecht op een 9-tal concepten die we voorlegde aan onze klant. Na het overlopen van al deze concepten zijn we gestrand op het concept van het laten groeien van planten aan de hand van erop te klikken. Toen we wisten wat voor soort game we gingen maken hebben we een ontwerp gemaakt van hoe het spel er zou gaan uitzien. Hier stemde onze opdrachtgever vrijwel direct mee in. Onderaan kan je een screenshot zien van hoe het ontwerp voor de game eruit zag met een link naar de figma pagina. <br><img src='assets/5.2/ontwerp_gm.jpg' alt='grow more ontwerp'> <br> <a href='https://www.figma.com/proto/7drJsDmSQoWCn0zjyX5P3W/2324-MOBI-09-Game?node-id=3-3&t=24pfl4N4aVTDnuMo-1' target='_blank'>Link naar Figma bord</a>"
     }
   },
   "6 BOUWEN - Je realiseert en ondersteunt de integratie en implementatie van je oplossingen en bijbehorende datastructuren of procesaanpassingen in de bestaande bedrijfsomgeving.": {
@@ -211,7 +211,7 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "MobiLab",
-      "bewijs": "Grow More is een project waar we een game gemaakt hebben voor kinderen met een mentale/fysieke beperking. Dit was mijn eerste project samen met Toon dat we zelf moesten opstarten. Dit was geen enkel probleem want we hebben direct contact opgenomen met onze opdracht geven en een eerste meeting opgezet. Zo konden we horen wat de verwachtingen waren, wat het project juist was en waar we zeker rekening mee moesten houden naar onze doelgroep toe. Na die eerste meeting hadden we afgesproken om met enkele game concepten op te komen. Dit deden we dan ook en zo kwamen we terecht op een 9-tal concepten die we voorlegde aan onze klant. Na het overlopen van al deze concepten zijn we gestrand op het concept van het laten groeien van planten aan de hand van erop te klikken. Toen we wisten wat voor soort game we gingen maken hebben we een ontwerp gemaakt van hoe het spel er zou gaan uitzien. Hier stemde onze opdrachtgever vrijwel direct mee in. Onderaan kan je een screenshot zien van hoe het ontwerp voor de game eruit zag met een link naar de figma pagina. <br><img src='assets/5.2/ontwerp_gm.jpg' alt='grow more ontwerp'> <br> <a href='https://www.figma.com/proto/7drJsDmSQoWCn0zjyX5P3W/2324-MOBI-09-Game?node-id=3-3&t=24pfl4N4aVTDnuMo-1' target='_blank'>Link naar Figma bord</a>"
+      "bewijs": ""
     },
     "6.2 Uitbouw en gebruik van continuous delivery / deployment": {
       "type": ["alles"],
