@@ -913,14 +913,14 @@ const doelstellingen = {
     "22.2 Tonen van een open blik naar de wereld en andere culturen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "BIP Estland",
       "bewijs": ""
     },
     "22.3 Faciliteren van samenwerkingen met andere culturen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "BIP Estland",
       "bewijs": ""
     }
@@ -928,16 +928,16 @@ const doelstellingen = {
   "23 PROFESSIONEEL HANDELEN - Je handelt ethisch, deontologisch en maatschappelijk verantwoord en neemt verantwoordelijkheid voor resultaten.": {
     "23.1 Rekening houden met de ecologische, sociale en maatschappelijke impact van oplossingen en werkmethoden": {
       "type": ["alles"],
-      "status": "td",
-      "verified": "",
-      "project": "",
-      "bewijs": ""
+      "status": "ip",
+      "verified": "Jochen",
+      "project": "BIP Estland",
+      "bewijs": " -- Presentatie of documentatie toevoegen -- "
     },
     "23.2 Maken van een neutrale analyse bij fouten, tegenslagen en mislukkingen zonder verantwoordelijkheid uit de weg te gaan": {
       "type": ["alles"],
       "status": "d",
       "verified": "",
-      "project": "Grow More",
+      "project": "Grow More, PS2",
       "bewijs": ""
     }
   },
@@ -945,7 +945,7 @@ const doelstellingen = {
     "24.1 Zelfstandig bijkomende opleidingen kiezen en succesvol afleggen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "Udemy Google Ads Cursus",
       "bewijs": ""
     },
