@@ -2,9 +2,9 @@ const doelstellingen = {
   "1 ANALYSEREN - Je onderzoekt en beschrijft de relevante bedrijfscontext, bedrijfsprocessen en economische randvoorwaarden waarin een oplossing of innovatie moet bijdragen tot waardecreatie.": {
     "1.1 Beschrijven van relevante bedrijfseconomische contexten vanuit verschillende invalshoeken.": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "BPMN vervangopdracht",
       "bewijs": ""
     },
     "1.2 Opstellen van een business model canvas": {
@@ -16,16 +16,16 @@ const doelstellingen = {
     },
     "1.3 Beschrijven en modelleren van businessprocessen": {
       "type": ["alles", "ai"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "BPMN vervangopdracht",
       "bewijs": ""
     },
     "1.4 Optimaliseren van businessprocessen": {
       "type": ["app", "ai"],
-      "status": "",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "BPMN vervangopdracht",
       "bewijs": ""
     }
   },
@@ -39,9 +39,9 @@ const doelstellingen = {
     },
     "2.2 Functionele en niet-functionele eisen verwerken en rangschikken als startpunt van een (Agile) project": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "Requirements Analysis & project week",
       "bewijs": ""
     }
   },
@@ -113,16 +113,16 @@ const doelstellingen = {
   "4 ONTWERPEN - Je vertaalt eisen, veranderingsbehoeften en gegevens in kwaliteitsvolle conceptuele modellen en datastructuren. Je houdt daarbij rekening met standaarden, flexibiliteit, stabiliteit, volledigheid en efficiëntie.": {
     "4.1 Anticipeert toekomstige veranderingen en ondersteunt hierbij het change management": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "Grow More",
       "bewijs": ""
     },
     "4.2 Opdelen van een conceptuele totaaloplossing in kleinere items of deeloplossingen": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "LABflow",
       "bewijs": ""
     },
     "4.3 Ontwerpen van een proof-of-concept met aandacht voor een zo accuraat mogelijke reflectie van de reële oplossing": {
@@ -134,16 +134,16 @@ const doelstellingen = {
     },
     "4.4 Opstellen van de relevante UML diagramma ter ondersteuning van ontwikkeling en testing": {
       "type": ["app", "ai"],
-      "status": "",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "LABflow",
       "bewijs": ""
     },
     "4.5 Onderbouwd gebruik maken van design patterns": {
       "type": ["app", "ai"],
-      "status": "",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Java Advanced",
       "bewijs": ""
     },
     "4.6 Verzamelen en transformeren van data om deze toegankelijk te maken voor andere toepassingen": {
@@ -194,14 +194,14 @@ const doelstellingen = {
       "type": ["alles"],
       "status": "d",
       "verified": "",
-      "project": "Grow More",
+      "project": "Grow More & Pikassa Scrum master",
       "bewijs": "Voor het project van Grow More, waar we een game voor kinderen met een mentale/fysieke beperking, koppelde we na elke sprint van 2 weken terug naar onze klant om te bespreken wat de vorderingen waren. De eerste keer kregen we nog al wat veranderingen door die zorgde voor veel werk aan onze zeide. Dit kwam vooral omdat we al snel hadden verder gewerkt zonder tussenin te stoppen voor feedback. Onze fout dus! Daarna hebben we stapgewijs het project verder gezet en telkens niet de ver voorop gelopen en was de feedback telkens welkom en gemakkelijk implementeerbaar. <br> <a href='https://github.com/cesarvanleuffelen/2324-MOBI-009-Game-voor-kinderen-met-een-beperking.git'>Link naar Github</a>"
     },
     "5.2 Terugkoppelen naar de klant rond gemaakte conceptuele en ontwerpgrelateerde keuzes": {
       "type": ["alles"],
       "status": "d",
       "verified": "",
-      "project": "Grow More",
+      "project": "Grow More & LABflow",
       "bewijs": "Grow More is een project waar we een game gemaakt hebben voor kinderen met een mentale/fysieke beperking. Dit was mijn eerste project samen met Toon dat we zelf moesten opstarten. Dit was geen enkel probleem want we hebben direct contact opgenomen met onze opdracht geven en een eerste meeting opgezet. Zo konden we horen wat de verwachtingen waren, wat het project juist was en waar we zeker rekening mee moesten houden naar onze doelgroep toe. Na die eerste meeting hadden we afgesproken om met enkele game concepten op te komen. Dit deden we dan ook en zo kwamen we terecht op een 9-tal concepten die we voorlegde aan onze klant. Na het overlopen van al deze concepten zijn we gestrand op het concept van het laten groeien van planten aan de hand van erop te klikken. Toen we wisten wat voor soort game we gingen maken hebben we een ontwerp gemaakt van hoe het spel er zou gaan uitzien. Hier stemde onze opdrachtgever vrijwel direct mee in. Onderaan kan je een screenshot zien van hoe het ontwerp voor de game eruit zag met een link naar de figma pagina. <br><img src='assets/5.2/ontwerp_gm.jpg' alt='grow more ontwerp'> <br> <a href='https://www.figma.com/proto/7drJsDmSQoWCn0zjyX5P3W/2324-MOBI-09-Game?node-id=3-3&t=24pfl4N4aVTDnuMo-1' target='_blank'>Link naar Figma bord</a>"
     }
   },
@@ -215,9 +215,9 @@ const doelstellingen = {
     },
     "6.2 Uitbouw en gebruik van continuous delivery / deployment": {
       "type": ["alles"],
-      "status": "d",
+      "status": "ip",
       "verified": "",
-      "project": "Portfolio",
+      "project": "LABflow",
       "bewijs": ""
     },
     "6.3 Opleveren van een container image, ondersteund door environment variables": {
@@ -229,16 +229,16 @@ const doelstellingen = {
     },
     "6.4 Uitbouw en gebruik van continuous integration met testing": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "LABflow",
       "bewijs": ""
     },
     "6.5 Opleveren van een artifact": {
       "type": ["app", "ai"],
-      "status": "",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "LABflow",
       "bewijs": ""
     },
     "6.6 Integreren van dashboards in bestaande applicaties": {
@@ -280,16 +280,16 @@ const doelstellingen = {
     },
     "7.3 Bouwen van full stack webapplicatie met een modern framework": {
       "type": ["app", "ai"],
-      "status": "",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "MobiLab & LABflow",
       "bewijs": ""
     },
     "7.4 Uitwerken van een businesscase in een ERP/CRM-pakket": {
       "type": ["app", "ai"],
-      "status": "",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "BPMN vervangopdracht",
       "bewijs": ""
     },
     "7.5 Toepassen van machine learning algoritmen": {
@@ -343,10 +343,10 @@ const doelstellingen = {
     },
     "7.12 Opbouwen van dashboards en datavisualisaties ter ondersteuning van beslissingen en management": {
       "type": ["app", "ai", "iot"],
-      "status": "d",
+      "status": "ip",
       "verified": "",
-      "project": "MobiLab",
-      "bewijs": "Tijdens het project voor MobiLab & Care waar we een mobiele applicatie en online webportaal bouwden voor het helpen revalideren van mensen, stond ik in voor ondermeer in voor het ontwerpen en designen van het dashboard. Ik heb natuurlijk geen kennes van wat een dokter allemaal moet weten voor een patiënt correct te kunnen opvolgen. Daarom zijn we met enkele studenten gaan praten met de mensen van MobiLab & Care om te bespreken wat een dokter allemaal echt nodig zou hebben. Het belangrijkste voor een dokter om te weten is vooral de vooruitgang van de patiënt en hoevaak de patiënt oefeningen doet. Met deze informatie ben ik dan aan de slag gegaan en heb ik gekozen om volgende grafieken in het dashboard weer te geven: een KPI voor de maximum behaalde hoek (tot nu toe), een lijndiagram om de progressie van de maximum hoek te zien over tijd, een staafdiagram voor de hoeveel oefeningen per dag een patiënt doet en als laatste nog een lijndiagram voor de hoeveelheid tijd een patiënt nodig heeft om een oefening te voltooien. Deze grafieken staan in een mooie interface <br><img src='assets/3.5/dashboard_mobi.jpg' alt='mobilab dashboard'> <br> <a href='https://github.com/Thomas-More-Digital-Innovation/2324-MOBI-012-Monitoringapplicatie-Web-App/blob/main/code/monitoringapplicatie_web_app/lib/pages/web_dashboard_page.dart' target='_blank'>Link naar Github</a>"
+      "project": "Vervangopdracht",
+      "bewijs": ""
     },
     "7.13 Programmeren van FPGA's, gebruik makend van combinatorische en sequentiële schakelingen": {
       "type": ["iot"],
@@ -429,16 +429,16 @@ const doelstellingen = {
   "8 BOUWEN - Je test zowel alle deelaspecten van je oplossing als de integratie op werking, performantie en mogelijke zwakke punten.": {
     "8.1 Uitbouwen en gebruiken van unit & integration testing": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "LABflow",
       "bewijs": ""
     },
     "8.2 Uitbouwen en gebruiken van user testing": {
       "type": ["app", "ai"],
-      "status": "",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "LABflow",
       "bewijs": ""
     },
     "8.3 Uittesten en de kwaliteit evalueren van data modellen en algoritmen": {
@@ -480,9 +480,9 @@ const doelstellingen = {
     },
     "9.3 Instellen en beschrijven van HTTPS en andere basic security building blocks": {
       "type": ["alles"],
-      "status": "d",
+      "status": "ip",
       "verified": "",
-      "project": "DevOps & Security",
+      "project": "DevOps & Security & Routing and Switching",
       "bewijs": "<img src='assets/1.2/punten-sem1-2324.png' alt='Rrequirements Analysis'>"
     },
     "9.4 Opzetten van data automatisatie processen om analyseservices aan te sturen": {
@@ -503,7 +503,7 @@ const doelstellingen = {
       "type": ["app", "ai", "ccs"],
       "status": "d",
       "verified": "",
-      "project": "DevOps & Security",
+      "project": "DevOps & Security & Routing and Switching",
       "bewijs": "<img src='assets/1.2/punten-sem1-2324.png' alt='Rrequirements Analysis'>"
     },
     "9.7 Programmatie en configuratie van smart environment componenten en protocollen": {
@@ -559,16 +559,16 @@ const doelstellingen = {
     },
     "10.2 Beveiligen van webapplicaties en API's": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "LABflow & PHP Laravel",
       "bewijs": ""
     },
     "10.3 Rekening houden met en faciliteren van de toekomstige aanpasbaarheid van applicaties": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "LABflow",
       "bewijs": ""
     },
     "10.4 Implementeren van veilige netwerkverbindingen met relevante technologieën zoals VPN, TLS…": {
@@ -705,30 +705,30 @@ const doelstellingen = {
   "13 COMMUNICEREN - Je onderhoudt bestaande documentatie en stelt nieuwe documentatie op voor oplossingen en systemen, met aandacht voor het passende niveau van detail.": {
     "13.1 Documenteren van eigen gemaakte oplossingen": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "LABflow",
       "bewijs": ""
     },
     "13.2 Aanpassen van bestaande documentatie": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "LABflow",
       "bewijs": ""
     },
     "13.3 Opstellen van installatiehandleidingen": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "LABflow",
       "bewijs": ""
     },
     "13.4 Uitschrijven en aanpassen van testprocedures": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "LABflow",
       "bewijs": ""
     }
   },
@@ -758,9 +758,9 @@ const doelstellingen = {
     },
     "15.2 Snel en effectief reageren op elke situatie met kansen en uitdagingen": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Business Essentials",
       "bewijs": ""
     },
     "15.3 Als intrapreneur verantwoordelijkheid en eigenaarschap opnemen": {
@@ -774,9 +774,9 @@ const doelstellingen = {
   "16 ONDERNEMEN - Je gebruikt innovatieve oplossingen en staat open voor vernieuwende denkwijzen om blijvend te voldoen aan de veranderende behoeften van het bedrijfsleven en de samenleving.": {
     "16.1 Proactief zoeken en consulteren van de state-of-the-art binnen opdrachten en projecten": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Tech Talk: MACH architectuur",
       "bewijs": ""
     },
     "16.2 Beschrijven van de toekomstige trends binnen het eigen vakgebied": {
@@ -790,16 +790,16 @@ const doelstellingen = {
   "17 ONDERNEMEN - Je houdt rekening met economische randvoorwaarden, relevante regelgeving, best practices en bewaakt de toepassing van het kwaliteitsbeleid van de organisatie.": {
     "17.1 Beschrijven en rekening houden met de relevante ITIL practices": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "ITIL vervangopdracht",
       "bewijs": ""
     },
     "17.2 Beschrijven en rekening houden met privacy en GDPR regelgeving": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Security Essentials",
       "bewijs": ""
     },
     "17.3 Beschrijven en rekening houden met technische regelgeving": {
