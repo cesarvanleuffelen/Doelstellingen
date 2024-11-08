@@ -12,7 +12,7 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "Business Essentials",
-      "bewijs": "<img src='assets/1.2/punten-sem1-2324.png' alt='Business Essentials'>"
+      "bewijs": "<img src='assets/OPOs/business-essentials.png' alt='Business Essentials'>"
     },
     "1.3 Beschrijven en modelleren van businessprocessen": {
       "type": ["alles", "ai"],
@@ -35,14 +35,14 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "Requirements Analysis",
-      "bewijs": "<img src='assets/1.2/punten-sem1-2324.png' alt='Rrequirements Analysis'>"
+      "bewijs": "<img src='assets/OPOs/requirements-analysis.png' alt='Rrequirements Analysis'>"
     },
     "2.2 Functionele en niet-functionele eisen verwerken en rangschikken als startpunt van een (Agile) project": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "Requirements Analysis & project week",
-      "bewijs": ""
+      "bewijs": "<img src='assets/OPOs/requirements-analysis.png' alt='Rrequirements Analysis'>"
     }
   },
   "3 ANALYSEREN - Je onderzoekt en evalueert mogelijke oplossingen en verbeteringen, en maakt onderbouwde keuzes voor platformen, software en hardware.": {
@@ -113,7 +113,7 @@ const doelstellingen = {
   "4 ONTWERPEN - Je vertaalt eisen, veranderingsbehoeften en gegevens in kwaliteitsvolle conceptuele modellen en datastructuren. Je houdt daarbij rekening met standaarden, flexibiliteit, stabiliteit, volledigheid en efficiëntie.": {
     "4.1 Anticipeert toekomstige veranderingen en ondersteunt hierbij het change management": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "Grow More",
       "bewijs": ""
@@ -134,17 +134,17 @@ const doelstellingen = {
     },
     "4.4 Opstellen van de relevante UML diagramma ter ondersteuning van ontwikkeling en testing": {
       "type": ["app", "ai"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
-      "project": "LABflow",
-      "bewijs": ""
+      "project": "Requirements Analysis",
+      "bewijs": "<img src='assets/OPOs/requirements-analysis.png' alt='Rrequirements Analysis'>"
     },
     "4.5 Onderbouwd gebruik maken van design patterns": {
       "type": ["app", "ai"],
       "status": "d",
       "verified": "",
       "project": "Java Advanced",
-      "bewijs": ""
+      "bewijs": "<img src='assets/OPOs/java-advanced.png' alt='Java Advanced'>"
     },
     "4.6 Verzamelen en transformeren van data om deze toegankelijk te maken voor andere toepassingen": {
       "type": ["ai"],
@@ -225,7 +225,7 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "Linux Webservices",
-      "bewijs": "<img src='assets/1.2/punten-sem1-2324.png' alt='Rrequirements Analysis'>"
+      "bewijs": "<img src='assets/OPOs/linux-webservices.png' alt='Linux Webservices'>"
     },
     "6.4 Uitbouw en gebruik van continuous integration met testing": {
       "type": ["alles"],
@@ -266,17 +266,17 @@ const doelstellingen = {
   "7 BOUWEN - Je bouwt en ontwikkelt oplossingen met aandacht voor gemaakte afspraken en reeds bestaande bouwstenen of oplossingen. Je maakt hierbij gebruik van standaarden, patronen en frameworks.": {
     "7.1 Bouwen van REST API's met een modern framework": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "Java Advanced",
-      "bewijs": ""
+      "bewijs": "<img src='assets/OPOs/java-advanced.png' alt='Java Advanced'>"
     },
     "7.2 Gebruiken van een ORM framework": {
       "type": ["alles"],
       "status": "d",
       "verified": "",
       "project": "Web Applications in PHP",
-      "bewijs": "<img src='assets/1.2/punten-sem1-2324.png' alt='Rrequirements Analysis'>"
+      "bewijs": "<img src='assets/OPOs/web-applicaties-in-php.png' alt='Web Applications in PHP'>"
     },
     "7.3 Bouwen van full stack webapplicatie met een modern framework": {
       "type": ["app", "ai"],
@@ -469,21 +469,21 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "Linux Webservices",
-      "bewijs": "<img src='assets/1.2/punten-sem1-2324.png' alt='Rrequirements Analysis'>"
+      "bewijs": "<img src='assets/OPOs/linux-webservices.png' alt='Linux Webservices'>"
     },
     "9.2 Opzetten van container virtualisatie voor software": {
       "type": ["alles"],
       "status": "d",
       "verified": "",
       "project": "Linux Webservices",
-      "bewijs": "<img src='assets/1.2/punten-sem1-2324.png' alt='Rrequirements Analysis'>"
+      "bewijs": "<img src='assets/OPOs/linux-webservices.png' alt='Linux Webservices'>"
     },
     "9.3 Instellen en beschrijven van HTTPS en andere basic security building blocks": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
-      "project": "DevOps & Security & Routing and Switching",
-      "bewijs": "<img src='assets/1.2/punten-sem1-2324.png' alt='Rrequirements Analysis'>"
+      "project": "DevOps & Security - Routing & Switching",
+      "bewijs": "<img src='assets/OPOs/devops-security.png' alt='DevOps & Security'><br><img src='assets/OPOs/switching-routing.png' alt='Switching, Routing and Wireless Essentials'>"
     },
     "9.4 Opzetten van data automatisatie processen om analyseservices aan te sturen": {
       "type": ["ai"],
@@ -504,7 +504,7 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "DevOps & Security & Routing and Switching",
-      "bewijs": "<img src='assets/1.2/punten-sem1-2324.png' alt='Rrequirements Analysis'>"
+      "bewijs": "<img src='assets/OPOs/devops-security.png' alt='DevOps & Security'><br><img src='assets/OPOs/switching-routing.png' alt='Switching, Routing and Wireless Essentials'>"
     },
     "9.7 Programmatie en configuratie van smart environment componenten en protocollen": {
       "type": ["iot"],
@@ -555,14 +555,14 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "IoT Essentials",
-      "bewijs": ""
+      "bewijs": "<img src='assets/OPOs/iot-essentials.png' alt='IoT Essentials'>"
     },
     "10.2 Beveiligen van webapplicaties en API's": {
       "type": ["alles"],
       "status": "ip",
       "verified": "",
-      "project": "LABflow & PHP Laravel",
-      "bewijs": ""
+      "project": "LABflow & Web Applications in PHP",
+      "bewijs": "<img src='assets/OPOs/web-applicaties-in-php.png' alt='Web Applications in PHP'>"
     },
     "10.3 Rekening houden met en faciliteren van de toekomstige aanpasbaarheid van applicaties": {
       "type": ["alles"],
@@ -657,21 +657,21 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "IT Essentials",
-      "bewijs": ""
+      "bewijs": "<img src='assets/OPOs/it-essentials.png' alt='IT Essentials'>"
     },
     "12.2 Mondeling presenteren, demonstreren, toelichten en verantwoorden van resultaten": {
       "type": ["alles"],
       "status": "d",
       "verified": "",
       "project": "Requirements Analysis",
-      "bewijs": "<img src='assets/1.2/punten-sem1-2324.png' alt='Rrequirements Analysis'>"
+      "bewijs": "<img src='assets/OPOs/requirements-analysis.png' alt='Rrequirements Analysis'>"
     },
     "12.3 Op een professionele manier contact leggen met bedrijven": {
       "type": ["alles"],
       "status": "d",
       "verified": "",
       "project": "Professional Skills 2",
-      "bewijs": ""
+      "bewijs": "<img src='assets/OPOs/professional-skills.png' alt='Professional Skills'>"
     },
     "12.4 Interviewen van een klant of opdrachtgever en dit documenteren": {
       "type": ["alles"],
@@ -685,21 +685,21 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "Professional Skills 2",
-      "bewijs": ""
+      "bewijs": "<img src='assets/OPOs/professional-skills.png' alt='Professional Skills'>"
     },
     "12.6 Luisteren (B2), spreken (B2), lezen (B2) en schrijven (A2-B1) in het Engels": {
       "type": ["alles"],
       "status": "d",
       "verified": "",
       "project": "Engels",
-      "bewijs": ""
+      "bewijs": "<img src='assets/OPOs/english.png' alt='English'>"
     },
     "12.7 Luisteren, spreken, lezen en schrijven in het Frans of een niet-moedertaal": {
       "type": ["alles"],
       "status": "d",
       "verified": "",
       "project": "Engels",
-      "bewijs": ""
+      "bewijs": "<img src='assets/OPOs/english.png' alt='English'>"
     }
   },
   "13 COMMUNICEREN - Je onderhoudt bestaande documentatie en stelt nieuwe documentatie op voor oplossingen en systemen, met aandacht voor het passende niveau van detail.": {
@@ -738,14 +738,14 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "Professional Skills 2",
-      "bewijs": ""
+      "bewijs": "<img src='assets/OPOs/professional-skills.png' alt='Professional Skills'>"
     },
     "14.2 Ondersteunen van gebruikers in het eerste of continue gebruik van IT": {
       "type": ["alles"],
       "status": "d",
       "verified": "",
       "project": "Professional Skills 2",
-      "bewijs": ""
+      "bewijs": "<img src='assets/OPOs/professional-skills.png' alt='Professional Skills'>"
     }
   },
   "15 ONDERNEMEN - Je bent ondernemend, ook als deel van een grotere organisatie.": {
@@ -754,14 +754,14 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "Business Essentials",
-      "bewijs": ""
+      "bewijs": "<img src='assets/OPOs/business-essentials.png' alt='Business Essentials'>"
     },
     "15.2 Snel en effectief reageren op elke situatie met kansen en uitdagingen": {
       "type": ["alles"],
       "status": "d",
       "verified": "",
       "project": "Business Essentials",
-      "bewijs": ""
+      "bewijs": "<img src='assets/OPOs/business-essentials.png' alt='Business Essentials'>"
     },
     "15.3 Als intrapreneur verantwoordelijkheid en eigenaarschap opnemen": {
       "type": ["alles"],
@@ -800,7 +800,7 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "Security Essentials",
-      "bewijs": ""
+      "bewijs": "<img src='assets/OPOs/security-essentials.png' alt='Security Essentials'>"
     },
     "17.3 Beschrijven en rekening houden met technische regelgeving": {
       "type": ["ccs", "iot"],
@@ -852,16 +852,16 @@ const doelstellingen = {
   "20 PROJECTMATIG WERKEN - Je werkt zowel zelfstandig als in een multidisciplinair team mee aan opdrachten en projecten, en voert hierbij eenvoudige leidinggevende taken uit.": {
     "20.1 Uitvoeren van eenvoudige leidinggevende taken en herkennen van leiderschapsstijlen": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Business Essentials",
+      "bewijs": "<img src='assets/OPOs/business-essentials.png' alt='Business Essentials'>"
     },
     "20.2 Zich correct opstellen in een conflictsituatie": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "BIP Estland - Starr methode",
       "bewijs": ""
     },
     "20.3 Actief deelnemen aan en leiden van vergaderingen": {
@@ -875,24 +875,24 @@ const doelstellingen = {
   "21 PROFESSIONEEL HANDELEN - Je evalueert je eigen functioneren en je stuurt dit bij.": {
     "21.1 Benoemen en werken aan persoonlijke sterktes en werkpunten": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Professional Skills 2",
+      "bewijs": "<img src='assets/OPOs/professional-skills.png' alt='Professional Skills'>"
     },
     "21.2 Evalueren en bijsturen van eigen handelen": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Professional Skills 2",
+      "bewijs": "<img src='assets/OPOs/professional-skills.png' alt='Professional Skills'>"
     },
     "21.3 Opstellen en volgen van een formeel remediëringsplan": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Professional Skills 2",
+      "bewijs": "<img src='assets/OPOs/professional-skills.png' alt='Professional Skills'>"
     },
     "21.4 Tonen van een permanente IT security awareness tijdens het werken": {
       "type": ["alles"],
@@ -905,9 +905,9 @@ const doelstellingen = {
   "22 PROFESSIONEEL HANDELEN - Je houdt rekening met en handelt naar de internationale en bedrijfseconomische context.": {
     "22.1 Beschrijven van en actief op zoek gaan naar de toegevoegde waarde van een oplossing": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Race To The Future",
       "bewijs": ""
     },
     "22.2 Tonen van een open blik naar de wereld en andere culturen": {
@@ -928,7 +928,7 @@ const doelstellingen = {
   "23 PROFESSIONEEL HANDELEN - Je handelt ethisch, deontologisch en maatschappelijk verantwoord en neemt verantwoordelijkheid voor resultaten.": {
     "23.1 Rekening houden met de ecologische, sociale en maatschappelijke impact van oplossingen en werkmethoden": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "Jochen",
       "project": "BIP Estland",
       "bewijs": " -- Presentatie of documentatie toevoegen -- "
@@ -937,8 +937,8 @@ const doelstellingen = {
       "type": ["alles"],
       "status": "d",
       "verified": "",
-      "project": "Grow More, PS2",
-      "bewijs": ""
+      "project": "Grow More - Professional Skills 2",
+      "bewijs": "<img src='assets/OPOs/professional-skills.png' alt='Professional Skills'>"
     }
   },
   "24 PROFESSIONEEL HANDELEN - Je doet aan levenslang leren en roept tijdig externe deskundigheid in.": {
