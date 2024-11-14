@@ -2,15 +2,15 @@ const doelstellingen = {
   "1 ANALYSEREN - Je onderzoekt en beschrijft de relevante bedrijfscontext, bedrijfsprocessen en economische randvoorwaarden waarin een oplossing of innovatie moet bijdragen tot waardecreatie.": {
     "1.1 Beschrijven van relevante bedrijfseconomische contexten vanuit verschillende invalshoeken.": {
       "type": ["alles"],
-      "status": "ip",
-      "verified": "",
-      "project": "BPMN vervangopdracht",
-      "bewijs": ""
+      "status": "d",
+      "verified": "Kathleen",
+      "project": "Business Essentials",
+      "bewijs": "<img src='assets/OPOs/business-essentials.png' alt='Business Essentials'>"
     },
     "1.2 Opstellen van een business model canvas": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Business Essentials",
       "bewijs": "<img src='assets/OPOs/business-essentials.png' alt='Business Essentials'>"
     },
@@ -33,7 +33,7 @@ const doelstellingen = {
     "2.1 Afleiden van functionele en niet-functionele eisen uit een opdracht en interview": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Requirements Analysis",
       "bewijs": "<img src='assets/OPOs/requirements-analysis.png' alt='Rrequirements Analysis'>"
     },
@@ -135,7 +135,7 @@ const doelstellingen = {
     "4.4 Opstellen van de relevante UML diagramma ter ondersteuning van ontwikkeling en testing": {
       "type": ["app", "ai"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Requirements Analysis",
       "bewijs": "<img src='assets/OPOs/requirements-analysis.png' alt='Rrequirements Analysis'>"
     },
@@ -706,7 +706,7 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     "12.2 Mondeling presenteren, demonstreren, toelichten en verantwoorden van resultaten": {
       "type": ["alles"],
       "status": "d",
-      "verified": "Bram Heyns",
+      "verified": "Kathleen",
       "project": "Requirements Analysis",
       "bewijs": "<img src='assets/OPOs/requirements-analysis.png' alt='Rrequirements Analysis'>"
     },
@@ -813,14 +813,14 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     "15.1 Proactief eigen ideeën aanbrengen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Business Essentials",
       "bewijs": "<img src='assets/OPOs/business-essentials.png' alt='Business Essentials'>"
     },
     "15.2 Snel en effectief reageren op elke situatie met kansen en uitdagingen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Business Essentials",
       "bewijs": "<img src='assets/OPOs/business-essentials.png' alt='Business Essentials'>"
     },
@@ -914,7 +914,7 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     "20.1 Uitvoeren van eenvoudige leidinggevende taken en herkennen van leiderschapsstijlen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Business Essentials",
       "bewijs": "<img src='assets/OPOs/business-essentials.png' alt='Business Essentials'>"
     },
