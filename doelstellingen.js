@@ -216,8 +216,35 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
       "type": ["alles"],
       "status": "d",
       "verified": "",
-      "project": "Grow More & Pikassa Scrum master",
-      "bewijs": "Voor het project van Grow More, waar we een game voor kinderen met een mentale/fysieke beperking, koppelde we na elke sprint van 2 weken terug naar onze klant om te bespreken wat de vorderingen waren. De eerste keer kregen we nog al wat veranderingen door die zorgde voor veel werk aan onze zeide. Dit kwam vooral omdat we al snel hadden verder gewerkt zonder tussenin te stoppen voor feedback. Onze fout dus! Daarna hebben we stapgewijs het project verder gezet en telkens niet de ver voorop gelopen en was de feedback telkens welkom en gemakkelijk implementeerbaar. <br> <a href='https://github.com/cesarvanleuffelen/2324-MOBI-009-Game-voor-kinderen-met-een-beperking.git'>Link naar Github</a>"
+      "project": "Pikassa Scrum master",
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Thomas More Iclusieve Wagenwinkel</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>Pikkassa is een innovatief kassasysteem dat speciaal ontwikkeld is voor mensen met een mentale beperking en wordt gebruikt op onze school om hen te ondersteunen bij verkoopactiviteiten.
+
+Op bepaalde dagen komen scholen, zoals BUSO-scholen, waar leerlingen met een mentale beperking onderwijs volgen, naar onze school om hun zelfgemaakte producten te verkopen. Dit kunnen bijvoorbeeld kaartjes, hangertjes, en andere creatieve items zijn.
+
+Pikkassa maakt het voor deze leerlingen mogelijk om zelfstandig en eenvoudig hun verkoop te beheren, door hen te helpen met bijvoorbeeld het verwerken van transacties.
+
+Het systeem vormt een onderdeel van het startersproject voor de tweedejaarsstudenten van DI in het schooljaar 2024-2025. Deze studenten zijn verantwoordelijk voor de ontwikkeling, het onderhoud en de optimalisatie van Pikkassa.
+
+Ze leren hierbij niet alleen technische vaardigheden zoals programmeren en systeembeheer, maar dragen ook bij aan een belangrijk sociaal doel: het creëren van een veilige, toegankelijke omgeving waarin mensen met een mentale beperking hun vaardigheden kunnen ontwikkelen.
+
+Het project bevordert zo zowel technische expertise als maatschappelijke inclusiviteit en zelfstandigheid voor de deelnemende leerlingen.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>april 2024 -> dec 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Tijdens de eerste week van het Pikassa project (inclusieve kassa voor de wagenwinkel) stonden Wesley en Ik in voor het opstarten en leiden van de 2de jaars in hun eerste project onder Digital Innovation. Zoals alle projecten binnen DI werken we met de Agile Scrum methode. Vanaf we het project hadden opgestart zijn we dagelijks met de jongens van 2DI een scrum meeting gedaan. Na elke scrum meeting hebben we een samenvatting gemaakt en deze in een markdown bestand in de repo gezet (link naar bestand onderaan). Na onze week hebben we dan ook nog een Retrospective gedaan met de jongens, daarvan kan je onderaan een foto vinden.</p>
+      <img src='assets/pikassa/retrospective.jpeg' alt='retrospective'>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a href='https://github.com/Thomas-More-Digital-Innovation/2425-TM-012-Eenvoudig-kassasysteem-voor-de-Wagenwinkel'>Github Repository</a></p>
+      <p><a href='https://github.com/Thomas-More-Digital-Innovation/2425-TM-012-Eenvoudig-kassasysteem-voor-de-Wagenwinkel/blob/dev/documents/meetings/sprint_1_verslagen.md'>meeting Opvolging</a></p>
+      <br>
+      `
     },
     "5.2 Terugkoppelen naar de klant rond gemaakte conceptuele en ontwerpgrelateerde keuzes": {
       "type": ["alles"],
@@ -707,15 +734,19 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
       "type": ["alles"],
       "status": "d",
       "verified": "",
-      "project": "Requirements Analysis",
-      "bewijs": "<img src='assets/OPOs/requirements-analysis.png' alt='Rrequirements Analysis'>"
+      "project": "Requirements Analysis & tech talks",
+      "bewijs": `<img src='assets/OPOs/requirements-analysis.png' alt='Rrequirements Analysis'>
+      <br>
+      <p><a href='https://docs.google.com/presentation/d/1id_3LJoPBWWkNCTgibnsos0asmtJadPcsmEQWzWgFEE/edit?usp=sharing'>link tech talk: MACH architectuur</a></p>
+      <p><a href='https://docs.google.com/presentation/d/13g3g3-2RLPWtcZqJ3-EoZjZYsDUt9EvEN9VJ9rSUCa0/edit?usp=sharing'>link tech talk: Cloudflare</a></p>
+      <p><a href='https://docs.google.com/presentation/d/1hTm2YRq4MBEOjKQVjzmGDID1LTe36FymMZ3FtOdvPbA/edit?usp=sharing'>link tech talk: WebGL</a></p>`
     },
     "12.3 Op een professionele manier contact leggen met bedrijven": {
       "type": ["alles"],
       "status": "d",
       "verified": "",
       "project": "Professional Skills 2",
-      "bewijs": "<img src='assets/OPOs/professional-skills.png' alt='Professional Skills'>"
+      "bewijs": `<img src='assets/OPOs/professional-skills.png' alt='Professional Skills'>`
     },
     "12.4 Interviewen van een klant of opdrachtgever en dit documenteren": {
       "type": ["alles"],
