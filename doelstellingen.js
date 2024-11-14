@@ -2,15 +2,15 @@ const doelstellingen = {
   "1 ANALYSEREN - Je onderzoekt en beschrijft de relevante bedrijfscontext, bedrijfsprocessen en economische randvoorwaarden waarin een oplossing of innovatie moet bijdragen tot waardecreatie.": {
     "1.1 Beschrijven van relevante bedrijfseconomische contexten vanuit verschillende invalshoeken.": {
       "type": ["alles"],
-      "status": "ip",
-      "verified": "",
-      "project": "BPMN vervangopdracht",
-      "bewijs": ""
+      "status": "d",
+      "verified": "Kathleen",
+      "project": "Business Essentials",
+      "bewijs": "<img src='assets/OPOs/business-essentials.png' alt='Business Essentials'>"
     },
     "1.2 Opstellen van een business model canvas": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Business Essentials",
       "bewijs": "<img src='assets/OPOs/business-essentials.png' alt='Business Essentials'>"
     },
@@ -33,7 +33,7 @@ const doelstellingen = {
     "2.1 Afleiden van functionele en niet-functionele eisen uit een opdracht en interview": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Requirements Analysis",
       "bewijs": "<img src='assets/OPOs/requirements-analysis.png' alt='Rrequirements Analysis'>"
     },
@@ -135,7 +135,7 @@ const doelstellingen = {
     "4.4 Opstellen van de relevante UML diagramma ter ondersteuning van ontwikkeling en testing": {
       "type": ["app", "ai"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Requirements Analysis",
       "bewijs": "<img src='assets/OPOs/requirements-analysis.png' alt='Rrequirements Analysis'>"
     },
@@ -163,7 +163,7 @@ const doelstellingen = {
     "4.8 Klaarmaken en opschonen van data voor AI toepassingen": {
       "type": ["app", "ai"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram Heyns",
       "project": "Race to the Future",
       "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
       <p>Wedstrijd tussen Thomas More Digital Innovation & Ingenieur-studenten KU Leuven</p>
@@ -726,14 +726,14 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     "12.1 Opstellen van een kort paper met correcte bronvermelding": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram Heyns",
       "project": "IT Essentials",
       "bewijs": "<img src='assets/OPOs/it-essentials.png' alt='IT Essentials'>"
     },
     "12.2 Mondeling presenteren, demonstreren, toelichten en verantwoorden van resultaten": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Requirements Analysis & tech talks",
       "bewijs": `<img src='assets/OPOs/requirements-analysis.png' alt='Rrequirements Analysis'>
       <br>
@@ -751,7 +751,7 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     "12.4 Interviewen van een klant of opdrachtgever en dit documenteren": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram Heyns",
       "project": "MobiLab",
       "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
       <p>Mobilab & care (onderzoeksgroep Thomas More)</p>
@@ -775,21 +775,21 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     "12.5 Mondeling en schriftelijk communiceren in het kader van een sollicitatie": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram Heyns",
       "project": "Professional Skills 2",
       "bewijs": "<img src='assets/OPOs/professional-skills.png' alt='Professional Skills'>"
     },
     "12.6 Luisteren (B2), spreken (B2), lezen (B2) en schrijven (A2-B1) in het Engels": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram Heyns",
       "project": "Engels",
       "bewijs": "<img src='assets/OPOs/english.png' alt='English'>"
     },
     "12.7 Luisteren, spreken, lezen en schrijven in het Frans of een niet-moedertaal": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram Heyns",
       "project": "Engels",
       "bewijs": "<img src='assets/OPOs/english.png' alt='English'>"
     }
@@ -828,14 +828,14 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     "14.1 Overbrengen van IT-kennis aan een groep personen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Professional Skills 2",
       "bewijs": "<img src='assets/OPOs/professional-skills.png' alt='Professional Skills'>"
     },
     "14.2 Ondersteunen van gebruikers in het eerste of continue gebruik van IT": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Professional Skills 2",
       "bewijs": "<img src='assets/OPOs/professional-skills.png' alt='Professional Skills'>"
     }
@@ -844,14 +844,14 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     "15.1 Proactief eigen ideeën aanbrengen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Business Essentials",
       "bewijs": "<img src='assets/OPOs/business-essentials.png' alt='Business Essentials'>"
     },
     "15.2 Snel en effectief reageren op elke situatie met kansen en uitdagingen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Business Essentials",
       "bewijs": "<img src='assets/OPOs/business-essentials.png' alt='Business Essentials'>"
     },
@@ -867,14 +867,14 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     "16.1 Proactief zoeken en consulteren van de state-of-the-art binnen opdrachten en projecten": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram Heyns",
       "project": "Tech Talk: MACH architectuur",
       "bewijs": ""
     },
     "16.2 Beschrijven van de toekomstige trends binnen het eigen vakgebied": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram Heyns",
       "project": "Tech Talk: WebGL",
       "bewijs": ""
     }
@@ -945,7 +945,7 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     "20.1 Uitvoeren van eenvoudige leidinggevende taken en herkennen van leiderschapsstijlen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Business Essentials",
       "bewijs": "<img src='assets/OPOs/business-essentials.png' alt='Business Essentials'>"
     },
@@ -968,7 +968,7 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     "21.1 Benoemen en werken aan persoonlijke sterktes en werkpunten": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Professional Skills 2",
       "bewijs": "<img src='assets/OPOs/professional-skills.png' alt='Professional Skills'>"
     },
