@@ -797,14 +797,14 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     "14.1 Overbrengen van IT-kennis aan een groep personen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Professional Skills 2",
       "bewijs": "<img src='assets/OPOs/professional-skills.png' alt='Professional Skills'>"
     },
     "14.2 Ondersteunen van gebruikers in het eerste of continue gebruik van IT": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Professional Skills 2",
       "bewijs": "<img src='assets/OPOs/professional-skills.png' alt='Professional Skills'>"
     }
@@ -937,7 +937,7 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     "21.1 Benoemen en werken aan persoonlijke sterktes en werkpunten": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Professional Skills 2",
       "bewijs": "<img src='assets/OPOs/professional-skills.png' alt='Professional Skills'>"
     },
