@@ -780,8 +780,12 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
       "type": ["alles"],
       "status": "d",
       "verified": "Bram Heyns",
-      "project": "Professional Skills 2",
-      "bewijs": "<img src='assets/OPOs/professional-skills.png' alt='Professional Skills'>"
+      "project": "Stage & Sollicitatie Carousel",
+      "bewijs": `<h2 class='font-bold'>eerste mail en in-person gesprek Climapulse</h2>
+      <p><img src='assets/stages/eerste_mail_climapulse.png' alt='Mail climapulse'></p>
+      <br>
+      <p><img src='assets/stages/stage_gesprek.png' alt='gesprek Climapulse'></p>
+      `
     },
     "12.6 Luisteren (B2), spreken (B2), lezen (B2) en schrijven (A2-B1) in het Engels": {
       "type": ["alles"],
@@ -873,14 +877,14 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
       "status": "d",
       "verified": "Bram Heyns",
       "project": "Tech Talk: MACH architectuur",
-      "bewijs": ""
+      "bewijs": `<p><a href='https://docs.google.com/presentation/d/1id_3LJoPBWWkNCTgibnsos0asmtJadPcsmEQWzWgFEE/edit?usp=sharing'>link tech talk: MACH architectuur</a></p>`
     },
     "16.2 Beschrijven van de toekomstige trends binnen het eigen vakgebied": {
       "type": ["alles"],
       "status": "d",
       "verified": "Bram Heyns",
       "project": "Tech Talk: WebGL",
-      "bewijs": ""
+      "bewijs": `<p><a href='https://docs.google.com/presentation/d/1hTm2YRq4MBEOjKQVjzmGDID1LTe36FymMZ3FtOdvPbA/edit?usp=sharing'>link tech talk: WebGL</a></p>`
     }
   },
   "17 ONDERNEMEN - Je houdt rekening met economische randvoorwaarden, relevante regelgeving, best practices en bewaakt de toepassing van het kwaliteitsbeleid van de organisatie.": {
