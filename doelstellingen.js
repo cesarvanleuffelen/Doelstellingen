@@ -165,7 +165,29 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "Race to the Future",
-      "bewijs": ""
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Wedstrijd tussen Thomas More Digital Innovation & Ingenieur-studenten KU Leuven</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>Race To The Future is een jaarlijkse competitie waarin DI het opneemt tegen ingenieurs van de KUL, met elk jaar een nieuwe uitdaging. Dit jaar moesten we verkeerskegels ontwijken.
+
+We bouwden een RC-auto met een servo-aandrijving en gebruikten een Jetson Nano voor de nodige verwerkingskracht om autonoom te rijden. De codebase van vorige jaren bleek echter door verouderde packages niet bruikbaar, dus kozen we ervoor om met de open-source bibliotheek 'DonkeyCar' verder te werken.
+
+Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen, waardoor onze auto succesvol de kegels kon ontwijken en het parcours efficiënt aflegde.
+</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>maart 2024 -> mei 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Tijdens het project van Race to the Futur maakten we gebruiken van een open-source project genaamd Donkey Car. Dit is een platform om auto's vanzelf te laten rijden, gemaakt door hobbyisten en studenten. Dit platform biedt verschillende build-in features die het gemakkelijker moeten maken om een auto autonoom te laten rondrijden. Een van die tools die zei aanbieden is 'Donkey UI'. Donkey UI is een grafische training interface die je kan gebruiken voor allerlei soorten zaken zoals: gegevens overzetten van auto naar computer, getrainde moddelen op de auto plaatsen. Voor ons was echter de Tub Manager het belangrijkste! Wanneer we het model willen trainen moeten we het een hoop data geven waarmee het zichzelf kan leren hoe hij moet rijden. Die data zijn opnames van de camera vooraan op de auto in combinatie met stuurhoek en gas-gehalte die opnemen wanneer wij manueel met de auto rondrijden. Die beelden worden dan verzameld en opgeslagen zodat wij deze achteraf aan het model kunnen geven als trainingsdata. De Tub Manager maakt het simpel voor ons om deze beelden te bekijken en frames van de video's eruit te knippen die niet relevant zijn voor het model. Een voorbeeld: wanneer we filmen dat de auto rechtdoor rijdt aan volle snelheid maar eigenlijk tegen een muur rijdt, dan kunnen we deze beelden er best uithalen. Anders gaat de auto zichzelf aanleren dat wanneer hij terug voor die muur (of een andere gelijkaardige) staat, ook rechtdoor mag blijven rijden aan 100% snelheid.</p>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a href='https://github.com/Thomas-More-Digital-Innovation/2324-DI-005-Race-to-the-Future'>Github Repository</a></p>
+      <p><a href='https://docs.donkeycar.com/'>Donkey Car</a></p>
+      <p><a href='https://www.instagram.com/stories/highlights/18228670510205133/'>Instagram Post</a></p>
+      <br>
+      `
     },
     "4.9 Opmaken van smart environments/domotica diagramma en tekeningen": {
       "type": ["iot"],
@@ -297,7 +319,29 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "Race to the Future",
-      "bewijs": ""
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Wedstrijd tussen Thomas More Digital Innovation & Ingenieur-studenten KU Leuven</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>Race To The Future is een jaarlijkse competitie waarin DI het opneemt tegen ingenieurs van de KUL, met elk jaar een nieuwe uitdaging. Dit jaar moesten we verkeerskegels ontwijken.
+
+We bouwden een RC-auto met een servo-aandrijving en gebruikten een Jetson Nano voor de nodige verwerkingskracht om autonoom te rijden. De codebase van vorige jaren bleek echter door verouderde packages niet bruikbaar, dus kozen we ervoor om met de open-source bibliotheek 'DonkeyCar' verder te werken.
+
+Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen, waardoor onze auto succesvol de kegels kon ontwijken en het parcours efficiënt aflegde.
+</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>maart 2024 -> mei 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Als we programma's schrijven kunnen we rechtstreeks kiezen om de keuzes rechtstreeks te programmeren die hij moet maken in bepaalde situaties. Een voorbeeld hiervan zou zijn: 'wanneer je een obstakel links van je detecteer, stuur dan gedurende 1 seconde naar rechts en exact het omgekeerde voor wanneer je iets rechts detecteert'. Dit lijkt in theorie geen probleem maar in de praktijk ga je een heel trage en zichzaggende wagen creëren waarvan je misselijk zou worden van er alleen al maar naar te kijken. Dat is de reden dat we tijdens het Race to the Futur project gebruik wilden maken van een 'Machine Learning Algorithm'. Kort weg is dit een programma dat data vraagt waarmee het zichzelf kan trainen zodat het op termijn (met genoeg data en training) dezelfde beslissingen gaat nemen als jij zou doen. Wanneer je een race wilt winnen is dit de beste optie aangezien het zichzelf zou besturen zoals jij hem zou besturen. Nu is het zo dat we Donkey Car gebruiken en zei zorgen out-of-the-box al voor pre-trained modellen (modellen die zei voor een groot stuk al hebben getraint). Al deze modellen zijn gebasseerd op keras, een high-level neural network api. Wij hebben voor dit model gekozen aangezien dat dit, tegenover de andere opties, ons de beste optie leek. Dit model geeft voor zowel de gas als de stuurhoek een constante stroom van specifieke waarde door aan de controller van het auto'tje. Dit is het basis model dat aangeraden wordt maar heeft als voordelen dat het op een 'smooth' manier kan sturen en dat het zich niet houd aan specifieke waarde dat het enkel kan aannemen (0%, 20%, 40%, ..., 100% en niets er tusses). Daarbij komt ook zien dat dit model goed samen werkt computers met gelimiteerde kracht. Aangezien wij werkten met een jetson nano was dit de ideale combinatie.</p>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a href='https://github.com/Thomas-More-Digital-Innovation/2324-DI-005-Race-to-the-Future'>Github Repository</a></p>
+      <p><a href='https://docs.donkeycar.com/'>Donkey Car</a></p>
+      <p><a href='https://www.instagram.com/stories/highlights/18228670510205133/'>Instagram Post</a></p>
+      <br>
+      `
     },
     "7.6 Bouwen van een cross-platform mobile applicatie": {
       "type": ["app"],
@@ -678,7 +722,24 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "MobiLab",
-      "bewijs": ""
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Mobilab & care (onderzoeksgroep Thomas More)</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>Dit project is gericht op de ontwikkeling van een innovatieve monitoringapplicatie om het revalidatieproces van mensen met lichamelijke klachten, zoals motorische problemen, beter in kaart te brengen en op de lange termijn te ondersteunen. Hoewel er al bestaande sensoren waren (Movella Dot Sense X), kon de huidige applicatie die deze sensoren gebruikt niet voldoen aan de specifieke behoeften van patiënten en therapeuten vanwege beperkte functionaliteit en een gebrek aan toegankelijkheid en beheer. Deze nieuwe oplossing richt zich op het creëren van een platform dat sensorinformatie effectief vastlegt, langdurige analyses mogelijk maakt en de data beschikbaar maakt voor zorgprofessionals.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>Oktober 2023 -> Juni 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Bij het opstarten van het project met labflow hebben wij op voorhand de informatie bekeken en vragen opgesteld waarvan we wisten dat we die sowieso wouden gaan stellen. Tijdens die eerste ontmoeting met de 2 docenten van Laboratoriumtechnologieën hebben we eerst geluisterd naar hun verhaal. Tussendoor en erna hebben we onze vragen dan kunnen stellen en heb ik notities genomen. Na afloop van ons gesprek zijn Nathan en ik gaan samenzitten om alles mooi op punt te brengen in ons analyse document. Dit document is te vinden in de Onedrive van Digital Innovation. Documents > Academiejaar 2024-2025 > Projectopvolging > TM_BLC-001 LabFlow > Analyse.docx</p>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a href='https://github.com/Thomas-More-Digital-Innovation/2324-MOBI-012-Monitoringapplicatie-Web-App'>Github Repository</a></p>
+      <p><a href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/22'>Github Project Bord</a></p>
+      <p><a href='https://www.figma.com/file/jM85YEemp1JlE1XwK7KMya/MOBI-012-Prototypes?type=design&node-id=0%3A1&mode=design&t=uqADgVe87OyU2Ndv-1'>Figma Prototype</a></p>
+      <br>
+      `
     },
     "12.5 Mondeling en schriftelijk communiceren in het kader van een sollicitatie": {
       "type": ["alles"],
