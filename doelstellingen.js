@@ -752,24 +752,28 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
       "type": ["alles"],
       "status": "d",
       "verified": "Bram Heyns",
-      "project": "MobiLab",
+      "project": "LABflow",
       "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
-      <p>Mobilab & care (onderzoeksgroep Thomas More)</p>
+      <p>Opleiding laboratorium technologieën</p>
       <br>
       <h2 class='font-bold'>Opdracht Omschrijving</h2>
-      <p>Dit project is gericht op de ontwikkeling van een innovatieve monitoringapplicatie om het revalidatieproces van mensen met lichamelijke klachten, zoals motorische problemen, beter in kaart te brengen en op de lange termijn te ondersteunen. Hoewel er al bestaande sensoren waren (Movella Dot Sense X), kon de huidige applicatie die deze sensoren gebruikt niet voldoen aan de specifieke behoeften van patiënten en therapeuten vanwege beperkte functionaliteit en een gebrek aan toegankelijkheid en beheer. Deze nieuwe oplossing richt zich op het creëren van een platform dat sensorinformatie effectief vastlegt, langdurige analyses mogelijk maakt en de data beschikbaar maakt voor zorgprofessionals.</p>
+      <p>LabFlow is een innovatieve applicatie ontworpen voor het efficiënt beheren en opvolgen van laboratoriummonsters binnen de Biomedische Laboratoriumtechnologie. Deze tool ondersteunt studenten en professionals in het verwerken van verschillende soorten monsters, zoals bloed, huid en urine. De applicatie biedt essentiële functies voor monsterbeheer, waaronder het registreren van binnenkomende monsters, het genereren van barcodes voor snelle identificatie, het invoeren van analyseresultaten en het afdrukken van resultaten inclusief referentiewaarden voor eenvoudige interpretatie.
+
+Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat het uitwerken van gebruikersverhalen, het creëren van Figma-prototypes, en het maken van strategische keuzes rondom technologieën, zoals het bepalen van het platform (web of app), database-oplossingen en programmeertalen.</p>
       <br>
       <h2 class='font-bold'>Project Duur</h2>
-      <p>Oktober 2023 -> Juni 2024</p>
+      <p>september 2024 -> december 2024</p>
       <br>
       <h2 class='font-bold'>Doelstelling</h2>
       <p>Bij het opstarten van het project met labflow hebben wij op voorhand de informatie bekeken en vragen opgesteld waarvan we wisten dat we die sowieso wouden gaan stellen. Tijdens die eerste ontmoeting met de 2 docenten van Laboratoriumtechnologieën hebben we eerst geluisterd naar hun verhaal. Tussendoor en erna hebben we onze vragen dan kunnen stellen en heb ik notities genomen. Na afloop van ons gesprek zijn Nathan en ik gaan samenzitten om alles mooi op punt te brengen in ons analyse document. Dit document is te vinden in de Onedrive van Digital Innovation. Documents > Academiejaar 2024-2025 > Projectopvolging > TM_BLC-001 LabFlow > Analyse.docx</p>
       <br>
       <h2 class='font-bold'>Relevante Links</h2>
-      <p><a href='https://github.com/Thomas-More-Digital-Innovation/2324-MOBI-012-Monitoringapplicatie-Web-App'>Github Repository</a></p>
-      <p><a href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/22'>Github Project Bord</a></p>
-      <p><a href='https://www.figma.com/file/jM85YEemp1JlE1XwK7KMya/MOBI-012-Prototypes?type=design&node-id=0%3A1&mode=design&t=uqADgVe87OyU2Ndv-1'>Figma Prototype</a></p>
+      <p><a href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow'>Github Repository</a></p>
+      <p><a href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/26'>Github Project Bord Back-end</a></p>
+      <p><a href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/28'>Github Project Bord Front-end</a></p>
+      <p><a href='https://www.figma.com/proto/xAg0y5NWAde821meTFkhzX/Labflow-v1?page-id=1%3A2&node-id=77-1747&node-type=canvas&viewport=551%2C469%2C0.11&t=voxuzeR12VQjqFFp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=77%3A1747'>Figma Prototype</a></p>
       <br>
+      <p><a href='https://thomasmore365.sharepoint.com/:w:/s/s.itf.digital.innovation/EaJHjYWoCj9JtwAgGKahy4ABNgCK5T1hwFN7JgmXgsn3Bw?e=7ehZwT'>Eerste gesprek klant</a></p>
       `
     },
     "12.5 Mondeling en schriftelijk communiceren in het kader van een sollicitatie": {
