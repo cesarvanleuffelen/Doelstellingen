@@ -41,8 +41,28 @@ const doelstellingen = {
       "type": ["alles"],
       "status": "d",
       "verified": "",
-      "project": "Requirements Analysis & project week",
-      "bewijs": "<img src='assets/OPOs/requirements-analysis.png' alt='Rrequirements Analysis'>"
+      "project": "LABflow",
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Opleiding laboratorium technologieën</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>LabFlow is een innovatieve applicatie ontworpen voor het efficiënt beheren en opvolgen van laboratoriummonsters binnen de Biomedische Laboratoriumtechnologie. Deze tool ondersteunt studenten en professionals in het verwerken van verschillende soorten monsters, zoals bloed, huid en urine. De applicatie biedt essentiële functies voor monsterbeheer, waaronder het registreren van binnenkomende monsters, het genereren van barcodes voor snelle identificatie, het invoeren van analyseresultaten en het afdrukken van resultaten inclusief referentiewaarden voor eenvoudige interpretatie.
+
+Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat het uitwerken van gebruikersverhalen, het creëren van Figma-prototypes, en het maken van strategische keuzes rondom technologieën, zoals het bepalen van het platform (web of app), database-oplossingen en programmeertalen.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>september 2024 -> december 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p><img src='assets/labflow/front-end_bord.png' alt='labflow front-end bord'></p>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow'>Github Repository</a></p>
+      <p><a href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/26'>Github Project Bord Back-end</a></p>
+      <p><a href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/28'>Github Project Bord Front-end</a></p>
+      <p><a href='https://www.figma.com/proto/xAg0y5NWAde821meTFkhzX/Labflow-v1?page-id=1%3A2&node-id=77-1747&node-type=canvas&viewport=551%2C469%2C0.11&t=voxuzeR12VQjqFFp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=77%3A1747'>Figma Prototype</a></p>
+      <br>
+      `
     }
   },
   "3 ANALYSEREN - Je onderzoekt en evalueert mogelijke oplossingen en verbeteringen, en maakt onderbouwde keuzes voor platformen, software en hardware.": {
@@ -116,7 +136,25 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "Grow More",
-      "bewijs": ""
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Wim De Backer (Modem)</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>Dit project heeft als doel een toegankelijke, plezierige en rustgevende game te ontwikkelen voor kinderen met een communicatieve, cognitieve of fysieke beperking. Gezien de uitdagingen waarmee de doelgroep te maken heeft, moet het spel worden ontworpen zonder tijdsdruk, complexe in-game economie, competitieve elementen of snelle acties. De game moet eenvoudig en zonder stress te spelen zijn, zodat kinderen van alle niveaus zich ermee kunnen vermaken. De uiteindelijke versie van het spel zal beschikbaar worden gemaakt op de website comgames.be.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>Februari 2024 -> April 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Tijdens het project van Grow More zijn we nogal fanatiek van start gegaan. Het was ons eerste project. We hadden een planning gemaakt van wat we in de eerst sprint wouden af hebben voor de demo. Alles liep vlot en we kregen meer gedaan als verwacht. Toen we echter terugkoppelden naar Wim de Backer (opdrachtgever) had hij zich in de tussentijd toch bedacht op enkele zaken. Dit maakte het voor ons nogal vervelend en hadden we hier klachten op. Tijdens de sprint retrospective hebben we dan wel ingezien dat dit onze fout was. Wij hadden ons aan de planning moeten houden en sneller moeten terugkoppelen. Zo hadden we minder dubbel werk gehad en hadden we een snellere feedback loop gecreerd met onze klant.</p>
+      <p><img src='assets/growmore/retro.jpg' alt='labflow front-end bord'></p>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a href='https://github.com/cesarvanleuffelen/2324-MOBI-009-Game-voor-kinderen-met-een-beperking'>Github Repository</a></p>
+      <p><a href='https://trello.com/b/dG5hslnJ/modem-spel-voor-kinderen-met-een-beperking'>Trello bord</a></p>
+      <p><a href='https://www.figma.com/file/7drJsDmSQoWCn0zjyX5P3W/2324-MOBI-09-Game?type=design&mode=design&t=6kaufoS0JaMn0Co0-1'>Figma</a></p>
+      <br>
+      `
     },
     "4.2 Opdelen van een conceptuele totaaloplossing in kleinere items of deeloplossingen": {
       "type": ["alles"],
