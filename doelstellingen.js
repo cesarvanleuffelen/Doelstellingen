@@ -289,7 +289,46 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
       "status": "d",
       "verified": "",
       "project": "Grow More & LABflow",
-      "bewijs": "Grow More is een project waar we een game gemaakt hebben voor kinderen met een mentale/fysieke beperking. Dit was mijn eerste project samen met Toon dat we zelf moesten opstarten. Dit was geen enkel probleem want we hebben direct contact opgenomen met onze opdracht geven en een eerste meeting opgezet. Zo konden we horen wat de verwachtingen waren, wat het project juist was en waar we zeker rekening mee moesten houden naar onze doelgroep toe. Na die eerste meeting hadden we afgesproken om met enkele game concepten op te komen. Dit deden we dan ook en zo kwamen we terecht op een 9-tal concepten die we voorlegde aan onze klant. Na het overlopen van al deze concepten zijn we gestrand op het concept van het laten groeien van planten aan de hand van erop te klikken. Toen we wisten wat voor soort game we gingen maken hebben we een ontwerp gemaakt van hoe het spel er zou gaan uitzien. Hier stemde onze opdrachtgever vrijwel direct mee in. Onderaan kan je een screenshot zien van hoe het ontwerp voor de game eruit zag met een link naar de figma pagina. <br><img src='assets/5.2/ontwerp_gm.jpg' alt='grow more ontwerp'> <br> <a href='https://www.figma.com/proto/7drJsDmSQoWCn0zjyX5P3W/2324-MOBI-09-Game?node-id=3-3&t=24pfl4N4aVTDnuMo-1' target='_blank'>Link naar Figma bord</a>"
+      "bewijs": `<h1 class='font-bold text-xl text-gray-600'>Grow More</h1>
+      <h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Wim De Backer (Modem)</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>Dit project heeft als doel een toegankelijke, plezierige en rustgevende game te ontwikkelen voor kinderen met een communicatieve, cognitieve of fysieke beperking. Gezien de uitdagingen waarmee de doelgroep te maken heeft, moet het spel worden ontworpen zonder tijdsdruk, complexe in-game economie, competitieve elementen of snelle acties. De game moet eenvoudig en zonder stress te spelen zijn, zodat kinderen van alle niveaus zich ermee kunnen vermaken. De uiteindelijke versie van het spel zal beschikbaar worden gemaakt op de website comgames.be.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>Februari 2024 -> April 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Toen we begonnen aan het project waar uiteindelijk Grow More is uit ontstaan mochten we zelf opkomen met enkele ideeën voor games. We hadden tijdens onze eerste meeting enkele richtlijnen meegekregen en zijn toen begonnen met brainstormen. Zo hebben we een documentje uitgeschreven met enkele verschillende concepten in die ons leuk en haalbaar leken. Een week later tijdens onze 2de afspraak met Wim hebben we deze ideeën voorgelegd aan hem. Zo hebben we uiteindelijk in samenspraak met Wim De Backer het idee voor Grow More gekozen.</p>
+      <iframe src='/assets/growmore/modem_games_ideas.pdf' width='100%' height='500px'></iframe>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a href='https://github.com/cesarvanleuffelen/2324-MOBI-009-Game-voor-kinderen-met-een-beperking'>Github Repository</a></p>
+      <p><a href='https://trello.com/b/dG5hslnJ/modem-spel-voor-kinderen-met-een-beperking'>Trello bord</a></p>
+      <p><a href='https://www.figma.com/file/7drJsDmSQoWCn0zjyX5P3W/2324-MOBI-09-Game?type=design&mode=design&t=6kaufoS0JaMn0Co0-1'>Figma</a></p>
+      <br>
+      <hr>
+      <h1 class='font-bold text-xl  text-gray-600'>LABflow</h1>
+      <h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Opleiding laboratorium technologieën</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>LabFlow is een innovatieve applicatie ontworpen voor het efficiënt beheren en opvolgen van laboratoriummonsters binnen de Biomedische Laboratoriumtechnologie. Deze tool ondersteunt studenten en professionals in het verwerken van verschillende soorten monsters, zoals bloed, huid en urine. De applicatie biedt essentiële functies voor monsterbeheer, waaronder het registreren van binnenkomende monsters, het genereren van barcodes voor snelle identificatie, het invoeren van analyseresultaten en het afdrukken van resultaten inclusief referentiewaarden voor eenvoudige interpretatie.Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat het uitwerken van gebruikersverhalen, het creëren van Figma-prototypes, en het maken van strategische keuzes rondom technologieën, zoals het bepalen van het platform (web of app), database-oplossingen en programmeertalen.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>september 2024 -> december 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>In de begin fase van het project van LABflow zijn we aan de slag gegaan met het maken van een eerste prototype in Figma (link onderaan). We hadden na onze meeting met de docenten van 'laboratorium technologieën' een idee van wat we moesten maken, maar om alle neuzen in dezelfde richten te laten wijzen besloten we om eerste een prototype voor te leggen dat snel aan te passen was. Goed, want we kregen feedback zoals bijvoorbeeld: 'Nadat student testen registreren voor een staal gaan zei deze eerst uitvoeren en dan pas starten met resultaten ingeven.' In onze eerste versie kon dit inderdaad niet en hebben we deze aanpassingen doorgevoerd.</p>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow'>Github Repository</a></p>
+      <p><a href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/26'>Github project bord back-end</a></p>
+      <p><a href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/28'>Github project bord front-end</a></p>
+      <p><a href='https://www.figma.com/proto/xAg0y5NWAde821meTFkhzX/Labflow-v1?page-id=1%3A2&node-id=77-1747&node-type=canvas&viewport=551%2C469%2C0.11&t=voxuzeR12VQjqFFp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=77%3A1747'>Figma</a></p>
+      <br>
+      `
     }
   },
   "6 BOUWEN - Je realiseert en ondersteunt de integratie en implementatie van je oplossingen en bijbehorende datastructuren of procesaanpassingen in de bestaande bedrijfsomgeving.": {
@@ -424,9 +463,9 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     },
     "7.8 Bouwen van een single page applicatie inclusief application state": {
       "type": ["app"],
-      "status": "",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "LABflow",
       "bewijs": ""
     },
     "7.9 Uitbouw en gebruik Computer Vision technieken": {
