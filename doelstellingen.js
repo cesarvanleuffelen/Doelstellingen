@@ -355,7 +355,26 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
       "status": "d",
       "verified": "",
       "project": "MobiLab",
-      "bewijs": ""
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Mobilab & care (onderzoeksgroep Thomas More)</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>Dit project is gericht op de ontwikkeling van een innovatieve monitoringapplicatie om het revalidatieproces van mensen met lichamelijke klachten, zoals motorische problemen, beter in kaart te brengen en op de lange termijn te ondersteunen. Hoewel er al bestaande sensoren waren (Movella Dot Sense X), kon de huidige applicatie die deze sensoren gebruikt niet voldoen aan de specifieke behoeften van patiënten en therapeuten vanwege beperkte functionaliteit en een gebrek aan toegankelijkheid en beheer. Deze nieuwe oplossing richt zich op het creëren van een platform dat sensorinformatie effectief vastlegt, langdurige analyses mogelijk maakt en de data beschikbaar maakt voor zorgprofessionals.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>Oktober 2023 -> Juni 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Tijdens het werken aan het project van mobiLAB heb ik 3 branches aangemaakt met verschillende commits in. Onder deze tekst kan je een link terugvinden naar de branch pagina van de web versie repository waar je deze zelf kan bekijken. Git hebben we in elk project wel gebruikt, ik kies er voor om het vooral in het mobiLAB project te tonen.</p>
+      <p><a href='https://github.com/Thomas-More-Digital-Innovation/2324-MOBI-012-Monitoringapplicatie-Web-App/branches'>Github branches</a></p>
+      <img src='/assets/mobilab/github_branches.png' alt='git'>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a href='https://github.com/Thomas-More-Digital-Innovation/2324-MOBI-012-Monitoringapplicatie-Web-App'>Github Repository</a></p>
+      <p><a href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/22/settings'>Github projects bord</a></p>
+      <p><a href='https://www.figma.com/file/jM85YEemp1JlE1XwK7KMya/MOBI-012-Prototypes?type=design&node-id=0%3A1&mode=design&t=uqADgVe87OyU2Ndv-1'>Figma</a></p>
+      <br>
+      `
     },
     "6.2 Uitbouw en gebruik van continuous delivery / deployment": {
       "type": ["alles"],
