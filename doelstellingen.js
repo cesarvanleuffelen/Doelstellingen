@@ -78,7 +78,25 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
       "status": "d",
       "verified": "",
       "project": "Grow More",
-      "bewijs": "Voor het project van Grow More, waar we een game voor kinderen met een mentale/fysieke beperking maakten moesten we afwegen welke software we wilden gebruiken. Zo konden we eerst en vooral kiezen tussen: gaan we een javascript framework gebruiken zoals next of gaan we kiezen voor een game engine te gebruiken en het project dan te exporteren naar een ‘webGL’ versie. Ik en Toon hadden eerst geöpteerd voor de ‘Unity’ game engine te gebruiken. Na wat opzoeken en testen hebben we echter gerealiseerd dat het misschien toch een beter plan was om andere opties te verkennen. Dit was voor de reden dat we geen credit card gegevens wouden opgeven enkel en alleen om version control te kunnen gebruiken van Unity zelf. Na wat opzoek werk over andere game engines zijn we op Godot geland. Een open source game engine die in de community veel gebruikt wordt om 2D games mee te maken (perfect voor ons project). Godot was ook net uitgekomen met een Git integratie wat het voor ons nog duidelijker maakte dat dit onze tool zou worden voor ‘Grow More’ te maken.<br> <a href='https://github.com/cesarvanleuffelen/2324-MOBI-009-Game-voor-kinderen-met-een-beperking.git'>Link naar Github</a>"
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Wim De Backer (Modem)</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>Dit project heeft als doel een toegankelijke, plezierige en rustgevende game te ontwikkelen voor kinderen met een communicatieve, cognitieve of fysieke beperking. Gezien de uitdagingen waarmee de doelgroep te maken heeft, moet het spel worden ontworpen zonder tijdsdruk, complexe in-game economie, competitieve elementen of snelle acties. De game moet eenvoudig en zonder stress te spelen zijn, zodat kinderen van alle niveaus zich ermee kunnen vermaken. De uiteindelijke versie van het spel zal beschikbaar worden gemaakt op de website comgames.be.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>Februari 2024 -> April 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Voor het project van Grow More, waar we een game voor kinderen met een mentale/fysieke beperking maakten moesten we afwegen welke software we wilden gebruiken. Zo konden we eerst en vooral kiezen tussen: gaan we een javascript framework gebruiken zoals next of gaan we kiezen voor een game engine te gebruiken en het project dan te exporteren naar een ‘webGL’ versie. Ik en Toon hadden eerst geöpteerd voor de ‘Unity’ game engine te gebruiken. Na wat opzoeken en testen hebben we echter gerealiseerd dat het misschien toch een beter plan was om andere opties te verkennen. Dit was voor de reden dat we geen credit card gegevens wouden opgeven enkel en alleen om version control te kunnen gebruiken van Unity zelf. Na wat opzoek werk over andere game engines zijn we op Godot geland. Een open source game engine die in de community veel gebruikt wordt om 2D games mee te maken (perfect voor ons project). Godot was ook net uitgekomen met een Git integratie wat het voor ons nog duidelijker maakte dat dit onze tool zou worden voor ‘Grow More’ te maken.</p>
+      <iframe src='/assets/growmore/grow_more_analyse.pdf' width='100%' height='500px'></iframe>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a href='https://github.com/cesarvanleuffelen/2324-MOBI-009-Game-voor-kinderen-met-een-beperking'>Github Repository</a></p>
+      <p><a href='https://trello.com/b/dG5hslnJ/modem-spel-voor-kinderen-met-een-beperking'>Trello bord</a></p>
+      <p><a href='https://www.figma.com/file/7drJsDmSQoWCn0zjyX5P3W/2324-MOBI-09-Game?type=design&mode=design&t=6kaufoS0JaMn0Co0-1'>Figma</a></p>
+      <br>
+      `
     },
     "3.3 Exploreren en analyseren van data via wetenschappelijke en statistische methoden": {
       "type": ["ai"],
