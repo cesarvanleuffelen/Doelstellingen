@@ -57,10 +57,10 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
       <p><img src='assets/labflow/front-end_bord.png' alt='labflow front-end bord'></p>
       <br>
       <h2 class='font-bold'>Relevante Links</h2>
-      <p><a href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow'>Github Repository</a></p>
-      <p><a href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/26'>Github Project Bord Back-end</a></p>
-      <p><a href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/28'>Github Project Bord Front-end</a></p>
-      <p><a href='https://www.figma.com/proto/xAg0y5NWAde821meTFkhzX/Labflow-v1?page-id=1%3A2&node-id=77-1747&node-type=canvas&viewport=551%2C469%2C0.11&t=voxuzeR12VQjqFFp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=77%3A1747'>Figma Prototype</a></p>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow'>Github Repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/26'>Github Project Bord Back-end</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/28'>Github Project Bord Front-end</a></p>
+      <p><a target='_blank' href='https://www.figma.com/proto/xAg0y5NWAde821meTFkhzX/Labflow-v1?page-id=1%3A2&node-id=77-1747&node-type=canvas&viewport=551%2C469%2C0.11&t=voxuzeR12VQjqFFp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=77%3A1747'>Figma Prototype</a></p>
       <br>
       `
     }
@@ -92,9 +92,9 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
       <iframe src='/assets/growmore/grow_more_analyse.pdf' width='100%' height='500px'></iframe>
       <br>
       <h2 class='font-bold'>Relevante Links</h2>
-      <p><a href='https://github.com/cesarvanleuffelen/2324-MOBI-009-Game-voor-kinderen-met-een-beperking'>Github Repository</a></p>
-      <p><a href='https://trello.com/b/dG5hslnJ/modem-spel-voor-kinderen-met-een-beperking'>Trello bord</a></p>
-      <p><a href='https://www.figma.com/file/7drJsDmSQoWCn0zjyX5P3W/2324-MOBI-09-Game?type=design&mode=design&t=6kaufoS0JaMn0Co0-1'>Figma</a></p>
+      <p><a target='_blank' href='https://github.com/cesarvanleuffelen/2324-MOBI-009-Game-voor-kinderen-met-een-beperking'>Github Repository</a></p>
+      <p><a target='_blank' href='https://trello.com/b/dG5hslnJ/modem-spel-voor-kinderen-met-een-beperking'>Trello bord</a></p>
+      <p><a target='_blank' href='https://www.figma.com/file/7drJsDmSQoWCn0zjyX5P3W/2324-MOBI-09-Game?type=design&mode=design&t=6kaufoS0JaMn0Co0-1'>Figma</a></p>
       <br>
       `
     },
@@ -117,7 +117,7 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
       "status": "d",
       "verified": "",
       "project": "MobiLab",
-      "bewijs": "Tijdens het project voor MobiLab & Care waar we een mobiele applicatie en online webportaal bouwden voor het helpen revalideren van mensen, stond ik in voor ondermeer in voor het ontwerpen en designen van het dashboard. Ik heb natuurlijk geen kennes van wat een dokter allemaal moet weten voor een patiënt correct te kunnen opvolgen. Daarom zijn we met enkele studenten gaan praten met de mensen van MobiLab & Care om te bespreken wat een dokter allemaal echt nodig zou hebben. Het belangrijkste voor een dokter om te weten is vooral de vooruitgang van de patiënt en hoevaak de patiënt oefeningen doet. Met deze informatie ben ik dan aan de slag gegaan en heb ik gekozen om volgende grafieken in het dashboard weer te geven: een KPI voor de maximum behaalde hoek (tot nu toe), een lijndiagram om de progressie van de maximum hoek te zien over tijd, een staafdiagram voor de hoeveel oefeningen per dag een patiënt doet en als laatste nog een lijndiagram voor de hoeveelheid tijd een patiënt nodig heeft om een oefening te voltooien. Deze grafieken staan in een mooie interface <br><img src='assets/3.5/dashboard_mobi.jpg' alt='mobilab dashboard'> <br> <a href='https://github.com/Thomas-More-Digital-Innovation/2324-MOBI-012-Monitoringapplicatie-Web-App/blob/main/code/monitoringapplicatie_web_app/lib/pages/web_dashboard_page.dart' target='_blank'>Link naar Github</a>"
+      "bewijs": "Tijdens het project voor MobiLab & Care waar we een mobiele applicatie en online webportaal bouwden voor het helpen revalideren van mensen, stond ik in voor ondermeer in voor het ontwerpen en designen van het dashboard. Ik heb natuurlijk geen kennes van wat een dokter allemaal moet weten voor een patiënt correct te kunnen opvolgen. Daarom zijn we met enkele studenten gaan praten met de mensen van MobiLab & Care om te bespreken wat een dokter allemaal echt nodig zou hebben. Het belangrijkste voor een dokter om te weten is vooral de vooruitgang van de patiënt en hoevaak de patiënt oefeningen doet. Met deze informatie ben ik dan aan de slag gegaan en heb ik gekozen om volgende grafieken in het dashboard weer te geven: een KPI voor de maximum behaalde hoek (tot nu toe), een lijndiagram om de progressie van de maximum hoek te zien over tijd, een staafdiagram voor de hoeveel oefeningen per dag een patiënt doet en als laatste nog een lijndiagram voor de hoeveelheid tijd een patiënt nodig heeft om een oefening te voltooien. Deze grafieken staan in een mooie interface <br><img src='assets/3.5/dashboard_mobi.jpg' alt='mobilab dashboard'> <br> <a  href='https://github.com/Thomas-More-Digital-Innovation/2324-MOBI-012-Monitoringapplicatie-Web-App/blob/main/code/monitoringapplicatie_web_app/lib/pages/web_dashboard_page.dart' target='_blank'>Link naar Github</a>"
     },
     "3.6 Onderbouwd selecteren van IoT protocollen en componenten": {
       "type": ["iot"],
@@ -168,9 +168,9 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
       <p><img src='assets/growmore/retro.jpg' alt='labflow front-end bord'></p>
       <br>
       <h2 class='font-bold'>Relevante Links</h2>
-      <p><a href='https://github.com/cesarvanleuffelen/2324-MOBI-009-Game-voor-kinderen-met-een-beperking'>Github Repository</a></p>
-      <p><a href='https://trello.com/b/dG5hslnJ/modem-spel-voor-kinderen-met-een-beperking'>Trello bord</a></p>
-      <p><a href='https://www.figma.com/file/7drJsDmSQoWCn0zjyX5P3W/2324-MOBI-09-Game?type=design&mode=design&t=6kaufoS0JaMn0Co0-1'>Figma</a></p>
+      <p><a target='_blank' href='https://github.com/cesarvanleuffelen/2324-MOBI-009-Game-voor-kinderen-met-een-beperking'>Github Repository</a></p>
+      <p><a target='_blank' href='https://trello.com/b/dG5hslnJ/modem-spel-voor-kinderen-met-een-beperking'>Trello bord</a></p>
+      <p><a target='_blank' href='https://www.figma.com/file/7drJsDmSQoWCn0zjyX5P3W/2324-MOBI-09-Game?type=design&mode=design&t=6kaufoS0JaMn0Co0-1'>Figma</a></p>
       <br>
       `
     },
@@ -239,9 +239,9 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
       <p>Tijdens het project van Race to the Futur maakten we gebruiken van een open-source project genaamd Donkey Car. Dit is een platform om auto's vanzelf te laten rijden, gemaakt door hobbyisten en studenten. Dit platform biedt verschillende build-in features die het gemakkelijker moeten maken om een auto autonoom te laten rondrijden. Een van die tools die zei aanbieden is 'Donkey UI'. Donkey UI is een grafische training interface die je kan gebruiken voor allerlei soorten zaken zoals: gegevens overzetten van auto naar computer, getrainde moddelen op de auto plaatsen. Voor ons was echter de Tub Manager het belangrijkste! Wanneer we het model willen trainen moeten we het een hoop data geven waarmee het zichzelf kan leren hoe hij moet rijden. Die data zijn opnames van de camera vooraan op de auto in combinatie met stuurhoek en gas-gehalte die opnemen wanneer wij manueel met de auto rondrijden. Die beelden worden dan verzameld en opgeslagen zodat wij deze achteraf aan het model kunnen geven als trainingsdata. De Tub Manager maakt het simpel voor ons om deze beelden te bekijken en frames van de video's eruit te knippen die niet relevant zijn voor het model. Een voorbeeld: wanneer we filmen dat de auto rechtdoor rijdt aan volle snelheid maar eigenlijk tegen een muur rijdt, dan kunnen we deze beelden er best uithalen. Anders gaat de auto zichzelf aanleren dat wanneer hij terug voor die muur (of een andere gelijkaardige) staat, ook rechtdoor mag blijven rijden aan 100% snelheid.</p>
       <br>
       <h2 class='font-bold'>Relevante Links</h2>
-      <p><a href='https://github.com/Thomas-More-Digital-Innovation/2324-DI-005-Race-to-the-Future'>Github Repository</a></p>
-      <p><a href='https://docs.donkeycar.com/'>Donkey Car</a></p>
-      <p><a href='https://www.instagram.com/stories/highlights/18228670510205133/'>Instagram Post</a></p>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2324-DI-005-Race-to-the-Future'>Github Repository</a></p>
+      <p><a target='_blank' href='https://docs.donkeycar.com/'>Donkey Car</a></p>
+      <p><a target='_blank' href='https://www.instagram.com/stories/highlights/18228670510205133/'>Instagram Post</a></p>
       <br>
       `
     },
@@ -297,8 +297,8 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
       <img src='assets/pikassa/retrospective.jpeg' alt='retrospective'>
       <br>
       <h2 class='font-bold'>Relevante Links</h2>
-      <p><a href='https://github.com/Thomas-More-Digital-Innovation/2425-TM-012-Eenvoudig-kassasysteem-voor-de-Wagenwinkel'>Github Repository</a></p>
-      <p><a href='https://github.com/Thomas-More-Digital-Innovation/2425-TM-012-Eenvoudig-kassasysteem-voor-de-Wagenwinkel/blob/dev/documents/meetings/sprint_1_verslagen.md'>meeting Opvolging</a></p>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM-012-Eenvoudig-kassasysteem-voor-de-Wagenwinkel'>Github Repository</a></p>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM-012-Eenvoudig-kassasysteem-voor-de-Wagenwinkel/blob/dev/documents/meetings/sprint_1_verslagen.md'>meeting Opvolging</a></p>
       <br>
       `
     },
@@ -322,9 +322,9 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
       <iframe src='/assets/growmore/modem_games_ideas.pdf' width='100%' height='500px'></iframe>
       <br>
       <h2 class='font-bold'>Relevante Links</h2>
-      <p><a href='https://github.com/cesarvanleuffelen/2324-MOBI-009-Game-voor-kinderen-met-een-beperking'>Github Repository</a></p>
-      <p><a href='https://trello.com/b/dG5hslnJ/modem-spel-voor-kinderen-met-een-beperking'>Trello bord</a></p>
-      <p><a href='https://www.figma.com/file/7drJsDmSQoWCn0zjyX5P3W/2324-MOBI-09-Game?type=design&mode=design&t=6kaufoS0JaMn0Co0-1'>Figma</a></p>
+      <p><a target='_blank' href='https://github.com/cesarvanleuffelen/2324-MOBI-009-Game-voor-kinderen-met-een-beperking'>Github Repository</a></p>
+      <p><a target='_blank' href='https://trello.com/b/dG5hslnJ/modem-spel-voor-kinderen-met-een-beperking'>Trello bord</a></p>
+      <p><a target='_blank' href='https://www.figma.com/file/7drJsDmSQoWCn0zjyX5P3W/2324-MOBI-09-Game?type=design&mode=design&t=6kaufoS0JaMn0Co0-1'>Figma</a></p>
       <br>
       <hr>
       <h1 class='font-bold text-xl  text-gray-600'>LABflow</h1>
@@ -341,10 +341,10 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
       <p>In de begin fase van het project van LABflow zijn we aan de slag gegaan met het maken van een eerste prototype in Figma (link onderaan). We hadden na onze meeting met de docenten van 'laboratorium technologieën' een idee van wat we moesten maken, maar om alle neuzen in dezelfde richten te laten wijzen besloten we om eerste een prototype voor te leggen dat snel aan te passen was. Goed, want we kregen feedback zoals bijvoorbeeld: 'Nadat student testen registreren voor een staal gaan zei deze eerst uitvoeren en dan pas starten met resultaten ingeven.' In onze eerste versie kon dit inderdaad niet en hebben we deze aanpassingen doorgevoerd.</p>
       <br>
       <h2 class='font-bold'>Relevante Links</h2>
-      <p><a href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow'>Github Repository</a></p>
-      <p><a href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/26'>Github project bord back-end</a></p>
-      <p><a href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/28'>Github project bord front-end</a></p>
-      <p><a href='https://www.figma.com/proto/xAg0y5NWAde821meTFkhzX/Labflow-v1?page-id=1%3A2&node-id=77-1747&node-type=canvas&viewport=551%2C469%2C0.11&t=voxuzeR12VQjqFFp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=77%3A1747'>Figma</a></p>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow'>Github Repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/26'>Github project bord back-end</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/28'>Github project bord front-end</a></p>
+      <p><a target='_blank' href='https://www.figma.com/proto/xAg0y5NWAde821meTFkhzX/Labflow-v1?page-id=1%3A2&node-id=77-1747&node-type=canvas&viewport=551%2C469%2C0.11&t=voxuzeR12VQjqFFp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=77%3A1747'>Figma</a></p>
       <br>
       `
     }
@@ -366,13 +366,13 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
       <br>
       <h2 class='font-bold'>Doelstelling</h2>
       <p>Tijdens het werken aan het project van mobiLAB heb ik 3 branches aangemaakt met verschillende commits in. Onder deze tekst kan je een link terugvinden naar de branch pagina van de web versie repository waar je deze zelf kan bekijken. Git hebben we in elk project wel gebruikt, ik kies er voor om het vooral in het mobiLAB project te tonen.</p>
-      <p><a href='https://github.com/Thomas-More-Digital-Innovation/2324-MOBI-012-Monitoringapplicatie-Web-App/branches'>Github branches</a></p>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2324-MOBI-012-Monitoringapplicatie-Web-App/branches'>Github branches</a></p>
       <img src='/assets/mobilab/github_branches.png' alt='git'>
       <br>
       <h2 class='font-bold'>Relevante Links</h2>
-      <p><a href='https://github.com/Thomas-More-Digital-Innovation/2324-MOBI-012-Monitoringapplicatie-Web-App'>Github Repository</a></p>
-      <p><a href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/22/settings'>Github projects bord</a></p>
-      <p><a href='https://www.figma.com/file/jM85YEemp1JlE1XwK7KMya/MOBI-012-Prototypes?type=design&node-id=0%3A1&mode=design&t=uqADgVe87OyU2Ndv-1'>Figma</a></p>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2324-MOBI-012-Monitoringapplicatie-Web-App'>Github Repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/22/settings'>Github projects bord</a></p>
+      <p><a target='_blank' href='https://www.figma.com/file/jM85YEemp1JlE1XwK7KMya/MOBI-012-Prototypes?type=design&node-id=0%3A1&mode=design&t=uqADgVe87OyU2Ndv-1'>Figma</a></p>
       <br>
       `
     },
@@ -460,7 +460,9 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
       "status": "d",
       "verified": "",
       "project": "Race to the Future",
-      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      "bewijs": `
+      <h1 class='text-lg font-bold'>Race to the Future<h1/>
+      <h2 class='font-bold'>Opdrachtgever</h2>
       <p>Wedstrijd tussen Thomas More Digital Innovation & Ingenieur-studenten KU Leuven</p>
       <br>
       <h2 class='font-bold'>Opdracht Omschrijving</h2>
@@ -478,9 +480,25 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
       <p>Als we programma's schrijven kunnen we rechtstreeks kiezen om de keuzes rechtstreeks te programmeren die hij moet maken in bepaalde situaties. Een voorbeeld hiervan zou zijn: 'wanneer je een obstakel links van je detecteer, stuur dan gedurende 1 seconde naar rechts en exact het omgekeerde voor wanneer je iets rechts detecteert'. Dit lijkt in theorie geen probleem maar in de praktijk ga je een heel trage en zichzaggende wagen creëren waarvan je misselijk zou worden van er alleen al maar naar te kijken. Dat is de reden dat we tijdens het Race to the Futur project gebruik wilden maken van een 'Machine Learning Algorithm'. Kort weg is dit een programma dat data vraagt waarmee het zichzelf kan trainen zodat het op termijn (met genoeg data en training) dezelfde beslissingen gaat nemen als jij zou doen. Wanneer je een race wilt winnen is dit de beste optie aangezien het zichzelf zou besturen zoals jij hem zou besturen. Nu is het zo dat we Donkey Car gebruiken en zei zorgen out-of-the-box al voor pre-trained modellen (modellen die zei voor een groot stuk al hebben getraint). Al deze modellen zijn gebasseerd op keras, een high-level neural network api. Wij hebben voor dit model gekozen aangezien dat dit, tegenover de andere opties, ons de beste optie leek. Dit model geeft voor zowel de gas als de stuurhoek een constante stroom van specifieke waarde door aan de controller van het auto'tje. Dit is het basis model dat aangeraden wordt maar heeft als voordelen dat het op een 'smooth' manier kan sturen en dat het zich niet houd aan specifieke waarde dat het enkel kan aannemen (0%, 20%, 40%, ..., 100% en niets er tusses). Daarbij komt ook zien dat dit model goed samen werkt computers met gelimiteerde kracht. Aangezien wij werkten met een jetson nano was dit de ideale combinatie.</p>
       <br>
       <h2 class='font-bold'>Relevante Links</h2>
-      <p><a href='https://github.com/Thomas-More-Digital-Innovation/2324-DI-005-Race-to-the-Future'>Github Repository</a></p>
-      <p><a href='https://docs.donkeycar.com/'>Donkey Car</a></p>
-      <p><a href='https://www.instagram.com/stories/highlights/18228670510205133/'>Instagram Post</a></p>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2324-DI-005-Race-to-the-Future'>Github Repository</a></p>
+      <p><a target='_blank' href='https://docs.donkeycar.com/'>Donkey Car</a></p>
+      <p><a target='_blank' href='https://www.instagram.com/stories/highlights/18228670510205133/'>Instagram Post</a></p>
+      <br>
+      <hr/>
+      <h1 class='text-lg font-bold'>Project 4.0<h1/>
+      <h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Cipal Schaubroeck</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>Voor het project 4.0 helpen we Cipal Schaubroeck met hun groeiend ANPR-camera lot. Op het moment gebeurd alles redelijk handmatig en is er geen redundante link wanneer de router van de camera stuk gaat. Daarom hebben ze ons de opdracht gegeven om de foutmeldingen die de camera teruggeeft aan de hand van AI toepassingen te classificeren om zo handmatig werk ter verminderen. Daarnaast hebben ze ons ook gevraagd om een module in de elektrische kast van de camera in te bouwen om fouten in de kast op te sporen en nauwkeurige analysis van op afstand te kunnen maken vooraleer ze een reparatie team erop af sturen.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>september 2024 -> februari 2025</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Tijdens de 2de fase van het project waar we bepaalde tools gingen onderzoeken, heb ik mij bezig gehouden met het analyseren van een tool genaamd PyCaret. Dit is een end-to-end machine learning framework. PyCaret kan ons helpen bij het analyseren van data, het kiezen van modellen tot aan het opzetten van een api en het deployen ervan. Onderaan kan je een pdf terugvinden van mijn onderzoek naar PyCaret samen met alle mogelijke toepassingen ervan die wij kunnen gebruiken tijdens ons project.</p>
+      <iframe src='/assets/project_4-0/pycaret.pdf' width='100%' height='500px'></iframe>
+      <br>
       <br>
       `
     },
@@ -805,7 +823,24 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
       "status": "d",
       "verified": "",
       "project": "MobiLab",
-      "bewijs": ""
+      "bewijs": `<h1 class='text-lg font-bold'>MobiLab<h1/>
+      <h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Mobilab & care (onderzoeksgroep Thomas More)</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>Dit project is gericht op de ontwikkeling van een innovatieve monitoringapplicatie om het revalidatieproces van mensen met lichamelijke klachten, zoals motorische problemen, beter in kaart te brengen en op de lange termijn te ondersteunen. Hoewel er al bestaande sensoren waren (Movella Dot Sense X), kon de huidige applicatie die deze sensoren gebruikt niet voldoen aan de specifieke behoeften van patiënten en therapeuten vanwege beperkte functionaliteit en een gebrek aan toegankelijkheid en beheer. Deze nieuwe oplossing richt zich op het creëren van een platform dat sensorinformatie effectief vastlegt, langdurige analyses mogelijk maakt en de data beschikbaar maakt voor zorgprofessionals.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>Oktober 2023 -> Juni 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Het project van MobiLab was al een aantal maanden bezig vooraleer ik mee ben begonnen met het werken aan deze applicatie. Toen ik mee ben beginnen werken was de mobiele applicatie en een deel van de web-applicatie al af. De basis van de web-app (login en basis schermen) was al gemaakt maar enkel de layout van wat het moest worden met wat basis functionaliteiten. Mijn eerste taak was om het begin scherm verder af te maken. Dit moest een uitbreiding van features krijgen waar de dokter op een oogopslag kan kijken wie de laatste gebruikers waren samen met een lijst van al zijn patiënten. Daarna heb ik het dashboard verder gezet. Hier waren 3 grafieken gemaakt die telkens hetzelfde toonden. Hier heb ik de bestaande code omgevormd tot een KPI van de hoogst gehaalde hoek voor die patiënt. Zo kan de dokter direct zien hoe het gesteld is met de patiënt. Daarnaast is er ook een grafiek toegevoegd met het verloop van de revalidatie.</p>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2324-MOBI-012-Monitoringapplicatie-Web-App'>Github Repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/22/settings'>Github projects bord</a></p>
+      <p><a target='_blank' href='https://www.figma.com/file/jM85YEemp1JlE1XwK7KMya/MOBI-012-Prototypes?type=design&node-id=0%3A1&mode=design&t=uqADgVe87OyU2Ndv-1'>Figma</a></p>
+      <br>`
     },
     "11.2 Controleren en troubleshooten van smart environment en IoT cloud architecturen": {
       "type": ["iot"],
@@ -851,9 +886,9 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
       "project": "Requirements Analysis & tech talks",
       "bewijs": `<img src='assets/OPOs/requirements-analysis.png' alt='Rrequirements Analysis'>
       <br>
-      <p><a href='https://docs.google.com/presentation/d/1id_3LJoPBWWkNCTgibnsos0asmtJadPcsmEQWzWgFEE/edit?usp=sharing'>link tech talk: MACH architectuur</a></p>
-      <p><a href='https://docs.google.com/presentation/d/13g3g3-2RLPWtcZqJ3-EoZjZYsDUt9EvEN9VJ9rSUCa0/edit?usp=sharing'>link tech talk: Cloudflare</a></p>
-      <p><a href='https://docs.google.com/presentation/d/1hTm2YRq4MBEOjKQVjzmGDID1LTe36FymMZ3FtOdvPbA/edit?usp=sharing'>link tech talk: WebGL</a></p>`
+      <p><a target='_blank' href='https://docs.google.com/presentation/d/1id_3LJoPBWWkNCTgibnsos0asmtJadPcsmEQWzWgFEE/edit?usp=sharing'>link tech talk: MACH architectuur</a></p>
+      <p><a target='_blank' href='https://docs.google.com/presentation/d/13g3g3-2RLPWtcZqJ3-EoZjZYsDUt9EvEN9VJ9rSUCa0/edit?usp=sharing'>link tech talk: Cloudflare</a></p>
+      <p><a target='_blank' href='https://docs.google.com/presentation/d/1hTm2YRq4MBEOjKQVjzmGDID1LTe36FymMZ3FtOdvPbA/edit?usp=sharing'>link tech talk: WebGL</a></p>`
     },
     "12.3 Op een professionele manier contact leggen met bedrijven": {
       "type": ["alles"],
@@ -882,12 +917,12 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
       <p>Bij het opstarten van het project met labflow hebben wij op voorhand de informatie bekeken en vragen opgesteld waarvan we wisten dat we die sowieso wouden gaan stellen. Tijdens die eerste ontmoeting met de 2 docenten van Laboratoriumtechnologieën hebben we eerst geluisterd naar hun verhaal. Tussendoor en erna hebben we onze vragen dan kunnen stellen en heb ik notities genomen. Na afloop van ons gesprek zijn Nathan en ik gaan samenzitten om alles mooi op punt te brengen in ons analyse document. Dit document is te vinden in de Onedrive van Digital Innovation. Documents > Academiejaar 2024-2025 > Projectopvolging > TM_BLC-001 LabFlow > Analyse.docx</p>
       <br>
       <h2 class='font-bold'>Relevante Links</h2>
-      <p><a href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow'>Github Repository</a></p>
-      <p><a href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/26'>Github Project Bord Back-end</a></p>
-      <p><a href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/28'>Github Project Bord Front-end</a></p>
-      <p><a href='https://www.figma.com/proto/xAg0y5NWAde821meTFkhzX/Labflow-v1?page-id=1%3A2&node-id=77-1747&node-type=canvas&viewport=551%2C469%2C0.11&t=voxuzeR12VQjqFFp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=77%3A1747'>Figma Prototype</a></p>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow'>Github Repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/26'>Github Project Bord Back-end</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/28'>Github Project Bord Front-end</a></p>
+      <p><a target='_blank' href='https://www.figma.com/proto/xAg0y5NWAde821meTFkhzX/Labflow-v1?page-id=1%3A2&node-id=77-1747&node-type=canvas&viewport=551%2C469%2C0.11&t=voxuzeR12VQjqFFp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=77%3A1747'>Figma Prototype</a></p>
       <br>
-      <p><a href='https://thomasmore365.sharepoint.com/:w:/s/s.itf.digital.innovation/EaJHjYWoCj9JtwAgGKahy4ABNgCK5T1hwFN7JgmXgsn3Bw?e=7ehZwT'>Eerste gesprek klant</a></p>
+      <p><a target='_blank' href='https://thomasmore365.sharepoint.com/:w:/s/s.itf.digital.innovation/EaJHjYWoCj9JtwAgGKahy4ABNgCK5T1hwFN7JgmXgsn3Bw?e=7ehZwT'>Eerste gesprek klant</a></p>
       `
     },
     "12.5 Mondeling en schriftelijk communiceren in het kader van een sollicitatie": {
@@ -982,7 +1017,27 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
       "status": "d",
       "verified": "",
       "project": "MobiLab",
-      "bewijs": ""
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Mobilab & care (onderzoeksgroep Thomas More)</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>Dit project is gericht op de ontwikkeling van een innovatieve monitoringapplicatie om het revalidatieproces van mensen met lichamelijke klachten, zoals motorische problemen, beter in kaart te brengen en op de lange termijn te ondersteunen. Hoewel er al bestaande sensoren waren (Movella Dot Sense X), kon de huidige applicatie die deze sensoren gebruikt niet voldoen aan de specifieke behoeften van patiënten en therapeuten vanwege beperkte functionaliteit en een gebrek aan toegankelijkheid en beheer. Deze nieuwe oplossing richt zich op het creëren van een platform dat sensorinformatie effectief vastlegt, langdurige analyses mogelijk maakt en de data beschikbaar maakt voor zorgprofessionals.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>Oktober 2023 -> Juni 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Voor het project van Mobilab moesten we complexe berekeningen uitvoeren om een hoek in graden te bepalen. We ontvingen namelijk van twee sensoren telkens twee verschillende lijsten met vier complexe getallen. Deze lijsten gaven de positie van de sensoren ten opzichte van de aarde weer met behulp van quaternionen. Toen we hoorden hoe dit werkte (met zeer geavanceerde wiskunde), nam ik het voortouw om deze berekeningen uit te werken. Ik had de meeste ervaring met wiskunde binnen de groep en vond het bovendien een leuke uitdaging. Onderaan vindt u een link naar de code voor deze berekeningen en een foto van mijn notities.</p>
+      <br>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2324-MOBI-012-Monitoringapplicatie-Web-App/blob/main/code/monitoringapplicatie_web_app/lib/pages/quat_calculator.dart'>quaternionen calculator</a></p>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2324-MOBI-012-Monitoringapplicatie-Web-App/blob/main/code/monitoringapplicatie_web_app/lib/pages/web_dashboard_page.dart'>dashboard</a></p>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2324-MOBI-012-Monitoringapplicatie-Web-App'>Github Repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/22'>Github Project Bord</a></p>
+      <p><a target='_blank' href='https://www.figma.com/file/jM85YEemp1JlE1XwK7KMya/MOBI-012-Prototypes?type=design&node-id=0%3A1&mode=design&t=uqADgVe87OyU2Ndv-1'>Figma Prototype</a></p>
+      <br>
+      `
     }
   },
   "16 ONDERNEMEN - Je gebruikt innovatieve oplossingen en staat open voor vernieuwende denkwijzen om blijvend te voldoen aan de veranderende behoeften van het bedrijfsleven en de samenleving.": {
@@ -991,14 +1046,14 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
       "status": "d",
       "verified": "Bram Heyns",
       "project": "Tech Talk: MACH architectuur",
-      "bewijs": `<p><a href='https://docs.google.com/presentation/d/1id_3LJoPBWWkNCTgibnsos0asmtJadPcsmEQWzWgFEE/edit?usp=sharing'>link tech talk: MACH architectuur</a></p>`
+      "bewijs": `<p><a target='_blank' href='https://docs.google.com/presentation/d/1id_3LJoPBWWkNCTgibnsos0asmtJadPcsmEQWzWgFEE/edit?usp=sharing'>link tech talk: MACH architectuur</a></p>`
     },
     "16.2 Beschrijven van de toekomstige trends binnen het eigen vakgebied": {
       "type": ["alles"],
       "status": "d",
       "verified": "Bram Heyns",
       "project": "Tech Talk: WebGL",
-      "bewijs": `<p><a href='https://docs.google.com/presentation/d/1hTm2YRq4MBEOjKQVjzmGDID1LTe36FymMZ3FtOdvPbA/edit?usp=sharing'>link tech talk: WebGL</a></p>`
+      "bewijs": `<p><a target='_blank' href='https://docs.google.com/presentation/d/1hTm2YRq4MBEOjKQVjzmGDID1LTe36FymMZ3FtOdvPbA/edit?usp=sharing'>link tech talk: WebGL</a></p>`
     }
   },
   "17 ONDERNEMEN - Je houdt rekening met economische randvoorwaarden, relevante regelgeving, best practices en bewaakt de toepassing van het kwaliteitsbeleid van de organisatie.": {
@@ -1029,15 +1084,34 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
       "type": ["alles"],
       "status": "d",
       "verified": "",
-      "project": "Grow More",
-      "bewijs": "Grow More is een project waar we een game gemaakt hebben voor kinderen met een mentale/fysieke beperking. Dit was mijn eerste project samen met Toon dat we zelf moesten opstarten. Dit was geen enkel probleem want we hebben direct contact opgenomen met onze opdracht geven en een eerste meeting opgezet. Zo konden we horen wat de verwachtingen waren, wat het project juist was en waar we zeker rekening mee moesten houden naar onze doelgroep toe. Na die eerste meeting hadden we afgesproken om met enkele game concepten op te komen. Dit deden we dan ook en zo kwamen we terecht op een 9-tal concepten die we voorlegde aan onze klant. Na het overlopen van al deze concepten zijn we gestrand op het concept van het laten groeien van planten aan de hand van erop te klikken. Onderaan  kan je een link vinden naar een Notion document met een deel van de ideeën in. <br><a href='https://www.figma.com/proto/7drJsDmSQoWCn0zjyX5P3W/2324-MOBI-09-Game?node-id=3-3&t=24pfl4N4aVTDnuMo-1' target='_blank'>Link naar Notion document</a>"
+      "project": "Pikasse",
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Thomas More Iclusieve Wagenwinkel</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>Pikkassa is een innovatief kassasysteem dat speciaal ontwikkeld is voor mensen met een mentale beperking en wordt gebruikt op onze school om hen te ondersteunen bij verkoopactiviteiten. Op bepaalde dagen komen scholen, zoals BUSO-scholen, waar leerlingen met een mentale beperking onderwijs volgen, naar onze school om hun zelfgemaakte producten te verkopen. Dit kunnen bijvoorbeeld kaartjes, hangertjes, en andere creatieve items zijn. Pikkassa maakt het voor deze leerlingen mogelijk om zelfstandig en eenvoudig hun verkoop te beheren, door hen te helpen met bijvoorbeeld het verwerken van transacties. Het systeem vormt een onderdeel van het startersproject voor de tweedejaarsstudenten van DI in het schooljaar 2024-2025. Deze studenten zijn verantwoordelijk voor de ontwikkeling, het onderhoud en de optimalisatie van Pikkassa. Ze leren hierbij niet alleen technische vaardigheden zoals programmeren en systeembeheer, maar dragen ook bij aan een belangrijk sociaal doel: het creëren van een veilige, toegankelijke omgeving waarin mensen met een mentale beperking hun vaardigheden kunnen ontwikkelen. Het project bevordert zo zowel technische expertise als maatschappelijke inclusiviteit en zelfstandigheid voor de deelnemende leerlingen.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>april 2024 -> dec 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Aan het einde van het schooljaar 2023-2024 hebben ze mij gevraagd om een pitch video in te sturen voor de ICE awards. Ik had hier het jaar daarvoor ook al aan mee gedaan maar nu was er €500 te winnen. Aangezien het leuk zou zijn als de nieuwe 2de jaars budget zouden hebben om hun kick-off project mee te maken. Daarvoor heb ik dus een pitch video opgenomen voor het Pikassa project. Onderaan vind je een link naar deze video.</p>
+      <br>
+      <p><a target='_blank' href='https://youtu.be/pK25ju0MESk'>pitch video</a></p>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2324-MOBI-012-Monitoringapplicatie-Web-App'>Github Repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/22'>Github Project Bord</a></p>
+      <p><a target='_blank' href='https://www.figma.com/file/jM85YEemp1JlE1XwK7KMya/MOBI-012-Prototypes?type=design&node-id=0%3A1&mode=design&t=uqADgVe87OyU2Ndv-1'>Figma Prototype</a></p>
+      <br>
+      `
     },
     "18.2 Bewust rekening houden met het niveau van IT kennis van een klant": {
       "type": ["alles"],
       "status": "d",
       "verified": "",
-      "project": "Grow More",
-      "bewijs": ""
+      "project": "Requirements Analysis",
+      "bewijs": "<img src='assets/OPOs/requirements-analysis.png' alt='Rrequirements Analysis'>"
     }
   },
   "19 PROJECTMATIG WERKEN - Je pakt opdrachten planmatig en projectmatig aan, rekening houdend met budget, middelen en tijd.": {
@@ -1046,21 +1120,57 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
       "status": "d",
       "verified": "",
       "project": "Grow More",
-      "bewijs": ""
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Wim De Backer (Modem)</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>Dit project heeft als doel een toegankelijke, plezierige en rustgevende game te ontwikkelen voor kinderen met een communicatieve, cognitieve of fysieke beperking. Gezien de uitdagingen waarmee de doelgroep te maken heeft, moet het spel worden ontworpen zonder tijdsdruk, complexe in-game economie, competitieve elementen of snelle acties. De game moet eenvoudig en zonder stress te spelen zijn, zodat kinderen van alle niveaus zich ermee kunnen vermaken. De uiteindelijke versie van het spel zal beschikbaar worden gemaakt op de website comgames.be.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>Februari 2024 -> April 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Met het grow more project hebben wij ons strikt aan de Agile scrum methode gehouden. Daardoor hebben alle use cases mooi opgelijst, een gewicht gegeven en telkens sprint periodes ingepland. Hieronder kan u een foto vinden van de trello.</p>
+      <img src='assets/growmore/grow_more_trello.png' alt='grow more trello'
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://github.com/cesarvanleuffelen/2324-MOBI-009-Game-voor-kinderen-met-een-beperking'>Github Repository</a></p>
+      <p><a target='_blank' href='https://trello.com/b/dG5hslnJ/modem-spel-voor-kinderen-met-een-beperking'>Trello bord</a></p>
+      <p><a target='_blank' href='https://www.figma.com/file/7drJsDmSQoWCn0zjyX5P3W/2324-MOBI-09-Game?type=design&mode=design&t=6kaufoS0JaMn0Co0-1'>Figma</a></p>
+      <br>`
     },
     "19.2 Toepassen en documenteren van de Agile methodologie": {
       "type": ["alles"],
       "status": "d",
       "verified": "",
       "project": "Grow More",
-      "bewijs": ""
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Wim De Backer (Modem)</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>Dit project heeft als doel een toegankelijke, plezierige en rustgevende game te ontwikkelen voor kinderen met een communicatieve, cognitieve of fysieke beperking. Gezien de uitdagingen waarmee de doelgroep te maken heeft, moet het spel worden ontworpen zonder tijdsdruk, complexe in-game economie, competitieve elementen of snelle acties. De game moet eenvoudig en zonder stress te spelen zijn, zodat kinderen van alle niveaus zich ermee kunnen vermaken. De uiteindelijke versie van het spel zal beschikbaar worden gemaakt op de website comgames.be.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>Februari 2024 -> April 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Met het grow more project hebben wij ons strikt aan de Agile scrum methode gehouden. Daardoor hebben alle use cases mooi opgelijst, een gewicht gegeven en telkens sprint periodes ingepland. Telkens na elke sprint hebben wij een retrospective gedaan om te bekijken wat goed ging en wat minder goed. Hieronder kan u een foto vinden van de trello en de retrospective resultaten.</p>
+      <img src='assets/growmore/grow_more_trello.png' alt='grow more trello'/>
+      <img src='assets/growmore/retro.jpg' alt='grow more retrospective'/>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://github.com/cesarvanleuffelen/2324-MOBI-009-Game-voor-kinderen-met-een-beperking'>Github Repository</a></p>
+      <p><a target='_blank' href='https://trello.com/b/dG5hslnJ/modem-spel-voor-kinderen-met-een-beperking'>Trello bord</a></p>
+      <p><a target='_blank' href='https://www.figma.com/file/7drJsDmSQoWCn0zjyX5P3W/2324-MOBI-09-Game?type=design&mode=design&t=6kaufoS0JaMn0Co0-1'>Figma</a></p>
+      <br>`
     },
     "19.3 Regelmatig rapporteren over projectvoortgang": {
       "type": ["alles"],
       "status": "d",
       "verified": "",
-      "project": "MobiLab",
-      "bewijs": ""
+      "project": "Feedpulse",
+      "bewijs": `<p>Om de 2 weken hadden we een meeting met een van de coaches. Hierin bespraken we de voortgang van de projecten en de volgende stappen. Hieronder vind je een foto van mijn feedpulse evaluaties van het afgelopen jaar.<p/>
+      <img src='assets/feedpulse/feedpulse.png' alt='feedpulse evaluatie'/>`
     }
   },
   "20 PROJECTMATIG WERKEN - Je werkt zowel zelfstandig als in een multidisciplinair team mee aan opdrachten en projecten, en voert hierbij eenvoudige leidinggevende taken uit.": {
@@ -1082,8 +1192,35 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
       "type": ["alles"],
       "status": "d",
       "verified": "",
-      "project": "MobiLab",
-      "bewijs": ""
+      "project": "Pikassa",
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Thomas More Iclusieve Wagenwinkel</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>Pikkassa is een innovatief kassasysteem dat speciaal ontwikkeld is voor mensen met een mentale beperking en wordt gebruikt op onze school om hen te ondersteunen bij verkoopactiviteiten.
+
+Op bepaalde dagen komen scholen, zoals BUSO-scholen, waar leerlingen met een mentale beperking onderwijs volgen, naar onze school om hun zelfgemaakte producten te verkopen. Dit kunnen bijvoorbeeld kaartjes, hangertjes, en andere creatieve items zijn.
+
+Pikkassa maakt het voor deze leerlingen mogelijk om zelfstandig en eenvoudig hun verkoop te beheren, door hen te helpen met bijvoorbeeld het verwerken van transacties.
+
+Het systeem vormt een onderdeel van het startersproject voor de tweedejaarsstudenten van DI in het schooljaar 2024-2025. Deze studenten zijn verantwoordelijk voor de ontwikkeling, het onderhoud en de optimalisatie van Pikkassa.
+
+Ze leren hierbij niet alleen technische vaardigheden zoals programmeren en systeembeheer, maar dragen ook bij aan een belangrijk sociaal doel: het creëren van een veilige, toegankelijke omgeving waarin mensen met een mentale beperking hun vaardigheden kunnen ontwikkelen.
+
+Het project bevordert zo zowel technische expertise als maatschappelijke inclusiviteit en zelfstandigheid voor de deelnemende leerlingen.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>april 2024 -> dec 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Tijdens de eerste week van het Pikassa project (inclusieve kassa voor de wagenwinkel) stonden Wesley en Ik in voor het opstarten en leiden van de 2de jaars in hun eerste project onder Digital Innovation. Zoals alle projecten binnen DI werken we met de Agile Scrum methode. Vanaf we het project hadden opgestart zijn we dagelijks met de jongens van 2DI een scrum meeting gedaan. Na elke scrum meeting hebben we een samenvatting gemaakt en deze in een markdown bestand in de repo gezet (link naar bestand onderaan). Na onze week hebben we dan ook nog een Retrospective gedaan met de jongens, daarvan kan je onderaan een foto vinden.</p>
+      <img src='assets/pikassa/retrospective.jpeg' alt='retrospective'>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM-012-Eenvoudig-kassasysteem-voor-de-Wagenwinkel'>Github Repository</a></p>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM-012-Eenvoudig-kassasysteem-voor-de-Wagenwinkel/blob/dev/documents/meetings/sprint_1_verslagen.md'>meeting Opvolging</a></p>
+      <br>
+      `
     }
   },
   "21 PROFESSIONEEL HANDELEN - Je evalueert je eigen functioneren en je stuurt dit bij.": {
@@ -1098,8 +1235,9 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
       "type": ["alles"],
       "status": "d",
       "verified": "",
-      "project": "Professional Skills 2",
-      "bewijs": "<img src='assets/OPOs/professional-skills.png' alt='Professional Skills'>"
+      "project": "Feedpulse",
+      "bewijs": `<p>Om de 2 weken hadden we een meeting met een van de coaches. Hierin bespraken we de voortgang van de projecten en de volgende stappen. Hieronder vind je een foto van mijn feedpulse evaluaties van het afgelopen jaar.<p/>
+      <img src='assets/feedpulse/feedpulse.png' alt='feedpulse evaluatie'/>`
     },
     "21.3 Opstellen en volgen van een formeel remediëringsplan": {
       "type": ["alles"],
@@ -1129,14 +1267,42 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
       "status": "d",
       "verified": "Jochen",
       "project": "BIP Estland",
-      "bewijs": ""
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>ulemiste city university</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>In 2DI had ik de kans om samen met medestudenten deel te nemen aan een Blended Intensive Program (BIP). Hiervoor reisden we naar Tallinn, Estland, waar we niet alleen de Estse cultuur leerden kennen, maar ook de universiteit bezochten die ons die week gastvrij ontving. Tijdens ons verblijf volgden we interessante infosessies over hun visie op een Smart City, die je kunt vergelijken met een kleine Silicon Valley. De universiteit stond open voor allerlei ideeën om hun stad duurzamer te maken. Om dit te stimuleren, organiseerden ze een hackathon waarin we onze oplossingen konden uitwerken en presenteren.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>10 dagen in mei 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Tijdens deze blended intensive program hebben we samengewerkt met mensen van verschillende landen (Duitsland, Estland, Roemenië,...). Doorheen de week hebben we ook een rondleiding gekregen doorheen de stad en hebben we verschillende kerken bezocht.</p>
+      <iframe src='/assets/bip/bip_certificaat.pdf' width='100%' height='500px'></iframe>
+      <br>
+      `
     },
     "22.3 Faciliteren van samenwerkingen met andere culturen": {
       "type": ["alles"],
       "status": "d",
       "verified": "Jochen",
       "project": "BIP Estland",
-      "bewijs": ""
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>ulemiste city university</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>In 2DI had ik de kans om samen met medestudenten deel te nemen aan een Blended Intensive Program (BIP). Hiervoor reisden we naar Tallinn, Estland, waar we niet alleen de Estse cultuur leerden kennen, maar ook de universiteit bezochten die ons die week gastvrij ontving. Tijdens ons verblijf volgden we interessante infosessies over hun visie op een Smart City, die je kunt vergelijken met een kleine Silicon Valley. De universiteit stond open voor allerlei ideeën om hun stad duurzamer te maken. Om dit te stimuleren, organiseerden ze een hackathon waarin we onze oplossingen konden uitwerken en presenteren.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>10 dagen in mei 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Tijdens deze blended intensive program hebben we samengewerkt met mensen van verschillende landen (Duitsland, Estland, Roemenië,...). Dit vooral tijdens de hackathon die plaats vond op de laatste 2 dagen van de BIP. Hier hebben ik en Seppe samengewerkt aan met 3 andere Duitse jongens aan een applicatie om buiten sporten te promoten.</p>
+      <iframe src='/assets/bip/bip_certificaat.pdf' width='100%' height='500px'></iframe>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://docs.google.com/presentation/d/1NtR4bLyxCHy6WqS3fKwj1bcAeQyvZXAxCBBteaCvjto/edit?usp=sharing'>presentaties</a></p>
+      `
     }
   },
   "23 PROFESSIONEEL HANDELEN - Je handelt ethisch, deontologisch en maatschappelijk verantwoord en neemt verantwoordelijkheid voor resultaten.": {
@@ -1145,7 +1311,22 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
       "status": "d",
       "verified": "Jochen",
       "project": "BIP Estland",
-      "bewijs": " -- Presentatie of documentatie toevoegen -- "
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>ulemiste city university</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>In 2DI had ik de kans om samen met medestudenten deel te nemen aan een Blended Intensive Program (BIP). Hiervoor reisden we naar Tallinn, Estland, waar we niet alleen de Estse cultuur leerden kennen, maar ook de universiteit bezochten die ons die week gastvrij ontving. Tijdens ons verblijf volgden we interessante infosessies over hun visie op een Smart City, die je kunt vergelijken met een kleine Silicon Valley. De universiteit stond open voor allerlei ideeën om hun stad duurzamer te maken. Om dit te stimuleren, organiseerden ze een hackathon waarin we onze oplossingen konden uitwerken en presenteren.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>10 dagen in mei 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Gedurende de laatste 2 dagen van de BIP was het tijd voor een  hackathon. Hierbij moesten we met samengestelde teams van andere universiteiten samenwerken om een idee te vinden dat een meerwaarde zou bieden aan Ulemiste city. Aangezien zei een moderne ecologisch vriendelijke stad willen bouwen was het vanzelfsprekend dat het idee dat ook moest zijn. Daarom bedachten wij een concept om meer mensen buiten te laten sporten en dat samen met andere door hen te verbinden via een applicatie.</p>
+      <iframe src='/assets/bip/bip_certificaat.pdf' width='100%' height='500px'></iframe>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://docs.google.com/presentation/d/1NtR4bLyxCHy6WqS3fKwj1bcAeQyvZXAxCBBteaCvjto/edit?usp=sharing'>presentaties</a></p>
+      `
     },
     "23.2 Maken van een neutrale analyse bij fouten, tegenslagen en mislukkingen zonder verantwoordelijkheid uit de weg te gaan": {
       "type": ["alles"],
