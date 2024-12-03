@@ -765,7 +765,32 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
       "status": "ip",
       "verified": "",
       "project": "LABflow & Web Applications in PHP",
-      "bewijs": "<img src='assets/OPOs/web-applicaties-in-php.png' alt='Web Applications in PHP'>"
+      "bewijs": `
+      <h1 class='text-lg font-bold'>Web Application in PHP<h1/>
+      <img src='assets/OPOs/web-applicaties-in-php.png' alt='Web Applications in PHP'>
+      <br>
+      <hr>
+      <br>
+      <h1 class='text-lg font-bold'>LABflow<h1/>
+      <h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Opleiding laboratorium technologieën</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>LabFlow is een innovatieve applicatie ontworpen voor het efficiënt beheren en opvolgen van laboratoriummonsters binnen de Biomedische Laboratoriumtechnologie. Deze tool ondersteunt studenten en professionals in het verwerken van verschillende soorten monsters, zoals bloed, huid en urine. De applicatie biedt essentiële functies voor monsterbeheer, waaronder het registreren van binnenkomende monsters, het genereren van barcodes voor snelle identificatie, het invoeren van analyseresultaten en het afdrukken van resultaten inclusief referentiewaarden voor eenvoudige interpretatie. Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat het uitwerken van gebruikersverhalen, het creëren van Figma-prototypes, en het maken van strategische keuzes rondom technologieën, zoals het bepalen van het platform (web of app), database-oplossingen en programmeertalen.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>september 2024 -> december 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Voor het labflow project werkten we met een front-end (svelte) en back-end (java spring boot). Aangezien we de data opgeslagen in onze database via onze back-end niet voor iedereen zichtbaar wouden maken hebben we besloten om hier een authenticatie systeem voor op te zetten. Dit </p>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow'>Github Repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/26'>Github Project Bord Back-end</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/28'>Github Project Bord Front-end</a></p>
+      <p><a target='_blank' href='https://www.figma.com/proto/xAg0y5NWAde821meTFkhzX/Labflow-v1?page-id=1%3A2&node-id=77-1747&node-type=canvas&viewport=551%2C469%2C0.11&t=voxuzeR12VQjqFFp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=77%3A1747'>Figma Prototype</a></p>
+      <br>
+      `
     },
     "10.3 Rekening houden met en faciliteren van de toekomstige aanpasbaarheid van applicaties": {
       "type": ["alles"],
@@ -835,6 +860,7 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
       <br>
       <h2 class='font-bold'>Doelstelling</h2>
       <p>Het project van MobiLab was al een aantal maanden bezig vooraleer ik mee ben begonnen met het werken aan deze applicatie. Toen ik mee ben beginnen werken was de mobiele applicatie en een deel van de web-applicatie al af. De basis van de web-app (login en basis schermen) was al gemaakt maar enkel de layout van wat het moest worden met wat basis functionaliteiten. Mijn eerste taak was om het begin scherm verder af te maken. Dit moest een uitbreiding van features krijgen waar de dokter op een oogopslag kan kijken wie de laatste gebruikers waren samen met een lijst van al zijn patiënten. Daarna heb ik het dashboard verder gezet. Hier waren 3 grafieken gemaakt die telkens hetzelfde toonden. Hier heb ik de bestaande code omgevormd tot een KPI van de hoogst gehaalde hoek voor die patiënt. Zo kan de dokter direct zien hoe het gesteld is met de patiënt. Daarnaast is er ook een grafiek toegevoegd met het verloop van de revalidatie.</p>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2324-MOBI-012-Monitoringapplicatie-Web-App/branches'>branches</a></p>
       <br>
       <h2 class='font-bold'>Relevante Links</h2>
       <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2324-MOBI-012-Monitoringapplicatie-Web-App'>Github Repository</a></p>
@@ -1183,10 +1209,10 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
     },
     "20.2 Zich correct opstellen in een conflictsituatie": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
-      "project": "BIP Estland - Starr methode",
-      "bewijs": ""
+      "project": "BIP Estland - Star methode",
+      "bewijs": `Tijdens de reis naar Estland voor het blended intensive program met enkele andere Digital Innovation studenten heb ik een klein conflict gehad met een andere student. Vanwege de aard van dit voorval en informatie die niet openbaar op het internet hoort te staan, stel ik deze informatie niet publiekelijk beschikbaar. Als u dit wilt controleren kan u contact opnemen met me op <a href='mailto:cesar_vl@icloud.com'>cesar_vl@icloud.com</a>.`
     },
     "20.3 Actief deelnemen aan en leiden van vergaderingen": {
       "type": ["alles"],
@@ -1250,8 +1276,29 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
       "type": ["alles"],
       "status": "d",
       "verified": "",
-      "project": "MobiLab",
-      "bewijs": ""
+      "project": "LABflow",
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Opleiding laboratorium technologieën</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>LabFlow is een innovatieve applicatie ontworpen voor het efficiënt beheren en opvolgen van laboratoriummonsters binnen de Biomedische Laboratoriumtechnologie. Deze tool ondersteunt studenten en professionals in het verwerken van verschillende soorten monsters, zoals bloed, huid en urine. De applicatie biedt essentiële functies voor monsterbeheer, waaronder het registreren van binnenkomende monsters, het genereren van barcodes voor snelle identificatie, het invoeren van analyseresultaten en het afdrukken van resultaten inclusief referentiewaarden voor eenvoudige interpretatie. Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat het uitwerken van gebruikersverhalen, het creëren van Figma-prototypes, en het maken van strategische keuzes rondom technologieën, zoals het bepalen van het platform (web of app), database-oplossingen en programmeertalen.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>september 2024 -> december 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Tijdens het werken aan het project van LABflow hebben we correct gebruikt gemaakt van de .ENV file en de .gitignore om de environment variabelen niet op github te zetten. Daarnaast hebben we allebei bitwarden gebruikt voor password manager. Er waren namelijk bepaalde credetials die gebruikt werden die niet door iedereen gezien mochten worden. Als laatste wordt er ook correct gebruikt gemaakt van action secret in onze github workflows zodat deze wachtwoorden niet in plain tekst in de repository staan.</p>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow/blob/main/code/labflow-backend/.gitignore'>.gitignore back-end</a></p>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow/blob/main/code/labflow-frontend/.gitignore'>.gitignore front-end</a></p>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow/blob/main/.github/workflows/pipeline.yml'>workflow file</a></p>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow'>Github Repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/26'>Github projects bord back-end</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/28'>Github projects bord front-end</a></p>
+      <p><a target='_blank' href='https://www.figma.com/proto/xAg0y5NWAde821meTFkhzX/Labflow-v1?page-id=1%3A2&node-id=77-1747&node-type=canvas&viewport=551%2C469%2C0.11&t=voxuzeR12VQjqFFp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=77%3A1747'>Figma</a></p>
+      <br>
+      `
     }
   },
   "22 PROFESSIONEEL HANDELEN - Je houdt rekening met en handelt naar de internationale en bedrijfseconomische context.": {
@@ -1260,7 +1307,25 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
       "status": "d",
       "verified": "",
       "project": "Race To The Future",
-      "bewijs": ""
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Wedstrijd tussen Thomas More Digital Innovation & Ingenieur-studenten KU Leuven</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>Race To The Future is een jaarlijkse competitie waarin DI het opneemt tegen ingenieurs van de KUL, met elk jaar een nieuwe uitdaging. Dit jaar moesten we verkeerskegels ontwijken. We bouwden een RC-auto met een servo-aandrijving en gebruikten een Jetson Nano voor de nodige verwerkingskracht om autonoom te rijden. De codebase van vorige jaren bleek echter door verouderde packages niet bruikbaar, dus kozen we ervoor om met de open-source bibliotheek 'DonkeyCar' verder te werken. Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen, waardoor onze auto succesvol de kegels kon ontwijken en het parcours efficiënt aflegde.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>maart 2024 -> mei 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Bij de start van het project van Race to the Future heb ik het idee gehad om de calculaties van de computer te laten doen van op afstand. Dit door de beelden over wifi door te sturen naar een krachtige computer die dan op zijn beurt de juiste inputs voor de auto zou terug sturen. Aangezien deze manier van werken zou zorgen voor meer computer kracht, zou het mogelijk zijn om meer beelden te verwerken op een bepaald tijds interval. Dit zou dan weer lijden tot een snellere en meer nauwkeurige input van de auto. Dit idee werd uiteindelijk afgewezen aangezien de regels zeggen dat alle rekenkracht op de auto zelf moet gebeuren. De research die ik hiervoor heb geleverd is onderaan toegevoegd in pdf vorm.</p>
+      <iframe src='/assets/rttf/idee_rttf.pdf' width='100%' height='500px'></iframe>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2324-DI-005-Race-to-the-Future'>Github Repository</a></p>
+      <p><a target='_blank' href='https://docs.donkeycar.com/'>Donkey Car</a></p>
+      <p><a target='_blank' href='https://www.instagram.com/stories/highlights/18228670510205133/'>Instagram Post</a></p>
+      <br>
+      `
     },
     "22.2 Tonen van een open blik naar de wereld en andere culturen": {
       "type": ["alles"],
@@ -1333,7 +1398,29 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
       "status": "d",
       "verified": "",
       "project": "Grow More - Professional Skills 2",
-      "bewijs": "<img src='assets/OPOs/professional-skills.png' alt='Professional Skills'>"
+      "bewijs": `
+      <h1 class='text-lg font-bold'>Grow More<h1/>
+      <h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Wim De Backer (Modem)</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>Dit project heeft als doel een toegankelijke, plezierige en rustgevende game te ontwikkelen voor kinderen met een communicatieve, cognitieve of fysieke beperking. Gezien de uitdagingen waarmee de doelgroep te maken heeft, moet het spel worden ontworpen zonder tijdsdruk, complexe in-game economie, competitieve elementen of snelle acties. De game moet eenvoudig en zonder stress te spelen zijn, zodat kinderen van alle niveaus zich ermee kunnen vermaken. De uiteindelijke versie van het spel zal beschikbaar worden gemaakt op de website comgames.be.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>Februari 2024 -> April 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Tijdens het uitvoeren van onze eerste sprint zijn we erachter gekomen dat onze taken sneller klaar waren dan we gedacht hadden. Daardoor hebben extra taken opgenomen in de sprint waardoor we al heel wat af hadden tegen de sprint demo. Toen we onze oplossing lieten zien, had de klant nog enkele bedenkingen waardoor we het systeem terug van de grond op moesten bouwen. Wij waren daar initieel niet blij mee aangezien we hadden afgesproken op de vorige versie. Wanneer we de sprint retrospective dan hebben gedaan hebben we er ons bij neergelegd dat we rustiger aan hadden moeten doen en sneller voor feedback hadden moeten vragen. Dat hebben we dan voor de rest van het project ook gedaan! Daarna zijn er geen problemen meer geweest en was het een hele fijne samenwerking.</p>
+      <img src='assets/growmore/retro.jpg' alt='grow more retrospective'/>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://github.com/cesarvanleuffelen/2324-MOBI-009-Game-voor-kinderen-met-een-beperking'>Github Repository</a></p>
+      <p><a target='_blank' href='https://trello.com/b/dG5hslnJ/modem-spel-voor-kinderen-met-een-beperking'>Trello bord</a></p>
+      <p><a target='_blank' href='https://www.figma.com/file/7drJsDmSQoWCn0zjyX5P3W/2324-MOBI-09-Game?type=design&mode=design&t=6kaufoS0JaMn0Co0-1'>Figma</a></p>
+      <br>
+      <hr>
+      <h1 class='text-lg font-bold'>Professional Skills 2<h1/>
+<img src='assets/OPOs/professional-skills.png' alt='Professional Skills'>`
     }
   },
   "24 PROFESSIONEEL HANDELEN - Je doet aan levenslang leren en roept tijdig externe deskundigheid in.": {
@@ -1342,14 +1429,21 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
       "status": "d",
       "verified": "Jochen",
       "project": "Udemy Google Ads Cursus",
-      "bewijs": ""
+      "bewijs": `Tijdens de zomer vakantie van 2024 heb ik een Udemy cursus gevolgd over Google Ads. Hierin heb ik geleerd hoe ik een Google Ads campagne kan opzetten en optimaliseren. De reden dat ik deze cursus heb gevolgd is omdat ik mijn ouders wou helpen met adverteren voor hun bouw onderneming. In deze cursus bespreken ze 3 soorten campagnes: sales ads, leads ads en performance max ads. Per soort wordt besproken wat het is, wanneer je het best gebruikt en hoe je het moet gebruiken. Daarna worden er nog wat extra lessen gegeven rond optimalisatie, verkoops psychologie en copywriting. Hieronder vind je een foto van het certificaat dat ik bij afronding van de cursus heb ontvangen.
+      <img src='assets/udemy/certificaat.jpg' alt='certificaat'/>`
     },
     "24.2 Proactief externe deskundigheid inroepen wanneer nodig": {
       "type": ["alles"],
       "status": "d",
       "verified": "",
       "project": "Tech Talk: MACH architectuur",
-      "bewijs": ""
+      "bewijs": `
+      <h2 class='font-bold'>Doelstellingen</h2>
+      <p>Tijdens het voorbereiden van mij tech talk rond de MACH architectuur was me iets niet duidelijk. De 'H' voor in MACH staat voor headless en ik snapte het concept van headless niet in de gehele architectuur. Daarom heb ik Bram Heyns geconsulteerd om mijn vragen uit te klaren. Hieronder ziet u een foto van de relevante berichten.</p>
+      <img src='assets/mach/berichten.png' alt='berichten'/>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://docs.google.com/presentation/d/1id_3LJoPBWWkNCTgibnsos0asmtJadPcsmEQWzWgFEE/edit?usp=sharing'>link tech talk: MACH architectuur</a></p>`
     }
   }
 }
