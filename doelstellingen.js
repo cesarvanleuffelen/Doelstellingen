@@ -353,7 +353,7 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
     "6.1 Gebruik van Git": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram Heyns",
       "project": "MobiLab",
       "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
       <p>Mobilab & care (onderzoeksgroep Thomas More)</p>
