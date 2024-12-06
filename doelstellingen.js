@@ -1305,7 +1305,7 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
     "22.1 Beschrijven van en actief op zoek gaan naar de toegevoegde waarde van een oplossing": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "Race To The Future",
       "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
       <p>Wedstrijd tussen Thomas More Digital Innovation & Ingenieur-studenten KU Leuven</p>
@@ -1396,7 +1396,7 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
     "23.2 Maken van een neutrale analyse bij fouten, tegenslagen en mislukkingen zonder verantwoordelijkheid uit de weg te gaan": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "Grow More - Professional Skills 2",
       "bewijs": `
       <h1 class='text-lg font-bold'>Grow More<h1/>
@@ -1435,7 +1435,7 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
     "24.2 Proactief externe deskundigheid inroepen wanneer nodig": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "Tech Talk: MACH architectuur",
       "bewijs": `
       <h2 class='font-bold'>Doelstellingen</h2>
