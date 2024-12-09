@@ -89,7 +89,7 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
       <br>
       <h2 class='font-bold'>Doelstelling</h2>
       <p>Voor het project van Grow More, waar we een game voor kinderen met een mentale/fysieke beperking maakten moesten we afwegen welke software we wilden gebruiken. Zo konden we eerst en vooral kiezen tussen: gaan we een javascript framework gebruiken zoals next of gaan we kiezen voor een game engine te gebruiken en het project dan te exporteren naar een ‘webGL’ versie. Ik en Toon hadden eerst geöpteerd voor de ‘Unity’ game engine te gebruiken. Na wat opzoeken en testen hebben we echter gerealiseerd dat het misschien toch een beter plan was om andere opties te verkennen. Dit was voor de reden dat we geen credit card gegevens wouden opgeven enkel en alleen om version control te kunnen gebruiken van Unity zelf. Na wat opzoek werk over andere game engines zijn we op Godot geland. Een open source game engine die in de community veel gebruikt wordt om 2D games mee te maken (perfect voor ons project). Godot was ook net uitgekomen met een Git integratie wat het voor ons nog duidelijker maakte dat dit onze tool zou worden voor ‘Grow More’ te maken.</p>
-      <iframe src='/assets/growmore/grow_more_analyse.pdf' width='100%' height='500px'></iframe>
+      <iframe src='assets/growmore/grow_more_analyse.pdf' width='100%' height='500px'></iframe>
       <br>
       <h2 class='font-bold'>Relevante Links</h2>
       <p><a target='_blank' href='https://github.com/cesarvanleuffelen/2324-MOBI-009-Game-voor-kinderen-met-een-beperking'>Github Repository</a></p>
@@ -319,7 +319,7 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
       <br>
       <h2 class='font-bold'>Doelstelling</h2>
       <p>Toen we begonnen aan het project waar uiteindelijk Grow More is uit ontstaan mochten we zelf opkomen met enkele ideeën voor games. We hadden tijdens onze eerste meeting enkele richtlijnen meegekregen en zijn toen begonnen met brainstormen. Zo hebben we een documentje uitgeschreven met enkele verschillende concepten in die ons leuk en haalbaar leken. Een week later tijdens onze 2de afspraak met Wim hebben we deze ideeën voorgelegd aan hem. Zo hebben we uiteindelijk in samenspraak met Wim De Backer het idee voor Grow More gekozen.</p>
-      <iframe src='/assets/growmore/modem_games_ideas.pdf' width='100%' height='500px'></iframe>
+      <iframe src='assets/growmore/modem_games_ideas.pdf' width='100%' height='500px'></iframe>
       <br>
       <h2 class='font-bold'>Relevante Links</h2>
       <p><a target='_blank' href='https://github.com/cesarvanleuffelen/2324-MOBI-009-Game-voor-kinderen-met-een-beperking'>Github Repository</a></p>
@@ -367,7 +367,7 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
       <h2 class='font-bold'>Doelstelling</h2>
       <p>Tijdens het werken aan het project van mobiLAB heb ik 3 branches aangemaakt met verschillende commits in. Onder deze tekst kan je een link terugvinden naar de branch pagina van de web versie repository waar je deze zelf kan bekijken. Git hebben we in elk project wel gebruikt, ik kies er voor om het vooral in het mobiLAB project te tonen.</p>
       <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2324-MOBI-012-Monitoringapplicatie-Web-App/branches'>Github branches</a></p>
-      <img src='/assets/mobilab/github_branches.png' alt='git'>
+      <img src='assets/mobilab/github_branches.png' alt='git'>
       <br>
       <h2 class='font-bold'>Relevante Links</h2>
       <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2324-MOBI-012-Monitoringapplicatie-Web-App'>Github Repository</a></p>
@@ -497,7 +497,7 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
       <br>
       <h2 class='font-bold'>Doelstelling</h2>
       <p>Tijdens de 2de fase van het project waar we bepaalde tools gingen onderzoeken, heb ik mij bezig gehouden met het analyseren van een tool genaamd PyCaret. Dit is een end-to-end machine learning framework. PyCaret kan ons helpen bij het analyseren van data, het kiezen van modellen tot aan het opzetten van een api en het deployen ervan. Onderaan kan je een pdf terugvinden van mijn onderzoek naar PyCaret samen met alle mogelijke toepassingen ervan die wij kunnen gebruiken tijdens ons project.</p>
-      <iframe src='/assets/project_4-0/pycaret.pdf' width='100%' height='500px'></iframe>
+      <iframe src='assets/project_4-0/pycaret.pdf' width='100%' height='500px'></iframe>
       <br>
       <br>
       `
@@ -1318,7 +1318,7 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
       <br>
       <h2 class='font-bold'>Doelstelling</h2>
       <p>Bij de start van het project van Race to the Future heb ik het idee gehad om de calculaties van de computer te laten doen van op afstand. Dit door de beelden over wifi door te sturen naar een krachtige computer die dan op zijn beurt de juiste inputs voor de auto zou terug sturen. Aangezien deze manier van werken zou zorgen voor meer computer kracht, zou het mogelijk zijn om meer beelden te verwerken op een bepaald tijds interval. Dit zou dan weer lijden tot een snellere en meer nauwkeurige input van de auto. Dit idee werd uiteindelijk afgewezen aangezien de regels zeggen dat alle rekenkracht op de auto zelf moet gebeuren. De research die ik hiervoor heb geleverd is onderaan toegevoegd in pdf vorm.</p>
-      <iframe src='/assets/rttf/idee_rttf.pdf' width='100%' height='500px'></iframe>
+      <iframe src='assets/rttf/idee_rttf.pdf' width='100%' height='500px'></iframe>
       <br>
       <h2 class='font-bold'>Relevante Links</h2>
       <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2324-DI-005-Race-to-the-Future'>Github Repository</a></p>
@@ -1343,7 +1343,7 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
       <br>
       <h2 class='font-bold'>Doelstelling</h2>
       <p>Tijdens deze blended intensive program hebben we samengewerkt met mensen van verschillende landen (Duitsland, Estland, Roemenië,...). Doorheen de week hebben we ook een rondleiding gekregen doorheen de stad en hebben we verschillende kerken bezocht.</p>
-      <iframe src='/assets/bip/bip_certificaat.pdf' width='100%' height='500px'></iframe>
+      <iframe src='assets/bip/bip_certificaat.pdf' width='100%' height='500px'></iframe>
       <br>
       `
     },
@@ -1363,7 +1363,7 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
       <br>
       <h2 class='font-bold'>Doelstelling</h2>
       <p>Tijdens deze blended intensive program hebben we samengewerkt met mensen van verschillende landen (Duitsland, Estland, Roemenië,...). Dit vooral tijdens de hackathon die plaats vond op de laatste 2 dagen van de BIP. Hier hebben ik en Seppe samengewerkt aan met 3 andere Duitse jongens aan een applicatie om buiten sporten te promoten.</p>
-      <iframe src='/assets/bip/bip_certificaat.pdf' width='100%' height='500px'></iframe>
+      <iframe src='assets/bip/bip_certificaat.pdf' width='100%' height='500px'></iframe>
       <br>
       <h2 class='font-bold'>Relevante Links</h2>
       <p><a target='_blank' href='https://docs.google.com/presentation/d/1NtR4bLyxCHy6WqS3fKwj1bcAeQyvZXAxCBBteaCvjto/edit?usp=sharing'>presentaties</a></p>
@@ -1387,7 +1387,7 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
       <br>
       <h2 class='font-bold'>Doelstelling</h2>
       <p>Gedurende de laatste 2 dagen van de BIP was het tijd voor een  hackathon. Hierbij moesten we met samengestelde teams van andere universiteiten samenwerken om een idee te vinden dat een meerwaarde zou bieden aan Ulemiste city. Aangezien zei een moderne ecologisch vriendelijke stad willen bouwen was het vanzelfsprekend dat het idee dat ook moest zijn. Daarom bedachten wij een concept om meer mensen buiten te laten sporten en dat samen met andere door hen te verbinden via een applicatie.</p>
-      <iframe src='/assets/bip/bip_certificaat.pdf' width='100%' height='500px'></iframe>
+      <iframe src='assets/bip/bip_certificaat.pdf' width='100%' height='500px'></iframe>
       <br>
       <h2 class='font-bold'>Relevante Links</h2>
       <p><a target='_blank' href='https://docs.google.com/presentation/d/1NtR4bLyxCHy6WqS3fKwj1bcAeQyvZXAxCBBteaCvjto/edit?usp=sharing'>presentaties</a></p>
