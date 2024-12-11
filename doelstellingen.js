@@ -194,17 +194,17 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
     },
     "4.2 Opdelen van een conceptuele totaaloplossing in kleinere items of deeloplossingen": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
-      "project": "LABflow",
-      "bewijs": ""
+      "project": "Requirements Analysis",
+      "bewijs": `<img src='assets/OPOs/requirements-analysis.png' alt='grow more retrospective'/>`
     },
     "4.3 Ontwerpen van een proof-of-concept met aandacht voor een zo accuraat mogelijke reflectie van de reële oplossing": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
-      "project": "AR rondleiding",
-      "bewijs": ""
+      "project": "Requirements Analysis",
+      "bewijs": `<img src='assets/OPOs/requirements-analysis.png' alt='grow more retrospective'/>`
     },
     "4.4 Opstellen van de relevante UML diagramma ter ondersteuning van ontwikkeling en testing": {
       "type": ["app", "ai"],
