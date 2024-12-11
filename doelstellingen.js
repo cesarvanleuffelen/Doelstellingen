@@ -16,17 +16,35 @@ const doelstellingen = {
     },
     "1.3 Beschrijven en modelleren van businessprocessen": {
       "type": ["alles", "ai"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "BPMN vervangopdracht",
-      "bewijs": ""
+      "bewijs": `<h2 class='font-bold'>Opdracht Omschrijving</h2>
+      Voor doelstellingen 1.3, 1.4 en 7.4 hebben we als team, bestaande uit Wesley, Tom, César (ikzelf) en een andere medestudent, een BPMN-model (Business Process Model and Notation) uitgewerkt. We kozen ervoor om het transportproces van Defensie te modelleren, specifiek dat van 29Bn Logistiek. Dit proces werd van begin tot eind in kaart gebracht en visueel weergegeven met behulp van het programma Bizagi.
+<br>
+Het project begon met een bezoek aan 29Bn Log. Op woensdag 13 november kregen we een rondleiding en hadden we de kans om vragen te stellen aan enkele kaderleden. Dit gaf ons veel nuttige inzichten in hoe hun transportproces verloopt. Tijdens dit bezoek heb ik zelf veel notities gemaakt, zodat we niets zouden missen bij de uitwerking van ons model. De terminologie en afkortingen die binnen Defensie gebruikt worden, maakten het soms lastig om alles meteen goed te begrijpen. Gelukkig was er een defensiemedewerker, Toon, aanwezig om ons hierbij te helpen. Dat was echt een meerwaarde.
+<br>
+De volgende dag, donderdag 14 november, zijn we als team meteen aan de slag gegaan met het modelleren van het proces. Het was een intensieve dag; er kwam veel op ons af, maar uiteindelijk zijn we erin geslaagd om het model volledig uit te werken. Hoewel er geen vaste rolverdeling was binnen ons team, werkte iedereen samen aan verschillende aspecten. Ik hielp mee met het modelleren en nam actief deel aan de uitwerking en voorbereiding van onze presentatie.
+<br>
+Nadat we het model hadden afgerond, hebben we dit teruggekoppeld naar de staf van 29Bn Log. Zij hadden hierom gevraagd, zodat ze feedback konden geven. Op basis van hun opmerkingen hebben we nog enkele aanpassingen gedaan. Vervolgens presenteerden we onze definitieve versie aan Mevrouw Renders op dinsdag 10 december.
+<br>
+Hoewel we het model zelf niet online hebben gedeeld vanwege confidentiële informatie, kan de uiteindelijke uitwerking op verzoek worden opgevraagd.`
     },
     "1.4 Optimaliseren van businessprocessen": {
       "type": ["app", "ai"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "BPMN vervangopdracht",
-      "bewijs": ""
+      "bewijs": `<h2 class='font-bold'>Opdracht Omschrijving</h2>
+      Voor doelstellingen 1.3, 1.4 en 7.4 hebben we als team, bestaande uit Wesley, Tom, César (ikzelf) en een andere medestudent, een BPMN-model (Business Process Model and Notation) uitgewerkt. We kozen ervoor om het transportproces van Defensie te modelleren, specifiek dat van 29Bn Logistiek. Dit proces werd van begin tot eind in kaart gebracht en visueel weergegeven met behulp van het programma Bizagi.
+<br>
+Het project begon met een bezoek aan 29Bn Log. Op woensdag 13 november kregen we een rondleiding en hadden we de kans om vragen te stellen aan enkele kaderleden. Dit gaf ons veel nuttige inzichten in hoe hun transportproces verloopt. Tijdens dit bezoek heb ik zelf veel notities gemaakt, zodat we niets zouden missen bij de uitwerking van ons model. De terminologie en afkortingen die binnen Defensie gebruikt worden, maakten het soms lastig om alles meteen goed te begrijpen. Gelukkig was er een defensiemedewerker, Toon, aanwezig om ons hierbij te helpen. Dat was echt een meerwaarde.
+<br>
+De volgende dag, donderdag 14 november, zijn we als team meteen aan de slag gegaan met het modelleren van het proces. Het was een intensieve dag; er kwam veel op ons af, maar uiteindelijk zijn we erin geslaagd om het model volledig uit te werken. Hoewel er geen vaste rolverdeling was binnen ons team, werkte iedereen samen aan verschillende aspecten. Ik hielp mee met het modelleren en nam actief deel aan de uitwerking en voorbereiding van onze presentatie.
+<br>
+Nadat we het model hadden afgerond, hebben we dit teruggekoppeld naar de staf van 29Bn Log. Zij hadden hierom gevraagd, zodat ze feedback konden geven. Op basis van hun opmerkingen hebben we nog enkele aanpassingen gedaan. Vervolgens presenteerden we onze definitieve versie aan Mevrouw Renders op dinsdag 10 december.
+<br>
+Hoewel we het model zelf niet online hebben gedeeld vanwege confidentiële informatie, kan de uiteindelijke uitwerking op verzoek worden opgevraagd.`
     }
   },
   "2 ANALYSEREN - Je identificeert de functionele en niet-functionele eisen van een klant en vertaalt deze naar heldere documenten en begrijpbare schema's.": {
@@ -450,10 +468,19 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
     },
     "7.4 Uitwerken van een businesscase in een ERP/CRM-pakket": {
       "type": ["app", "ai"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "BPMN vervangopdracht",
-      "bewijs": ""
+      "bewijs": `<h2 class='font-bold'>Opdracht Omschrijving</h2>
+      Voor doelstellingen 1.3, 1.4 en 7.4 hebben we als team, bestaande uit Wesley, Tom, César (ikzelf) en een andere medestudent, een BPMN-model (Business Process Model and Notation) uitgewerkt. We kozen ervoor om het transportproces van Defensie te modelleren, specifiek dat van 29Bn Logistiek. Dit proces werd van begin tot eind in kaart gebracht en visueel weergegeven met behulp van het programma Bizagi.
+<br>
+Het project begon met een bezoek aan 29Bn Log. Op woensdag 13 november kregen we een rondleiding en hadden we de kans om vragen te stellen aan enkele kaderleden. Dit gaf ons veel nuttige inzichten in hoe hun transportproces verloopt. Tijdens dit bezoek heb ik zelf veel notities gemaakt, zodat we niets zouden missen bij de uitwerking van ons model. De terminologie en afkortingen die binnen Defensie gebruikt worden, maakten het soms lastig om alles meteen goed te begrijpen. Gelukkig was er een defensiemedewerker, Toon, aanwezig om ons hierbij te helpen. Dat was echt een meerwaarde.
+<br>
+De volgende dag, donderdag 14 november, zijn we als team meteen aan de slag gegaan met het modelleren van het proces. Het was een intensieve dag; er kwam veel op ons af, maar uiteindelijk zijn we erin geslaagd om het model volledig uit te werken. Hoewel er geen vaste rolverdeling was binnen ons team, werkte iedereen samen aan verschillende aspecten. Ik hielp mee met het modelleren en nam actief deel aan de uitwerking en voorbereiding van onze presentatie.
+<br>
+Nadat we het model hadden afgerond, hebben we dit teruggekoppeld naar de staf van 29Bn Log. Zij hadden hierom gevraagd, zodat ze feedback konden geven. Op basis van hun opmerkingen hebben we nog enkele aanpassingen gedaan. Vervolgens presenteerden we onze definitieve versie aan Mevrouw Renders op dinsdag 10 december.
+<br>
+Hoewel we het model zelf niet online hebben gedeeld vanwege confidentiële informatie, kan de uiteindelijke uitwerking op verzoek worden opgevraagd.`
     },
     "7.5 Toepassen van machine learning algoritmen": {
       "type": ["app", "ai"],
