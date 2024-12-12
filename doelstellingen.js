@@ -588,7 +588,7 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
       <br>
       <h2 class='font-bold'>Doelstelling</h2>
       <p>Tijdens het project van ar-rondleiding project hebben we gekozen om te werken met flutter, unity en vuforia. Voor het AR component van de applicatie hebben we dus gebruik gemaakt van Vuforia om de tracking te doen en unity om de 3d modellen te tonen. Dit hebben we gedaan door een account aan te maken op vuforia, enkele packages te downloaden (voor vuforia functionaliteiten in Unity) en een api-key aan te maken om te gebruiken in Unity om zo ons account te verbinden met ons project. Daarna hebben we een database aangemaakt waar we onze target (foto om te scannen) in steken. Deze database kunnen we dan downloaden en openen in het Unity project. Deze targets kunnen we dan afbeelden in onze scene. Dit gecombineerd met een eigen 3d mannetje en wat geluid en we hebben onze ar-gids. Onderaan kan u een video vinden met uitleg hoe het werkt.</p>
-      <iframe src='' width='100%' height='500px'></iframe>
+      <iframe src='https://www.youtube.com/embed/R67xH98LUiM?si=LLrWqg46H2Zm7zqu' width='100%' height='500px'></iframe>
       <br>
       <h2 class='font-bold'>Relevante Links</h2>
       <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2324-ITF-001-AR-rondleiding'>Github repository</a></p>
@@ -599,7 +599,7 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     },
     "7.8 Bouwen van een single page applicatie inclusief application state": {
       "type": ["app"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "LABflow",
       "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
