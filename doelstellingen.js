@@ -86,10 +86,28 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
   "3 ANALYSEREN - Je onderzoekt en evalueert mogelijke oplossingen en verbeteringen, en maakt onderbouwde keuzes voor platformen, software en hardware.": {
     "3.1 Onderzoeken en selecteren van passende frameworks, tools en libraries": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "AR rondleiding",
-      "bewijs": ""
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Michael Cloots & Sarah Moeremans (docenten IT-Factory)</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>Dit project heeft als doel een Proof of Concept (PoC) te ontwikkelen voor een AR-gebaseerde campusrondleiding op de Geelse campus van Thomas More. Deze AR-rondleiding is specifiek gericht op nieuwe, vaak buitenlandse, studenten en docenten en moet hen helpen om op een leuke en interactieve manier de campus en zijn bijzondere locaties te verkennen. De bedoeling is dat deze PoC Thomas More's management overtuigt om een budget toe te kennen voor verdere ontwikkeling en productielancering van de applicatie.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>Mei 2024 -> December 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Bij de voorbereidingen voor de app van AR rondleiding hebben we verschillende mogelijkheden bekeken. Zo hebben we gekeken naar een tool als Unity, maar ook naar andere frameworks zoals react navtive in combinatie met expo of flutter. We zijn aan de slag gegaan met unity en react native maar hier waren verschillende problemen mee (kijk document onderaan). Uiteidelijke zijn we geland op een hybride optie tussen Vuforia, unity en flutter. Onderaan is een document toegevoegd waar onze keuze en afwegingen staan in uitgelegd.</p>
+      <iframe src='assets/ar-rondleiding/AR_rondleiding_analyse.pdf' width='100%' height='500px'></iframe>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2324-ITF-001-AR-rondleiding'>Github repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/32'>Github Project bord</a></p>
+      <p><a target='_blank' href='https://www.figma.com/proto/UZpcV1O9jElgpOnIFi0qLN/AR-rondleiding?node-id=1-3&node-type=canvas&t=7P155X0g0wTNaelZ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3'>Figma</a></p>
+      <br>
+      `
     },
     "3.2 Analyseren en beoordelen van (semi-)out-of-the-box (deel)oplossingen voor functionaliteiten": {
       "type": ["alles"],
@@ -197,14 +215,14 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
       "status": "d",
       "verified": "",
       "project": "Requirements Analysis",
-      "bewijs": `<img src='assets/OPOs/requirements-analysis.png' alt='grow more retrospective'/>`
+      "bewijs": `<img src='assets/OPOs/requirements-analysis.png' alt='requirements analysis'/>`
     },
     "4.3 Ontwerpen van een proof-of-concept met aandacht voor een zo accuraat mogelijke reflectie van de reële oplossing": {
       "type": ["alles"],
       "status": "d",
       "verified": "",
       "project": "Requirements Analysis",
-      "bewijs": `<img src='assets/OPOs/requirements-analysis.png' alt='grow more retrospective'/>`
+      "bewijs": `<img src='assets/OPOs/requirements-analysis.png' alt='requirements analysis'/>`
     },
     "4.4 Opstellen van de relevante UML diagramma ter ondersteuning van ontwikkeling en testing": {
       "type": ["app", "ai"],
@@ -461,10 +479,10 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
     },
     "7.3 Bouwen van full stack webapplicatie met een modern framework": {
       "type": ["app", "ai"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
-      "project": "MobiLab & LABflow",
-      "bewijs": ""
+      "project": "webapplicatie ontwikkeling in PHP",
+      "bewijs": `<img src='assets/OPOs/web-applicaties-in-php.png' alt='webapplicatie ontwikkeling in PHP'/>`
     },
     "7.4 Uitwerken van een businesscase in een ERP/CRM-pakket": {
       "type": ["app", "ai"],
@@ -531,24 +549,77 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     },
     "7.6 Bouwen van een cross-platform mobile applicatie": {
       "type": ["app"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "AR rondleiding",
-      "bewijs": ""
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Michael Cloots & Sarah Moeremans (docenten IT-Factory)</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>Dit project heeft als doel een Proof of Concept (PoC) te ontwikkelen voor een AR-gebaseerde campusrondleiding op de Geelse campus van Thomas More. Deze AR-rondleiding is specifiek gericht op nieuwe, vaak buitenlandse, studenten en docenten en moet hen helpen om op een leuke en interactieve manier de campus en zijn bijzondere locaties te verkennen. De bedoeling is dat deze PoC Thomas More's management overtuigt om een budget toe te kennen voor verdere ontwikkeling en productielancering van de applicatie.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>Mei 2024 -> December 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Tijdens het project van ar-rondleiding project hebben we gekozen om te werken met flutter, unity en vuforia. Zo hebben we in flutter de layout en werking van de app gemaakt. Hierin hebben we een layout gemaakt met een interactieve map waar je kan kiezen uit verschillende plekken om te bekijken. Vanaf je op een locatie drukt wordt je doorgestuurd naar een scherm met 2 knoppen en balk om naar boven te slepen. De 2 knoppen dienen om terug te gaan naar het scherm met de map. De andere zal worden gebruikt om de uitleg opnieuw te laten afspelen. De uitschuifbare balk onderaan wordt gebruikt om tekst te laten zien. Dit voor wanneer mensen met slecht gehoor of wanneer het druk is met veel achtergrond lawaai toch de app kunnen gebruiken. Deze tekst wordt dus enkel getoond wanneer de balk uitgeschoven is. Onderaan kan u een video bekijken van de applicatie die live op een android telefoon draait.</p>
+      <iframe width='100%' height='500' src='https://www.youtube.com/embed/97isEW8ZhJc?si=yfx7apVoA4pEPpWW' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin'></iframe>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2324-ITF-001-AR-rondleiding'>Github repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/32'>Github Project bord</a></p>
+      <p><a target='_blank' href='https://www.figma.com/proto/UZpcV1O9jElgpOnIFi0qLN/AR-rondleiding?node-id=1-3&node-type=canvas&t=7P155X0g0wTNaelZ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3'>Figma</a></p>
+      <br>
+      `
     },
     "7.7 Toevoegen van augmented reality functionaliteiten aan applicaties": {
       "type": ["app"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "AR rondleiding",
-      "bewijs": ""
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Michael Cloots & Sarah Moeremans (docenten IT-Factory)</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>Dit project heeft als doel een Proof of Concept (PoC) te ontwikkelen voor een AR-gebaseerde campusrondleiding op de Geelse campus van Thomas More. Deze AR-rondleiding is specifiek gericht op nieuwe, vaak buitenlandse, studenten en docenten en moet hen helpen om op een leuke en interactieve manier de campus en zijn bijzondere locaties te verkennen. De bedoeling is dat deze PoC Thomas More's management overtuigt om een budget toe te kennen voor verdere ontwikkeling en productielancering van de applicatie.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>Mei 2024 -> December 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Tijdens het project van ar-rondleiding project hebben we gekozen om te werken met flutter, unity en vuforia. Voor het AR component van de applicatie hebben we dus gebruik gemaakt van Vuforia om de tracking te doen en unity om de 3d modellen te tonen. Dit hebben we gedaan door een account aan te maken op vuforia, enkele packages te downloaden (voor vuforia functionaliteiten in Unity) en een api-key aan te maken om te gebruiken in Unity om zo ons account te verbinden met ons project. Daarna hebben we een database aangemaakt waar we onze target (foto om te scannen) in steken. Deze database kunnen we dan downloaden en openen in het Unity project. Deze targets kunnen we dan afbeelden in onze scene. Dit gecombineerd met een eigen 3d mannetje en wat geluid en we hebben onze ar-gids. Onderaan kan u een video vinden met uitleg hoe het werkt.</p>
+      <iframe src='' width='100%' height='500px'></iframe>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2324-ITF-001-AR-rondleiding'>Github repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/32'>Github Project bord</a></p>
+      <p><a target='_blank' href='https://www.figma.com/proto/UZpcV1O9jElgpOnIFi0qLN/AR-rondleiding?node-id=1-3&node-type=canvas&t=7P155X0g0wTNaelZ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3'>Figma</a></p>
+      <br>
+      `
     },
     "7.8 Bouwen van een single page applicatie inclusief application state": {
       "type": ["app"],
       "status": "ip",
       "verified": "",
       "project": "LABflow",
-      "bewijs": ""
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Opleiding laboratorium technologieën</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>LabFlow is een innovatieve applicatie ontworpen voor het efficiënt beheren en opvolgen van laboratoriummonsters binnen de Biomedische Laboratoriumtechnologie. Deze tool ondersteunt studenten en professionals in het verwerken van verschillende soorten monsters, zoals bloed, huid en urine. De applicatie biedt essentiële functies voor monsterbeheer, waaronder het registreren van binnenkomende monsters, het genereren van barcodes voor snelle identificatie, het invoeren van analyseresultaten en het afdrukken van resultaten inclusief referentiewaarden voor eenvoudige interpretatie.Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat het uitwerken van gebruikersverhalen, het creëren van Figma-prototypes, en het maken van strategische keuzes rondom technologieën, zoals het bepalen van het platform (web of app), database-oplossingen en programmeertalen.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>september 2024 -> december 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Ik en Nathan hebben voor het project te maken doormiddel van backend  en frontend te scheiden. Dit gaf ons de mogelijkheid om te kiezen uit verschillende frontend frameworks. Hiervoor hebben we gekozen om svelte te gebruiken. Svelte is gemakkelijk te gebruiken om dat het allemaal verschillende pagina's en componenten inlaad in 1 html pagina wanneer deze gevraagd worden.</p>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow'>Github Repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/26'>Github project bord back-end</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/28'>Github project bord front-end</a></p>
+      <p><a target='_blank' href='https://www.figma.com/proto/xAg0y5NWAde821meTFkhzX/Labflow-v1?page-id=1%3A2&node-id=77-1747&node-type=canvas&viewport=551%2C469%2C0.11&t=voxuzeR12VQjqFFp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=77%3A1747'>Figma</a></p>
+      <br>`
     },
     "7.9 Uitbouw en gebruik Computer Vision technieken": {
       "type": ["ai"],
@@ -669,7 +740,27 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
       "status": "ip",
       "verified": "",
       "project": "LABflow",
-      "bewijs": ""
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Opleiding laboratorium technologieën</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>LabFlow is een innovatieve applicatie ontworpen voor het efficiënt beheren en opvolgen van laboratoriummonsters binnen de Biomedische Laboratoriumtechnologie. Deze tool ondersteunt studenten en professionals in het verwerken van verschillende soorten monsters, zoals bloed, huid en urine. De applicatie biedt essentiële functies voor monsterbeheer, waaronder het registreren van binnenkomende monsters, het genereren van barcodes voor snelle identificatie, het invoeren van analyseresultaten en het afdrukken van resultaten inclusief referentiewaarden voor eenvoudige interpretatie. Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat het uitwerken van gebruikersverhalen, het creëren van Figma-prototypes, en het maken van strategische keuzes rondom technologieën, zoals het bepalen van het platform (web of app), database-oplossingen en programmeertalen.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>september 2024 -> december 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Tijdens ons laatste demo moment van het project voor de oplevering zijn is de klant langs geweest voor een zicht op de stand van zaken. Op dat moment was de gehele flow klaar (enkel de printer functionaliteit moest nog gebeuren). Daarom hebben we besloten om een van de 2 klanten het programma eens te testen. Daarvoor hebben we een user testing planning en protocol opgesteld voor de demo begon. Hier stond in welke situatie er zich voor deed, samen met andere regels die we moesten volgen voor een goede feedback te krijgen uit deze test. Hieronder kan u een link naar een document vinden samen met een foto die genomen is tijdens het testen van de applicatie.</p>
+      <a href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow/blob/main/documents/meetings/user-testing-procedure_20112024.md'>user testing procedure</a>
+      <img src='assets/labflow/user_testing.jpeg' alt='user testing'>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow'>Github repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/26'>Github projects bord back-end</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/28'>Github projects bord front-end</a></p>
+      <p><a target='_blank' href='https://www.figma.com/proto/xAg0y5NWAde821meTFkhzX/Labflow-v1?page-id=1%3A2&node-id=77-1747&node-type=canvas&viewport=551%2C469%2C0.11&t=voxuzeR12VQjqFFp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=77%3A1747'>Figma</a></p>
+      <br>
+      `
     },
     "8.3 Uittesten en de kwaliteit evalueren van data modellen en algoritmen": {
       "type": ["ai"],
@@ -789,12 +880,22 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     },
     "10.2 Beveiligen van webapplicaties en API's": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
-      "project": "LABflow & Web Applications in PHP",
+      "project": "LABflow & Java Advanced & .NET development & Web Applications in PHP",
       "bewijs": `
       <h1 class='text-lg font-bold'>Web Application in PHP<h1/>
       <img src='assets/OPOs/web-applicaties-in-php.png' alt='Web Applications in PHP'>
+      <br>
+      <hr>
+      <br>
+      <h1 class='text-lg font-bold'>Java Advanced<h1/>
+      <img src='assets/OPOs/java-advanced.png' alt='Java Advanced>
+      <br>
+      <hr>
+      <br>
+      <h1 class='text-lg font-bold'>.NET Development<h1/>
+      <img src='assets/OPOs/net-development.png' alt='.NET development'>
       <br>
       <hr>
       <br>
@@ -809,7 +910,7 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
       <p>september 2024 -> december 2024</p>
       <br>
       <h2 class='font-bold'>Doelstelling</h2>
-      <p>Voor het labflow project werkten we met een front-end (svelte) en back-end (java spring boot). Aangezien we de data opgeslagen in onze database via onze back-end niet voor iedereen zichtbaar wouden maken hebben we besloten om hier een authenticatie systeem voor op te zetten. Dit </p>
+      <p>Voor het labflow project werkten we met een frontend (svelte) en backend (java spring boot). Aangezien we de data opgeslagen in onze database via onze back-end en we de data niet voor iedereen zichtbaar willen maken, hebben we besloten om hier een authenticatie systeem voor op te zetten. Dit doormiddel van jwt tokens. Een jwt token is een lange set aan karakters dat data bevat zoals gebruiker, zijn rol, hoelang vooraleer de token vervalt. Deze tokens worden op de backend aangemaakt en teruggestuurd naar de frontend via een api. telkens een gebruiker een aanvraag doet naar een ander api end-point zal de frontend de jwt token van de gebruiker meegeven om te kijken of het een geregistreerde gebruiker is en of hij onlangs nog heeft ingelogd. Als een van deze 2 niet positief zijn zal de gebruiker gevraagd worden om opnieuw in te loggen.</p>
       <br>
       <h2 class='font-bold'>Relevante Links</h2>
       <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow'>Github Repository</a></p>
@@ -821,10 +922,30 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     },
     "10.3 Rekening houden met en faciliteren van de toekomstige aanpasbaarheid van applicaties": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "LABflow",
-      "bewijs": ""
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Opleiding laboratorium technologieën</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>LabFlow is een innovatieve applicatie ontworpen voor het efficiënt beheren en opvolgen van laboratoriummonsters binnen de Biomedische Laboratoriumtechnologie. Deze tool ondersteunt studenten en professionals in het verwerken van verschillende soorten monsters, zoals bloed, huid en urine. De applicatie biedt essentiële functies voor monsterbeheer, waaronder het registreren van binnenkomende monsters, het genereren van barcodes voor snelle identificatie, het invoeren van analyseresultaten en het afdrukken van resultaten inclusief referentiewaarden voor eenvoudige interpretatie. Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat het uitwerken van gebruikersverhalen, het creëren van Figma-prototypes, en het maken van strategische keuzes rondom technologieën, zoals het bepalen van het platform (web of app), database-oplossingen en programmeertalen.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>september 2024 -> december 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Na het maken van de figma prototypes is er duidelijk gecommuniceerd naar ons toe dat er in de toekomst een uitbreiding zal aangevraagd worden voor het project. Op het moment is de software vooral bruikbaar voor voor bloedstalen op te volgen (celbiologie). De uitbreiding zal dan dienen om microbiologie op te volgen. Dit vergt namelijk een andere manier van werken. Dit was voor 1 semester te veel en dus uit de scope maar dit kan perfect bij in de huidige applicatie gebouwd worden. Daarom hebben we besloten om hier vanaf de start rekening mee te houden.</p>
+      <p>Zo hebben we om te beginnen gekozen om geen full stack framework te gebruiken als laravel maar eerder te gaan voor twee technologieën die compleet losgekoppeld zijn van mekaar. Zo hebben we Java spring-boot voor het schrijven van de API (backend) en gebruiken we svelte als frontend framework. Zo zorgen we ervoor dat frontend niet afhankelijk is van de backend en omgekeerd. We hebben daarnaast ook gezorgd voor documentatie, zowel in de code (in de vorm van comments) als in readme bestanden in de repository. Relevante links zijn onderaan deze alinea te vinden. Zo hebben we duidelijk uitgelegd hoe de backend is opgebouwd en hoe je het project terug zou kunnen opstarten (of na het clonen van de repository). De diagrams van hoe de database er op het moment uit ziet is ook te vinden in een aanpasbaar mdj bestand (voor starUML) zodat er kan bekeken worden hoe achterliggend de database werkt. Als laatste hebben we ook een kleine installatie handleiding toegevoegd onderaan installation.md bestand. Hier kunnen toekomstige gebruikers en ontwikkelaars terugvinden hoe ze hun pc klaar moeten maken om de webapp te gebruiken in combinatie met de Zebra label printers.</p>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow/blob/main/documents/files/installation.md'>installation.md (project opzetten & printer software installatie)</a></p>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow/tree/main/code'>opdeling backend & frontend</a></p>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow'>Github Repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/26'>Github Project Bord Back-end</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/28'>Github Project Bord Front-end</a></p>
+      <p><a target='_blank' href='https://www.figma.com/proto/xAg0y5NWAde821meTFkhzX/Labflow-v1?page-id=1%3A2&node-id=77-1747&node-type=canvas&viewport=551%2C469%2C0.11&t=voxuzeR12VQjqFFp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=77%3A1747'>Figma Prototype</a></p>
+      <br>`
     },
     "10.4 Implementeren van veilige netwerkverbindingen met relevante technologieën zoals VPN, TLS…": {
       "type": ["ccs"],
