@@ -737,7 +737,7 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     },
     "8.2 Uitbouwen en gebruiken van user testing": {
       "type": ["app", "ai"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "LABflow",
       "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
