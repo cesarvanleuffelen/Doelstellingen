@@ -87,7 +87,7 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
     "3.1 Onderzoeken en selecteren van passende frameworks, tools en libraries": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Michaël & Vince",
       "project": "AR rondleiding",
       "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
       <p>Michael Cloots & Sarah Moeremans (docenten IT-Factory)</p>
@@ -480,7 +480,7 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
     "7.3 Bouwen van full stack webapplicatie met een modern framework": {
       "type": ["app", "ai"],
       "status": "d",
-      "verified": "",
+      "verified": "Michaël & Vince",
       "project": "webapplicatie ontwikkeling in PHP",
       "bewijs": `<img src='assets/OPOs/web-applicaties-in-php.png' alt='webapplicatie ontwikkeling in PHP'/>`
     },
@@ -550,7 +550,7 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     "7.6 Bouwen van een cross-platform mobile applicatie": {
       "type": ["app"],
       "status": "d",
-      "verified": "",
+      "verified": "Michaël & Vince",
       "project": "AR rondleiding",
       "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
       <p>Michael Cloots & Sarah Moeremans (docenten IT-Factory)</p>
@@ -575,7 +575,7 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     "7.7 Toevoegen van augmented reality functionaliteiten aan applicaties": {
       "type": ["app"],
       "status": "d",
-      "verified": "",
+      "verified": "Michaël & Vince",
       "project": "AR rondleiding",
       "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
       <p>Michael Cloots & Sarah Moeremans (docenten IT-Factory)</p>
@@ -600,7 +600,7 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     "7.8 Bouwen van een single page applicatie inclusief application state": {
       "type": ["app"],
       "status": "d",
-      "verified": "",
+      "verified": "Michaël & Vince",
       "project": "LABflow",
       "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
       <p>Opleiding laboratorium technologieën</p>
@@ -881,7 +881,7 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     "10.2 Beveiligen van webapplicaties en API's": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Michaël & Vince",
       "project": "LABflow & Java Advanced & .NET development & Web Applications in PHP",
       "bewijs": `
       <h1 class='text-lg font-bold'>Web Application in PHP<h1/>
