@@ -58,7 +58,7 @@ Hoewel we het model zelf niet online hebben gedeeld vanwege confidentiële infor
     "2.2 Functionele en niet-functionele eisen verwerken en rangschikken als startpunt van een (Agile) project": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "LABflow",
       "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
       <p>Opleiding laboratorium technologieën</p>
@@ -188,7 +188,7 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
     "4.1 Anticipeert toekomstige veranderingen en ondersteunt hierbij het change management": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Grow More",
       "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
       <p>Wim De Backer (Modem)</p>
@@ -307,7 +307,7 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     "5.1 Deelnemen aan en leiden van sprint reviews en demo meetings": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Pikassa Scrum master",
       "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
       <p>Thomas More Iclusieve Wagenwinkel</p>
@@ -341,7 +341,7 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
     "5.2 Terugkoppelen naar de klant rond gemaakte conceptuele en ontwerpgrelateerde keuzes": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Grow More & LABflow",
       "bewijs": `<h1 class='font-bold text-xl text-gray-600'>Grow More</h1>
       <h2 class='font-bold'>Opdrachtgever</h2>
@@ -1257,8 +1257,8 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
     "18.1 Pitchen van een idee voor klanten": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
-      "project": "Pikasse",
+      "verified": "Kathleen",
+      "project": "Pikassa",
       "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
       <p>Thomas More Iclusieve Wagenwinkel</p>
       <br>
@@ -1283,7 +1283,7 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
     "18.2 Bewust rekening houden met het niveau van IT kennis van een klant": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Requirements Analysis",
       "bewijs": "<img src='assets/OPOs/requirements-analysis.png' alt='Rrequirements Analysis'>"
     }
@@ -1292,7 +1292,7 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
     "19.1 Planmatig en gedocumenteerd uitvoeren van een project met een duurtijd van meerdere maanden": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Grow More",
       "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
       <p>Wim De Backer (Modem)</p>
@@ -1316,7 +1316,7 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
     "19.2 Toepassen en documenteren van de Agile methodologie": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Grow More",
       "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
       <p>Wim De Backer (Modem)</p>
@@ -1341,7 +1341,7 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
     "19.3 Regelmatig rapporteren over projectvoortgang": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Feedpulse",
       "bewijs": `<p>Om de 2 weken hadden we een meeting met een van de coaches. Hierin bespraken we de voortgang van de projecten en de volgende stappen. Hieronder vind je een foto van mijn feedpulse evaluaties van het afgelopen jaar.<p/>
       <img src='assets/feedpulse/feedpulse.png' alt='feedpulse evaluatie'/>`
@@ -1365,7 +1365,7 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
     "20.3 Actief deelnemen aan en leiden van vergaderingen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Pikassa",
       "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
       <p>Thomas More Iclusieve Wagenwinkel</p>
@@ -1408,7 +1408,7 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
     "21.2 Evalueren en bijsturen van eigen handelen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Feedpulse",
       "bewijs": `<p>Om de 2 weken hadden we een meeting met een van de coaches. Hierin bespraken we de voortgang van de projecten en de volgende stappen. Hieronder vind je een foto van mijn feedpulse evaluaties van het afgelopen jaar.<p/>
       <img src='assets/feedpulse/feedpulse.png' alt='feedpulse evaluatie'/>`
