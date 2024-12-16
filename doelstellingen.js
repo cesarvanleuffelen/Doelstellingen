@@ -17,7 +17,7 @@ const doelstellingen = {
     "1.3 Beschrijven en modelleren van businessprocessen": {
       "type": ["alles", "ai"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "BPMN vervangopdracht",
       "bewijs": `<h2 class='font-bold'>Opdracht Omschrijving</h2>
       Voor doelstellingen 1.3, 1.4 en 7.4 hebben we als team, bestaande uit Wesley, Tom, César (ikzelf) en een andere medestudent, een BPMN-model (Business Process Model and Notation) uitgewerkt. We kozen ervoor om het transportproces van Defensie te modelleren, specifiek dat van 29Bn Logistiek. Dit proces werd van begin tot eind in kaart gebracht en visueel weergegeven met behulp van het programma Bizagi.
@@ -33,7 +33,7 @@ Hoewel we het model zelf niet online hebben gedeeld vanwege confidentiële infor
     "1.4 Optimaliseren van businessprocessen": {
       "type": ["app", "ai"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "BPMN vervangopdracht",
       "bewijs": `<h2 class='font-bold'>Opdracht Omschrijving</h2>
       Voor doelstellingen 1.3, 1.4 en 7.4 hebben we als team, bestaande uit Wesley, Tom, César (ikzelf) en een andere medestudent, een BPMN-model (Business Process Model and Notation) uitgewerkt. We kozen ervoor om het transportproces van Defensie te modelleren, specifiek dat van 29Bn Logistiek. Dit proces werd van begin tot eind in kaart gebracht en visueel weergegeven met behulp van het programma Bizagi.
@@ -487,7 +487,7 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
     "7.4 Uitwerken van een businesscase in een ERP/CRM-pakket": {
       "type": ["app", "ai"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "BPMN vervangopdracht",
       "bewijs": `<h2 class='font-bold'>Opdracht Omschrijving</h2>
       Voor doelstellingen 1.3, 1.4 en 7.4 hebben we als team, bestaande uit Wesley, Tom, César (ikzelf) en een andere medestudent, een BPMN-model (Business Process Model and Notation) uitgewerkt. We kozen ervoor om het transportproces van Defensie te modelleren, specifiek dat van 29Bn Logistiek. Dit proces werd van begin tot eind in kaart gebracht en visueel weergegeven met behulp van het programma Bizagi.
