@@ -788,21 +788,21 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     "9.1 Installeren en configureren van webserver stacks": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Alexander Hensels",
       "project": "Linux Webservices",
       "bewijs": "<img src='assets/OPOs/linux-webservices.png' alt='Linux Webservices'>"
     },
     "9.2 Opzetten van container virtualisatie voor software": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Alexander Hensels",
       "project": "Linux Webservices",
       "bewijs": "<img src='assets/OPOs/linux-webservices.png' alt='Linux Webservices'>"
     },
     "9.3 Instellen en beschrijven van HTTPS en andere basic security building blocks": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Alexander Hensels",
       "project": "DevOps & Security - Routing & Switching",
       "bewijs": "<img src='assets/OPOs/devops-security.png' alt='DevOps & Security'><br><img src='assets/OPOs/switching-routing.png' alt='Switching, Routing and Wireless Essentials'>"
     },
@@ -823,7 +823,7 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     "9.6 Configureren en beschrijven van de DNS functionaliteiten in verschillende soorten netwerken": {
       "type": ["app", "ai", "ccs"],
       "status": "d",
-      "verified": "",
+      "verified": "Alexander Hensels",
       "project": "DevOps & Security & Routing and Switching",
       "bewijs": "<img src='assets/OPOs/devops-security.png' alt='DevOps & Security'><br><img src='assets/OPOs/switching-routing.png' alt='Switching, Routing and Wireless Essentials'>"
     },
