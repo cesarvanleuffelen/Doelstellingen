@@ -1233,7 +1233,7 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
   "17 ONDERNEMEN - Je houdt rekening met economische randvoorwaarden, relevante regelgeving, best practices en bewaakt de toepassing van het kwaliteitsbeleid van de organisatie.": {
     "17.1 Beschrijven en rekening houden met de relevante ITIL practices": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "ITIL vervangopdracht",
       "bewijs": `<h2 class='font-bold'>ITIL vervangopdracht</h2>
