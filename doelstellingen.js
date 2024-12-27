@@ -1236,7 +1236,11 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
       "status": "ip",
       "verified": "",
       "project": "ITIL vervangopdracht",
-      "bewijs": ""
+      "bewijs": `<h2 class='font-bold'>ITIL vervangopdracht</h2>
+      <p>Binnen Digital Innovation hebben we een vervang opdracht moeten maken voor ITIL. Deze opdracht bestond uit 2 delen. Deel 1 is het opstellen van een document waarin ik uitleg hoe ik binnen het project LABflow ben omgesprongen met change management. Dit document is onderaan toegevoegd in pdf vorm. Het 2de deel bestond uit het maken van een release van een project. Het project dat ik hier voor heb gekozen was MobiLAB. Hiernaar vindt u een link onderaan.</p>
+      <iframe src='assets/itil/ITIL_labflow_cesarvanleuffelen.pdf' width='100%' height='500px'></iframe>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2324-MOBI-012-Monitoringapplicatie-Web-App/releases/tag/v0.1.0-alpha'>link naar github release</a></p>
+      `
     },
     "17.2 Beschrijven en rekening houden met privacy en GDPR regelgeving": {
       "type": ["alles"],
