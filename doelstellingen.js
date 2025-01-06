@@ -414,10 +414,29 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
     },
     "6.2 Uitbouw en gebruik van continuous delivery / deployment": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "LABflow",
-      "bewijs": ""
+      "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Opleiding laboratorium technologieën</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>LabFlow is een innovatieve applicatie ontworpen voor het efficiënt beheren en opvolgen van laboratoriummonsters binnen de Biomedische Laboratoriumtechnologie. Deze tool ondersteunt studenten en professionals in het verwerken van verschillende soorten monsters, zoals bloed, huid en urine. De applicatie biedt essentiële functies voor monsterbeheer, waaronder het registreren van binnenkomende monsters, het genereren van barcodes voor snelle identificatie, het invoeren van analyseresultaten en het afdrukken van resultaten inclusief referentiewaarden voor eenvoudige interpretatie. Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat het uitwerken van gebruikersverhalen, het creëren van Figma-prototypes, en het maken van strategische keuzes rondom technologieën, zoals het bepalen van het platform (web of app), database-oplossingen en programmeertalen.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>september 2024 -> december 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Bij het maken van het project van LABflow vonden we het belangrijk dat wanneer er uitbreidingen moesten gebeuren op latere moment (zoals was aangehaald). Dat de studenten die dit zouden verder zetten, gewoon zouden kunnen verder bouwen en geen rekening hoeven te houden met andere zaken. Daarom hebben we gekozen om te kiezen voor een CI/CD op te stellen voor het project. Dit hebben we gedaan doormiddel van GitHub Actions (onderaan vindt u een link naar het yaml bestand). We zorgen in dit bestand dat we eerst een sonarQube check doen. Dit geeft ons een zicht op de code coverage op basis van de tests die we geschreven hebben. Als deze workflow gedaan heeft gaat de 'action' 2 jobs uitvoeren. De eerste job is om een docker image van de backend te maken. Wanneer dit gebeurd is gaan we deze doorsturen naar een docker hub account van het project zelf. Docker hub is een gratis container registery die we kunnen gebruiken om onze images op te slagen op de cloud. Wanneer dit succesvol is gaan we over naar de tweede job. Deze gaat doormiddel van een API (die render ons biedt) laten weten aan Render dat hij onze service opnieuw zal moeten opstarten. De Service is zo ingesteld dat hij telkens de image van docker hub gaat gebruiken met de tag ':latest'.</p>
+      <p><a target='_blank' href='https://github.com/NathanNeve/LabFlow/blob/main/.github/workflows/back-end-deployment.yml'>Actions YAML bestand</a></p>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow'>Github Repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/26'>Github projects bord backend</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/28'>Github projects bord frontend</a></p>
+      <p><a target='_blank' href='https://www.figma.com/proto/xAg0y5NWAde821meTFkhzX/Labflow-v1?page-id=1%3A2&node-id=77-1747&node-type=canvas&viewport=551%2C469%2C0.11&t=voxuzeR12VQjqFFp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=77%3A1747'>Figma</a></p>
+      <br>
+      `
     },
     "6.3 Opleveren van een container image, ondersteund door environment variables": {
       "type": ["alles"],
