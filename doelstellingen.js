@@ -803,7 +803,7 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
   "8 BOUWEN - Je test zowel alle deelaspecten van je oplossing als de integratie op werking, performantie en mogelijke zwakke punten.": {
     "8.1 Uitbouwen en gebruiken van unit & integration testing": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "Java Advanced & LABflow",
       "bewijs": `
@@ -1227,31 +1227,116 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
   "13 COMMUNICEREN - Je onderhoudt bestaande documentatie en stelt nieuwe documentatie op voor oplossingen en systemen, met aandacht voor het passende niveau van detail.": {
     "13.1 Documenteren van eigen gemaakte oplossingen": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "LABflow",
-      "bewijs": ""
+      "bewijs": `
+      <h1 class='text-lg font-bold'>LABflow<h1/>
+      <h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Opleiding laboratorium technologieën</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>LabFlow is een innovatieve applicatie ontworpen voor het efficiënt beheren en opvolgen van laboratoriummonsters binnen de Biomedische Laboratoriumtechnologie. Deze tool ondersteunt studenten en professionals in het verwerken van verschillende soorten monsters, zoals bloed, huid en urine. De applicatie biedt essentiële functies voor monsterbeheer, waaronder het registreren van binnenkomende monsters, het genereren van barcodes voor snelle identificatie, het invoeren van analyseresultaten en het afdrukken van resultaten inclusief referentiewaarden voor eenvoudige interpretatie. Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat het uitwerken van gebruikersverhalen, het creëren van Figma-prototypes, en het maken van strategische keuzes rondom technologieën, zoals het bepalen van het platform (web of app), database-oplossingen en programmeertalen.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>september 2024 -> december 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Tijdens het project van LABflow was er duidelijk gecommuniceerd dat er op een later moment nog een module zou bijkomen. Deze zou dan gemaakt moeten worden door een volgende generatie Digital Innovation studenten. Aangezien we ervoor wouden zorgen dat ze konden verder bouwen op ons project, hebben we gekozen om heel het project uitgebreid te documenteren. Zo hebben we records van eerste meetings met de klant over hun originele vraag, installatie handleidingen voor zowel ontwikkelaars als eind gebruikers en is heel de code gecommentarieërd om blokken code uit te leggen.
+      Onderaan vind je een link naar de map met alle documentatie in de github repository.
+      </p>
+      <p><a target='_blank' href='https://github.com/NathanNeve/LabFlow/tree/main/documents'>documentatie map</a></p>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow'>Github Repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/26'>Github projects bord backend</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/28'>Github projects bord frontend</a></p>
+      <p><a target='_blank' href='https://www.figma.com/proto/xAg0y5NWAde821meTFkhzX/Labflow-v1?page-id=1%3A2&node-id=77-1747&node-type=canvas&viewport=551%2C469%2C0.11&t=voxuzeR12VQjqFFp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=77%3A1747'>Figma</a></p>
+      <br>
+      `
     },
     "13.2 Aanpassen van bestaande documentatie": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "LABflow",
-      "bewijs": ""
+      "bewijs": `
+      <h1 class='text-lg font-bold'>LABflow<h1/>
+      <h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Opleiding laboratorium technologieën</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>LabFlow is een innovatieve applicatie ontworpen voor het efficiënt beheren en opvolgen van laboratoriummonsters binnen de Biomedische Laboratoriumtechnologie. Deze tool ondersteunt studenten en professionals in het verwerken van verschillende soorten monsters, zoals bloed, huid en urine. De applicatie biedt essentiële functies voor monsterbeheer, waaronder het registreren van binnenkomende monsters, het genereren van barcodes voor snelle identificatie, het invoeren van analyseresultaten en het afdrukken van resultaten inclusief referentiewaarden voor eenvoudige interpretatie. Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat het uitwerken van gebruikersverhalen, het creëren van Figma-prototypes, en het maken van strategische keuzes rondom technologieën, zoals het bepalen van het platform (web of app), database-oplossingen en programmeertalen.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>september 2024 -> december 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p></p>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow'>Github Repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/26'>Github projects bord backend</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/28'>Github projects bord frontend</a></p>
+      <p><a target='_blank' href='https://www.figma.com/proto/xAg0y5NWAde821meTFkhzX/Labflow-v1?page-id=1%3A2&node-id=77-1747&node-type=canvas&viewport=551%2C469%2C0.11&t=voxuzeR12VQjqFFp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=77%3A1747'>Figma</a></p>
+      <br>
+      `
     },
     "13.3 Opstellen van installatiehandleidingen": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "LABflow",
-      "bewijs": ""
+      "bewijs": `
+      <h1 class='text-lg font-bold'>LABflow<h1/>
+      <h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Opleiding laboratorium technologieën</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>LabFlow is een innovatieve applicatie ontworpen voor het efficiënt beheren en opvolgen van laboratoriummonsters binnen de Biomedische Laboratoriumtechnologie. Deze tool ondersteunt studenten en professionals in het verwerken van verschillende soorten monsters, zoals bloed, huid en urine. De applicatie biedt essentiële functies voor monsterbeheer, waaronder het registreren van binnenkomende monsters, het genereren van barcodes voor snelle identificatie, het invoeren van analyseresultaten en het afdrukken van resultaten inclusief referentiewaarden voor eenvoudige interpretatie. Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat het uitwerken van gebruikersverhalen, het creëren van Figma-prototypes, en het maken van strategische keuzes rondom technologieën, zoals het bepalen van het platform (web of app), database-oplossingen en programmeertalen.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>september 2024 -> december 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Voor LABflow is er een functionaliteit gemaakt waarmee je labels kan afdrukken om op test buisjes te plakken. Hiervoor moet je een klein programma downloaden op de host pc die voor communicatie moet zorgen tussen de printer en de pc via USB connectie. Dit stuk van de handleiding is gericht op onervaren ICT gebruikers zoals de laboranten. Daarom hebben we bewust rekening gehouden met onze woord keuze en voldoende gebruik gemaakt van afbeeldingen.</p>
+      <p><a target='_blank' href='https://github.com/NathanNeve/LabFlow/blob/main/documents/files/installation.md'>installatie handleiding (onderaan kijken)</a></p>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow'>Github Repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/26'>Github projects bord backend</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/28'>Github projects bord frontend</a></p>
+      <p><a target='_blank' href='https://www.figma.com/proto/xAg0y5NWAde821meTFkhzX/Labflow-v1?page-id=1%3A2&node-id=77-1747&node-type=canvas&viewport=551%2C469%2C0.11&t=voxuzeR12VQjqFFp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=77%3A1747'>Figma</a></p>
+      <br>
+      `
     },
     "13.4 Uitschrijven en aanpassen van testprocedures": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "LABflow",
-      "bewijs": ""
+      "bewijs": `
+      <h1 class='text-lg font-bold'>LABflow<h1/>
+      <h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Opleiding laboratorium technologieën</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>LabFlow is een innovatieve applicatie ontworpen voor het efficiënt beheren en opvolgen van laboratoriummonsters binnen de Biomedische Laboratoriumtechnologie. Deze tool ondersteunt studenten en professionals in het verwerken van verschillende soorten monsters, zoals bloed, huid en urine. De applicatie biedt essentiële functies voor monsterbeheer, waaronder het registreren van binnenkomende monsters, het genereren van barcodes voor snelle identificatie, het invoeren van analyseresultaten en het afdrukken van resultaten inclusief referentiewaarden voor eenvoudige interpretatie. Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat het uitwerken van gebruikersverhalen, het creëren van Figma-prototypes, en het maken van strategische keuzes rondom technologieën, zoals het bepalen van het platform (web of app), database-oplossingen en programmeertalen.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>september 2024 -> december 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Tijdens het LABflow project hebben we een aantal keer samen gezeten met de klant om feedback te ontvangen. Een van de laatste keren dat we zo'n moment organiseerden wouden we graag ook gebruikers feedback krijgen. Daarom hebben we een user test gedaan met de klant. Hier hebben we op voorhand vastgelegd welke senarios we wouden testen en volgens welke regels. Dit alles en onze bevinding hebben we gedocumenteerd in een document dat hieronder staat gelinkt.</p>
+      <p><a target='_blank' href='https://github.com/NathanNeve/LabFlow/blob/main/documents/meetings/user-testing-procedure_20112024.md'>user test procedure document</a></p>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow'>Github Repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/26'>Github projects bord backend</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/28'>Github projects bord frontend</a></p>
+      <p><a target='_blank' href='https://www.figma.com/proto/xAg0y5NWAde821meTFkhzX/Labflow-v1?page-id=1%3A2&node-id=77-1747&node-type=canvas&viewport=551%2C469%2C0.11&t=voxuzeR12VQjqFFp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=77%3A1747'>Figma</a></p>
+      <br>
+      `
     }
   },
   "14 COMMUNICEREN - Je leidt personen zowel individueel als in groep op en ondersteunt hen.": {
@@ -1345,8 +1430,36 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
       "type": ["alles"],
       "status": "d",
       "verified": "",
-      "project": "Security Essentials",
-      "bewijs": "<img src='assets/OPOs/security-essentials.png' alt='Security Essentials'>"
+      "project": "Security Essentials & LABflow",
+      "bewijs": `
+      <h1 class='text-lg font-bold'>Security Essentials<h1/>
+      <img src='assets/OPOs/security-essentials.png' alt='Security Essentials'>
+      <br>
+      <hr>
+      <br>
+      <h1 class='text-lg font-bold'>LABflow<h1/>
+      <h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Opleiding laboratorium technologieën</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>LabFlow is een innovatieve applicatie ontworpen voor het efficiënt beheren en opvolgen van laboratoriummonsters binnen de Biomedische Laboratoriumtechnologie. Deze tool ondersteunt studenten en professionals in het verwerken van verschillende soorten monsters, zoals bloed, huid en urine. De applicatie biedt essentiële functies voor monsterbeheer, waaronder het registreren van binnenkomende monsters, het genereren van barcodes voor snelle identificatie, het invoeren van analyseresultaten en het afdrukken van resultaten inclusief referentiewaarden voor eenvoudige interpretatie. Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat het uitwerken van gebruikersverhalen, het creëren van Figma-prototypes, en het maken van strategische keuzes rondom technologieën, zoals het bepalen van het platform (web of app), database-oplossingen en programmeertalen.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>september 2024 -> december 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>
+      Voor het project LABflow hebben we in de documentatie duidelijk uitgelegd welke data we gebruiken. Het grootste deel van de data die wordt op geslagen van bloedstalen (wat normaal erg confidentieel is) kan in onze applicatie niet naar echte personen worden teruggekoppeld. Dit leggen we uit samen met nog enkele andere zaken die we opslagen. Onderaan deze tekst vindt u een link naar het document dat de GDPR sectie bevat (helemaal onderaan).
+      </p>
+      <p><a target='_blank' href='https://github.com/NathanNeve/LabFlow/blob/main/documents/files/installation.md'>Document met Data verwerking alinea</a></p>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow'>Github Repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/26'>Github projects bord backend</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/28'>Github projects bord frontend</a></p>
+      <p><a target='_blank' href='https://www.figma.com/proto/xAg0y5NWAde821meTFkhzX/Labflow-v1?page-id=1%3A2&node-id=77-1747&node-type=canvas&viewport=551%2C469%2C0.11&t=voxuzeR12VQjqFFp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=77%3A1747'>Figma</a></p>
+      <br>
+      `
     },
     "17.3 Beschrijven en rekening houden met technische regelgeving": {
       "type": ["ccs", "iot"],
