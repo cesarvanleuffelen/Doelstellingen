@@ -447,17 +447,71 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
     },
     "6.4 Uitbouw en gebruik van continuous integration met testing": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
-      "project": "LABflow",
-      "bewijs": ""
+      "project": "Java Advanced & LABflow",
+      "bewijs": `
+      <h1 class='text-lg font-bold'>Java Advanced<h1/>
+      <img src='assets/OPOs/java-advanced.png' alt='grow more retrospective'/>
+      <br>
+      <hr>
+      <br>
+      <h1 class='text-lg font-bold'>LABflow<h1/>
+      <h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Opleiding laboratorium technologieën</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>LabFlow is een innovatieve applicatie ontworpen voor het efficiënt beheren en opvolgen van laboratoriummonsters binnen de Biomedische Laboratoriumtechnologie. Deze tool ondersteunt studenten en professionals in het verwerken van verschillende soorten monsters, zoals bloed, huid en urine. De applicatie biedt essentiële functies voor monsterbeheer, waaronder het registreren van binnenkomende monsters, het genereren van barcodes voor snelle identificatie, het invoeren van analyseresultaten en het afdrukken van resultaten inclusief referentiewaarden voor eenvoudige interpretatie. Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat het uitwerken van gebruikersverhalen, het creëren van Figma-prototypes, en het maken van strategische keuzes rondom technologieën, zoals het bepalen van het platform (web of app), database-oplossingen en programmeertalen.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>september 2024 -> december 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Voor het project LABflow hebben we gebruik gemaakt van SonarQube om een zicht te krijgen over de code coverage op basis van de geschreven testen. Dit is eerder toekomstgericht want de Unit Testen zijn momenteel enkel geschreven voor jwt functies te testen.</p>
+      <p><a target='_blank' href='https://github.com/NathanNeve/LabFlow/blob/main/.github/workflows/code-check.yml'>Actions YAML bestand</a></p>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow'>Github Repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/26'>Github projects bord backend</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/28'>Github projects bord frontend</a></p>
+      <p><a target='_blank' href='https://www.figma.com/proto/xAg0y5NWAde821meTFkhzX/Labflow-v1?page-id=1%3A2&node-id=77-1747&node-type=canvas&viewport=551%2C469%2C0.11&t=voxuzeR12VQjqFFp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=77%3A1747'>Figma</a></p>
+      <br>
+      `
     },
     "6.5 Opleveren van een artifact": {
       "type": ["app", "ai"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "LABflow",
-      "bewijs": ""
+      "bewijs": `
+      <h1 class='text-lg font-bold'>Java Advanced<h1/>
+      <img src='assets/OPOs/java-advanced.png' alt='grow more retrospective'/>
+      <br>
+      <hr>
+      <br>
+      <h1 class='text-lg font-bold'>LABflow<h1/>
+      <h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Opleiding laboratorium technologieën</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>LabFlow is een innovatieve applicatie ontworpen voor het efficiënt beheren en opvolgen van laboratoriummonsters binnen de Biomedische Laboratoriumtechnologie. Deze tool ondersteunt studenten en professionals in het verwerken van verschillende soorten monsters, zoals bloed, huid en urine. De applicatie biedt essentiële functies voor monsterbeheer, waaronder het registreren van binnenkomende monsters, het genereren van barcodes voor snelle identificatie, het invoeren van analyseresultaten en het afdrukken van resultaten inclusief referentiewaarden voor eenvoudige interpretatie. Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat het uitwerken van gebruikersverhalen, het creëren van Figma-prototypes, en het maken van strategische keuzes rondom technologieën, zoals het bepalen van het platform (web of app), database-oplossingen en programmeertalen.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>september 2024 -> december 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>
+      Op 12 december 2024 hebben we de applicatie van LABflow opgeleverd. Dit was een belangrijk moment voor mij en Nathan, omdat we na maanden van hard werken eindelijk het resultaat van onze inspanningen konden presenteren aan de opdrachtgever. Na een Semester van hard werken konden we onze volledige oplossing eindelijk tonen. Onderaan vindt u de presentatie die we hebben gegeven aan de opdrachtgever.
+      </p>
+      <p><a target='_blank' href='https://docs.google.com/presentation/d/1PllQ9WHyaHEvrqsmBkj2nUxPQpNhcI9HQj03cqLYBcQ/edit?usp=sharing'>presentatie oplevering</a></p>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href=''>Github Repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/26'>Github projects bord backend</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/28'>Github projects bord frontend</a></p>
+      <p><a target='_blank' href='https://www.figma.com/proto/xAg0y5NWAde821meTFkhzX/Labflow-v1?page-id=1%3A2&node-id=77-1747&node-type=canvas&viewport=551%2C469%2C0.11&t=voxuzeR12VQjqFFp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=77%3A1747'>Figma</a></p>
+      <br>
+      `
     },
     "6.6 Integreren van dashboards in bestaande applicaties": {
       "type": ["ai"],
@@ -751,8 +805,34 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
       "type": ["alles"],
       "status": "ip",
       "verified": "",
-      "project": "LABflow",
-      "bewijs": ""
+      "project": "Java Advanced & LABflow",
+      "bewijs": `
+      <h1 class='text-lg font-bold'>Java Advanced<h1/>
+      <img src='assets/OPOs/java-advanced.png' alt='grow more retrospective'/>
+      <br>
+      <hr>
+      <br>
+      <h1 class='text-lg font-bold'>LABflow<h1/>
+      <h2 class='font-bold'>Opdrachtgever</h2>
+      <p>Opleiding laboratorium technologieën</p>
+      <br>
+      <h2 class='font-bold'>Opdracht Omschrijving</h2>
+      <p>LabFlow is een innovatieve applicatie ontworpen voor het efficiënt beheren en opvolgen van laboratoriummonsters binnen de Biomedische Laboratoriumtechnologie. Deze tool ondersteunt studenten en professionals in het verwerken van verschillende soorten monsters, zoals bloed, huid en urine. De applicatie biedt essentiële functies voor monsterbeheer, waaronder het registreren van binnenkomende monsters, het genereren van barcodes voor snelle identificatie, het invoeren van analyseresultaten en het afdrukken van resultaten inclusief referentiewaarden voor eenvoudige interpretatie. Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat het uitwerken van gebruikersverhalen, het creëren van Figma-prototypes, en het maken van strategische keuzes rondom technologieën, zoals het bepalen van het platform (web of app), database-oplossingen en programmeertalen.</p>
+      <br>
+      <h2 class='font-bold'>Project Duur</h2>
+      <p>september 2024 -> december 2024</p>
+      <br>
+      <h2 class='font-bold'>Doelstelling</h2>
+      <p>Voor het project LABflow hebben we gebruik gemaakt van SonarQube om een zicht te krijgen over de code coverage op basis van de geschreven testen. Dit is eerder toekomstgericht want de Unit Testen zijn momenteel enkel geschreven voor jwt functies te testen.</p>
+      <p><a target='_blank' href='https://github.com/NathanNeve/LabFlow/blob/main/.github/workflows/code-check.yml'>Actions YAML bestand</a></p>
+      <br>
+      <h2 class='font-bold'>Relevante Links</h2>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow'>Github Repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/26'>Github projects bord backend</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/28'>Github projects bord frontend</a></p>
+      <p><a target='_blank' href='https://www.figma.com/proto/xAg0y5NWAde821meTFkhzX/Labflow-v1?page-id=1%3A2&node-id=77-1747&node-type=canvas&viewport=551%2C469%2C0.11&t=voxuzeR12VQjqFFp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=77%3A1747'>Figma</a></p>
+      <br>
+      `
     },
     "8.2 Uitbouwen en gebruiken van user testing": {
       "type": ["app", "ai"],
