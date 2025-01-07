@@ -481,7 +481,7 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
     "6.5 Opleveren van een artifact": {
       "type": ["app", "ai"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "LABflow",
       "bewijs": `
       <h1 class='text-lg font-bold'>Java Advanced<h1/>
@@ -1228,7 +1228,7 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
     "13.1 Documenteren van eigen gemaakte oplossingen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "LABflow",
       "bewijs": `
       <h1 class='text-lg font-bold'>LABflow<h1/>
@@ -1258,7 +1258,7 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
     "13.2 Aanpassen van bestaande documentatie": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "AR rondleiding",
       "bewijs": `
       <h1 class='text-lg font-bold'>AR rondleiding<h1/>
@@ -1287,7 +1287,7 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
     "13.3 Opstellen van installatiehandleidingen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "LABflow",
       "bewijs": `
       <h1 class='text-lg font-bold'>LABflow<h1/>
@@ -1315,7 +1315,7 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
     "13.4 Uitschrijven en aanpassen van testprocedures": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "LABflow",
       "bewijs": `
       <h1 class='text-lg font-bold'>LABflow<h1/>
@@ -1576,7 +1576,7 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
     "20.2 Zich correct opstellen in een conflictsituatie": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "BIP Estland - Star methode",
       "bewijs": `Tijdens de reis naar Estland voor het blended intensive program met enkele andere Digital Innovation studenten heb ik een klein conflict gehad met een andere student. Vanwege de aard van dit voorval en informatie die niet openbaar op het internet hoort te staan, stel ik deze informatie niet publiekelijk beschikbaar. Als u dit wilt controleren kan u contact opnemen met me op <a href='mailto:cesar_vl@icloud.com'>cesar_vl@icloud.com</a>.`
     },
@@ -1634,7 +1634,7 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
     "21.3 Opstellen en volgen van een formeel remediëringsplan": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "Professional Skills 2",
       "bewijs": "<img src='assets/OPOs/professional-skills.png' alt='Professional Skills'>"
     },
