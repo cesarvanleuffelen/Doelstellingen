@@ -615,7 +615,7 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
       <br>
       <h2 class='font-bold'>Doelstelling</h2>
       <p>Tijdens de 2de fase van het project waar we bepaalde tools gingen onderzoeken, heb ik mij bezig gehouden met het analyseren van een tool genaamd PyCaret. Dit is een end-to-end machine learning framework. PyCaret kan ons helpen bij het analyseren van data, het kiezen van modellen tot aan het opzetten van een api en het deployen ervan. Onderaan kan je een pdf terugvinden van mijn onderzoek naar PyCaret samen met alle mogelijke toepassingen ervan die wij kunnen gebruiken tijdens ons project.</p>
-      <iframe src='assets/project_4-0/pycaret.pdf' width='100%' height='500px'></iframe>
+      <iframe src='assets/project_4-0/Machine_learning_project40.pdf' width='100%' height='500px'></iframe>
       <br>
       <br>
       `
