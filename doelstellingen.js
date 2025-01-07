@@ -1259,26 +1259,28 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
       "type": ["alles"],
       "status": "d",
       "verified": "",
-      "project": "LABflow",
+      "project": "AR rondleiding",
       "bewijs": `
-      <h1 class='text-lg font-bold'>LABflow<h1/>
+      <h1 class='text-lg font-bold'>AR rondleiding<h1/>
       <h2 class='font-bold'>Opdrachtgever</h2>
-      <p>Opleiding laboratorium technologieën</p>
+      <p>Michael Cloots & Sarah Moeremans (docenten IT-Factory)</p>
       <br>
       <h2 class='font-bold'>Opdracht Omschrijving</h2>
-      <p>LabFlow is een innovatieve applicatie ontworpen voor het efficiënt beheren en opvolgen van laboratoriummonsters binnen de Biomedische Laboratoriumtechnologie. Deze tool ondersteunt studenten en professionals in het verwerken van verschillende soorten monsters, zoals bloed, huid en urine. De applicatie biedt essentiële functies voor monsterbeheer, waaronder het registreren van binnenkomende monsters, het genereren van barcodes voor snelle identificatie, het invoeren van analyseresultaten en het afdrukken van resultaten inclusief referentiewaarden voor eenvoudige interpretatie. Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat het uitwerken van gebruikersverhalen, het creëren van Figma-prototypes, en het maken van strategische keuzes rondom technologieën, zoals het bepalen van het platform (web of app), database-oplossingen en programmeertalen.</p>
+      <p>Dit project heeft als doel een Proof of Concept (PoC) te ontwikkelen voor een AR-gebaseerde campusrondleiding op de Geelse campus van Thomas More. Deze AR-rondleiding is specifiek gericht op nieuwe, vaak buitenlandse, studenten en docenten en moet hen helpen om op een leuke en interactieve manier de campus en zijn bijzondere locaties te verkennen. De bedoeling is dat deze PoC Thomas More's management overtuigt om een budget toe te kennen voor verdere ontwikkeling en productielancering van de applicatie.</p>
       <br>
       <h2 class='font-bold'>Project Duur</h2>
-      <p>september 2024 -> december 2024</p>
+      <p>Mei 2024 -> December 2024</p>
       <br>
       <h2 class='font-bold'>Doelstelling</h2>
-      <p></p>
+      <p>
+      We zijn met het rondleiding applicatie project in het 2de semester van schooljaar 2023-2024 al gestart. We zijn toen gestart met het maken van de applicatie maar door verschillende moeilijkheden met technologieën zijn we een paar keer veranderd van technologie. Telkens we een technologie kozen hadden we dit gedocumenteerd! Op het einde van de rit hebben we toch gekozen voor Unity, Vuforia en Flutter combo. Dit was de beste keuze voor ons project. We hebben dan ook nogmaals de documentatie aangepast en de oude documentatie verwijderd. Onderaan vind je een link naar het document waar dit staat.
+      </p>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2324-ITF-001-AR-rondleiding/blob/dev/README.md'>Github Repository Readme</a></p>
       <br>
       <h2 class='font-bold'>Relevante Links</h2>
-      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2425-TM_BLC-001-LabFlow'>Github Repository</a></p>
-      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/26'>Github projects bord backend</a></p>
-      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/28'>Github projects bord frontend</a></p>
-      <p><a target='_blank' href='https://www.figma.com/proto/xAg0y5NWAde821meTFkhzX/Labflow-v1?page-id=1%3A2&node-id=77-1747&node-type=canvas&viewport=551%2C469%2C0.11&t=voxuzeR12VQjqFFp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=77%3A1747'>Figma</a></p>
+      <p><a target='_blank' href='https://github.com/Thomas-More-Digital-Innovation/2324-ITF-001-AR-rondleiding'>Github Repository</a></p>
+      <p><a target='_blank' href='https://github.com/orgs/Thomas-More-Digital-Innovation/projects/32'>Github projects bord</a></p>
+      <p><a target='_blank' href='https://www.figma.com/proto/UZpcV1O9jElgpOnIFi0qLN/AR-rondleiding?node-id=1-3&node-type=canvas&t=7P155X0g0wTNaelZ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3'>Figma</a></p>
       <br>
       `
     },
