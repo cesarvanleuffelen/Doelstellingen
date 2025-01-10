@@ -213,14 +213,14 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
     "4.2 Opdelen van een conceptuele totaaloplossing in kleinere items of deeloplossingen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Requirements Analysis",
       "bewijs": `<img src='assets/OPOs/requirements-analysis.png' alt='requirements analysis'/>`
     },
     "4.3 Ontwerpen van een proof-of-concept met aandacht voor een zo accuraat mogelijke reflectie van de reële oplossing": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Requirements Analysis",
       "bewijs": `<img src='assets/OPOs/requirements-analysis.png' alt='requirements analysis'/>`
     },
@@ -1375,7 +1375,7 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
     "15.3 Als intrapreneur verantwoordelijkheid en eigenaarschap opnemen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "MobiLab",
       "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
       <p>Mobilab & care (onderzoeksgroep Thomas More)</p>
