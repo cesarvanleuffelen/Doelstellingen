@@ -234,7 +234,7 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
     "4.5 Onderbouwd gebruik maken van design patterns": {
       "type": ["app", "ai"],
       "status": "d",
-      "verified": "",
+      "verified": "Vince",
       "project": "Java Advanced",
       "bewijs": "<img src='assets/OPOs/java-advanced.png' alt='Java Advanced'>"
     },
@@ -539,14 +539,14 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
     "7.1 Bouwen van REST API's met een modern framework": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Vince",
       "project": "Java Advanced",
       "bewijs": "<img src='assets/OPOs/java-advanced.png' alt='Java Advanced'>"
     },
     "7.2 Gebruiken van een ORM framework": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Vince",
       "project": "Web Applications in PHP",
       "bewijs": "<img src='assets/OPOs/web-applicaties-in-php.png' alt='Web Applications in PHP'>"
     },
@@ -1022,7 +1022,7 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     "10.3 Rekening houden met en faciliteren van de toekomstige aanpasbaarheid van applicaties": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Vince",
       "project": "LABflow",
       "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
       <p>Opleiding laboratorium technologieën</p>
@@ -1093,7 +1093,7 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     "11.1 Troubleshooten en aanpassen van bestaande software": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Vince",
       "project": "MobiLab",
       "bewijs": `<h1 class='text-lg font-bold'>MobiLab<h1/>
       <h2 class='font-bold'>Opdrachtgever</h2>
