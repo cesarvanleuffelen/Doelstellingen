@@ -415,7 +415,7 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
     "6.2 Uitbouw en gebruik van continuous delivery / deployment": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Alexander",
       "project": "LABflow",
       "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
       <p>Opleiding laboratorium technologieën</p>
@@ -441,7 +441,7 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
     "6.3 Opleveren van een container image, ondersteund door environment variables": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Alexander",
       "project": "Linux Webservices",
       "bewijs": "<img src='assets/OPOs/linux-webservices.png' alt='Linux Webservices'>"
     },
@@ -1431,7 +1431,7 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
     "17.2 Beschrijven en rekening houden met privacy en GDPR regelgeving": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Alexander",
       "project": "Security Essentials & LABflow",
       "bewijs": `
       <h1 class='text-lg font-bold'>Security Essentials<h1/>
@@ -1641,7 +1641,7 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
     "21.4 Tonen van een permanente IT security awareness tijdens het werken": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Alexander",
       "project": "LABflow",
       "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
       <p>Opleiding laboratorium technologieën</p>
