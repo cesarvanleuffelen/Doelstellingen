@@ -1167,8 +1167,9 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
       "type": ["alles"],
       "status": "d",
       "verified": "",
-      "project": "Professional Skills 2",
-      "bewijs": `<img src='assets/OPOs/professional-skills.png' alt='Professional Skills'>`
+      "project": "Professional Skills 2 & job carousel",
+      "bewijs": `<p><img src='assets/OPOs/professional-skills.png' alt='Professional Skills'></p>
+      <p><img src='assets/jobcarousel/excel.png' alt='job carousel excel'></p>`
     },
     "12.4 Interviewen van een klant of opdrachtgever en dit documenteren": {
       "type": ["alles"],
