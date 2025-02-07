@@ -150,10 +150,10 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
     },
     "3.5 Selecteren van de meest geschikte datavisualisaties voor beheer en beslissingsondersteuning": {
       "type": ["app", "ai", "iot"],
-      "status": "d",
+      "status": "",
       "verified": "",
-      "project": "MobiLab",
-      "bewijs": "Tijdens het project voor MobiLab & Care waar we een mobiele applicatie en online webportaal bouwden voor het helpen revalideren van mensen, stond ik in voor ondermeer in voor het ontwerpen en designen van het dashboard. Ik heb natuurlijk geen kennes van wat een dokter allemaal moet weten voor een patiënt correct te kunnen opvolgen. Daarom zijn we met enkele studenten gaan praten met de mensen van MobiLab & Care om te bespreken wat een dokter allemaal echt nodig zou hebben. Het belangrijkste voor een dokter om te weten is vooral de vooruitgang van de patiënt en hoevaak de patiënt oefeningen doet. Met deze informatie ben ik dan aan de slag gegaan en heb ik gekozen om volgende grafieken in het dashboard weer te geven: een KPI voor de maximum behaalde hoek (tot nu toe), een lijndiagram om de progressie van de maximum hoek te zien over tijd, een staafdiagram voor de hoeveel oefeningen per dag een patiënt doet en als laatste nog een lijndiagram voor de hoeveelheid tijd een patiënt nodig heeft om een oefening te voltooien. Deze grafieken staan in een mooie interface <br><img src='assets/3.5/dashboard_mobi.jpg' alt='mobilab dashboard'> <br> <a  href='https://github.com/Thomas-More-Digital-Innovation/2324-MOBI-012-Monitoringapplicatie-Web-App/blob/main/code/monitoringapplicatie_web_app/lib/pages/web_dashboard_page.dart' target='_blank'>Link naar Github</a>"
+      "project": "vervangopdracht datavisualatie",
+      "bewijs": ""
     },
     "3.6 Onderbouwd selecteren van IoT protocollen en componenten": {
       "type": ["iot"],
@@ -577,7 +577,7 @@ Hoewel we het model zelf niet online hebben gedeeld vanwege confidentiële infor
       "type": ["app", "ai"],
       "status": "d",
       "verified": "",
-      "project": "Race to the Future",
+      "project": "Race to the Future & project 4.0",
       "bewijs": `
       <h1 class='text-lg font-bold'>Race to the Future<h1/>
       <h2 class='font-bold'>Opdrachtgever</h2>
