@@ -150,7 +150,7 @@ Dit project bevat zowel technische als ontwerpgerichte componenten. Dit omvat he
     },
     "3.5 Selecteren van de meest geschikte datavisualisaties voor beheer en beslissingsondersteuning": {
       "type": ["app", "ai", "iot"],
-      "status": "",
+      "status": "ip",
       "verified": "",
       "project": "vervangopdracht datavisualatie",
       "bewijs": ""
