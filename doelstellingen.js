@@ -576,7 +576,7 @@ Hoewel we het model zelf niet online hebben gedeeld vanwege confidentiële infor
     "7.5 Toepassen van machine learning algoritmen": {
       "type": ["app", "ai"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram Heyns",
       "project": "Race to the Future & project 4.0",
       "bewijs": `
       <h1 class='text-lg font-bold'>Race to the Future<h1/>
