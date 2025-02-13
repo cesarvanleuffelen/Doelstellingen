@@ -448,7 +448,7 @@ Het project bevordert zo zowel technische expertise als maatschappelijke inclusi
     "6.4 Uitbouw en gebruik van continuous integration met testing": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram Heyns",
       "project": "Java Advanced & LABflow",
       "bewijs": `
       <h1 class='text-lg font-bold'>Java Advanced<h1/>
