@@ -804,7 +804,7 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     "8.1 Uitbouwen en gebruiken van unit & integration testing": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram Heyns",
       "project": "Java Advanced & LABflow",
       "bewijs": `
       <h1 class='text-lg font-bold'>Java Advanced<h1/>
@@ -837,7 +837,7 @@ Dankzij DonkeyCar konden we eenvoudig een model trainen met 110.000 afbeeldingen
     "8.2 Uitbouwen en gebruiken van user testing": {
       "type": ["app", "ai"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram Heyns",
       "project": "LABflow",
       "bewijs": `<h2 class='font-bold'>Opdrachtgever</h2>
       <p>Opleiding laboratorium technologieën</p>
